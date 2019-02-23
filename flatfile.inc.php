@@ -36,6 +36,7 @@ date_default_timezone_set('Europe/Athens'); //added to avoid PHP warning for dat
 # Zip,STRING,8
 # Active,LOGICAL,1,Y:N
 # Comments,TEXT,30:2
+# title,LOGICAL,1,YES:NO
 # website,LINK,30
 # --> $structure_file
 ######################################################################################
