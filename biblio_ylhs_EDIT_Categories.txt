@@ -99,7 +99,7 @@ suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 
 ironstart ""$SWFlocal"pack_A02.html "$SWFlocal"pack_A01.html"
 
-|_||_|######## HourOfCode ###########
+|_||_|######## HourOfCode 6-9 μαθήματα ###########
 ^ST1|_|25+|_|ΠΟΛΛΑ ΜΑΖΙ (τελος χρονιάς)ΣΤ1  https://studio.code.org/hoc/1 (angry birds - τους αρεσε) , (ΣΤ2 -ΠΑΡΑΣΚΕΥΗ ΔΕΝ ΕΓΙΝΕ ΜΑΘΗΜΑ)|_|ΠΕΜΠΤΗ,
 
 
@@ -112,10 +112,6 @@ ironstart ""$SWFlocal"pack_A02.html "$SWFlocal"pack_A01.html"
 ^Γ^Δ^E^ST|_|20181110-1130|_|ironstart "https://studio.code.org/s/course1/stage/12/puzzle/2 "$SWFlocal"pack_A03.html"|_|(12. Επαναλαμβανόμαστε,13. Λαβύρινθος angry-birds: Επαναλήψεις)  (stage11 αγγλικά μόνο)
 ^Γ^Δ^E^ST|_|20181102-1122|_|ironstart "https://studio.code.org/s/course1/stage/14/puzzle/1 "$SWFlocal"pack_A01.html"|_|(14. Μέλισσα: Επαναλήψεις)
 ^Γ^Δ^E^ST|_|20181102-1214|_|ironstart "https://studio.code.org/s/course1/stage/15/puzzle/2 "$SWFlocal"pack_A02.html"|_|ΔΥΣΚΟΛΑ (15. Το Μεγάλο Γεγονός , 16. Εργαστήρι Παιχνιδιού: Δημιουρ)
-
-
-
-
 
 
 
@@ -133,37 +129,16 @@ ironstart ""$SWFlocal"pack_A02.html "$SWFlocal"pack_A01.html"
 
 
 |_||_|######## Word 1,2,3 ###########
-^Δ|_|20190115|_|Δ2: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock),(δεν προλάβαμε -frogger3d.swf) ,  Δ1: AskiseisWord/Για Πληκτρολόγηση.doc ,frogger3d.swf|_|ΤΡΙΤΗ
-^E|_|20190115|_|Ε1: AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock),frogger3d.swf Ε2: AskiseisWord/Για Πληκτρολόγηση.doc ,frogger3d.swf|_|ΤΡΙΤΗ
-^Γ2|_|20190116|_|Γ2: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock)|_|ΤΕΤΑΡΤΗ
-^Δ|_|20190116|_|Δ2: Asfaleia internet (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock),(δεν προλάβαμε -frogger3d.swf) ,  Δ1: Asfaleia internet , AskiseisWord/Για Πληκτρολόγηση.doc ,frogger3d.swf|_|ΠΕΜΠΤΗ
-^Γ1|_|20190116|_|Γ1: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock)|_|ΠΕΜΠΤΗ
-^ST1|_|20190116|_|ΣΤ1: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock) Κάποιοι το γράψαν όλο το κείμενο|_|ΠΕΜΠΤΗ
-^E2|_|20190116|_|E2: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock)|_|ΠΕΜΠΤΗ
-^ST2|_|20190117|_|ΣΤ2: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock)|_|ΠΑΡΑΣΚΕΥΗ
-^E1|_|20190117|_|Ε1: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock)|_|ΠΑΡΑΣΚΕΥΗ
-^Γ|_|20190120|_|Γ1: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock)  , Γ1: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock)|_|ΔΕΥΤΕΡΑ
-^ST|_|20190120|_|ΣΤ2: AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock) το εγραψαν ολο 3 ) , ΣΤ1 : (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock)|_|ΔΕΥΤΕΡΑ
-^Δ|_|20190121|_|Δ2:  OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc (2 σειρές ,shift,enter,backspace caps lock) ,  Δ1: (2 αγορια ηταν αργα)$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc"|_|ΤΡΙΤΗ
-^E|_|20190121|_|Ε1:  OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc (2 σειρές ,shift,enter,backspace caps lock)  , E2: OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc|_|ΤΡΙΤΗ
-^Γ2|_|20190122|_|Γ2:  OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc (2 σειρές ,shift,enter,backspace caps lock)|_|ΤΕΤΑΡΤΗ
-^Δ|_|20190124|_|Δ2: OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc (ο Άγγελος δεν εγραψε τ'ιποτα) ,  Δ1: OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc|_|ΠΕΜΠΤΗ
-^Γ1|_|20190124|_|Γ1: OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc|_|ΠΕΜΠΤΗ
-^ST1|_|20190124|_|ΣΤ1: OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc|_|ΠΕΜΠΤΗ
-^E2|_|20190124|_|Ε2: EΛΕΙΠΑΝ πολλοί Να το κάνω αλλη εβδομάδα (έβαλα το b.html)OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc|_|ΠΕΜΠΤΗ
-^A2|_|20190125|_|A2 : $SWFlocal"pack_A01.html  , (καλή ζωγραφική. Να το βάζω στην 6η θεση)|_|ΠΑΡΑΣΚΕΥΗ
-^ST2|_|20190125|_|ΣΤ2: OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc|_|ΠΑΡΑΣΚΕΥΗ
-^Δ|_|20190130|_|Δ2: OFFICE_extra_files/pliktrologisi_j02.2_antigrafi_didaktiko_yliko.doc (ο Άγγελος δεν εγραψε τ'ιποτα) ,  Δ1: OFFICE_extra_files/pliktrologisi_j02.2_antigrafi_didaktiko_yliko.doc|_|ΠΕΜΠΤΗ
-^Γ1|_|20190131|_|Γ1: OFFICE_extra_files/pliktrologisi_j02.2_antigrafi_didaktiko_yliko.doc|_|ΠΕΜΠΤΗ
-^ST1|_|20190131|_|ΣΤ1: OFFICE_extra_files/pliktrologisi_j02.2_antigrafi_didaktiko_yliko.doc|_|ΠΕΜΠΤΗ
-^E2|_|20190131|_|Ε2: OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc|_|ΠΕΜΠΤΗ
-^ST2|_|20190201|_|oookidsopen "OFFICE_extra_files/pliktrologisi_j01.1_antigrafi_stratigiki_ekmathisis.doc"  τελείωσαν γρήγορα pack_A02.html|_|ΠΑΡΑΣΚΕΥΗ
-^E1|_|20190201|_|oookidsopen "OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc"|_|ΠΑΡΑΣΚΕΥΗ
+
+^Γ^Δ^E^ST|_|20190115-20|_|word01 AskiseisWord/Για Πληκτρολόγηση.doc ,(frogger3d.swf)|_|(2-2 σειρές καθένας,shift,enter,backspace caps lock)
+^Γ^Δ^E^ST|_|20190121-0201|_|word02  $OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc"  |_|(2-2 σειρές καθένας ,shift,enter,backspace caps lock)
+^Γ^Δ^E^ST|_|20190130-0131|_|word03 $OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/pliktrologisi_j02.2_antigrafi_didaktiko_yliko.doc"|_|
+
+
+^Γ^Δ^E^ST|_|20190130-0131|_|word05 $OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/pliktrologisi_j03.5_kremala_paint.doc"|_|
 
 
 
-
-|_||_|######## PARKING ###########
 
 
 |_||_|######## giortes xmas 1###########
@@ -172,11 +147,12 @@ ironstart ""$SWFlocal"pack_A02.html "$SWFlocal"pack_A01.html"
 
 
 |_||_|######## giortes xmas 2###########
-^ST2|_|20181214|_|christmas games Mono, code.org από Ιανουαριο|_|ΠΑΡΑΣΚΕΥΗ
-^E1|_|20181214|_|christmas games Mono, code.org από Ιανουαριο|_|ΠΑΡΑΣΚΕΥΗ
+^A^B^Γ^Δ^E^ST|_|20181214|_|ironstartincognito ""$SWFgiortes"index_xmas.html"|_| 2-3 μαθήματα (μετά τέλος ασκήσεων)
+
 
 
 |_||_|######## giortes xmas 3 after ###########
+
 |_|20190108|_|15o tuxpaint : βασιλόπιτα, χριστουγ εικόνα  ^A, ^Δ1,^Δ2,  ^Ε1,^Ε2,^B1,^B2|_|ΤΡΙΤΗ, ΤΕΤΑΡΤΗ,ΔΕΥΤΕΡΑ  όλες  οι τάξεις 15ο Δημοτικό
 |_|20190109|_|10o tuxpaint : βασιλόπιτα, χριστουγ εικόνα  ^Γ2 ,^Α1 ,^Δ2,^Γ1,^ΣΤ1,^Ε2,^Α2, ^ΣΤ2,^Ε1,^Β|_|ΤΕΤΑΡΤΗ , ΠΕΜΠΤΗ ΠΑΡΑΣΚΕΥΗ
 
@@ -200,7 +176,7 @@ ironstart ""$SWFlocal"pack_A02.html "$SWFlocal"pack_A01.html"
 |_||_|######## giortes easter 2 ###########
 
 |_||_|######## giortes easter 3 ###########
-
+^A^B^Γ^Δ^E^ST|_|20181214|_|ironstartincognito ""$SWFgiortes"index_easter.html"|_|2-3 μαθήματα (μετά τέλος ασκήσεων)
 
 
 |_||_|######## coding 1 lightbotjs 1###########
