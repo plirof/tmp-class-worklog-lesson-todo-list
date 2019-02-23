@@ -97,65 +97,26 @@ suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 
 
 
-
+ironstart ""$SWFlocal"pack_A02.html "$SWFlocal"pack_A01.html"
 
 |_||_|######## HourOfCode ###########
 ^ST1|_|25+|_|ΠΟΛΛΑ ΜΑΖΙ (τελος χρονιάς)ΣΤ1  https://studio.code.org/hoc/1 (angry birds - τους αρεσε) , (ΣΤ2 -ΠΑΡΑΣΚΕΥΗ ΔΕΝ ΕΓΙΝΕ ΜΑΘΗΜΑ)|_|ΠΕΜΠΤΗ,
-^A^B^Γ^Δ^E^ST|_|20181031|_|https://studio.code.org/s/course1 ,https://studio.code.org/s/course1/stage/3/puzzle/1  |_|(1. Χαρούμενοι Χάρτες , 2. Κούνισέ το, Κούνισέ το , 3. Παζλ: Μάθε την μεταφορά και )
-^Γ^Δ^E^ST|_|20181031|_|https://studio.code.org/s/course1/stage/4/puzzle/1 Λαβύρινθος: Ακολουθία|_|ΠΕΜΠΤΗ
-^Γ^Δ^E^ST|_|20181031|_|https://studio.code.org/s/course1/stage/5/puzzle/1 Λαβύρινθο: εντοπισμός σφαλμ|_|ΠΕΜΠΤΗ
-^Γ^Δ^E^ST|_|20181102|_|https://studio.code.org/s/course1/stage/7/puzzle/1 (melisses)   , airtyper|_|ΠΑΡΑΣΚΕΥΗ
-^Γ^Δ^E^ST|_|20181102|_|https://studio.code.org/s/course1/stage/8/puzzle/1 (Καλλιτέχνης: Ακολουθία)   , airtyper|_|ΠΑΡΑΣΚΕΥΗ
-^Γ^Δ^E^ST|_|20181102|_|https://studio.code.org/s/course1/stage/10/puzzle/1 (Καλλιτέχνης: Σχήματα)   , airtyper|_|ΠΑΡΑΣΚΕΥΗ
-^Γ^Δ^E^ST|_|20181102|_|https://studio.code.org/s/course1/stage/12/puzzle/2 (12. Επαναλαμβανόμαστε,13. Λαβύρινθος: Επαναλήψεις)  (stage11 αγγλικά μόνο) , airtyper|_|ΠΑΡΑΣΚΕΥΗ
-^Γ^Δ^E^ST|_|20181102|_|https://studio.code.org/s/course1/stage/14/puzzle/1 (14. Μέλισσα: Επαναλήψεις)  (stage11 αγγλικά μόνο) , airtyper|_|ΠΑΡΑΣΚΕΥΗ
 
-^Γ|_|20181105|_|Γ1 https://studio.code.org/s/course1  ,Γ1:  https://studio.code.org/s/course1/stage/5/puzzle/5   ,  Γ2: https://studio.code.org/s/course1/stage/5/puzzle/5|_|ΔΕΥΤΕΡΑ
-^ST|_|20181105|_|ST2 https://studio.code.org/s/course1  , ΣΤ2:  ως melisses https://studio.code.org/s/course1/stage/7/puzzle/1  ,st1:https://studio.code.org/s/course1/stage/5/puzzle/6|_|ΔΕΥΤΕΡΑ
-^Δ|_|20181106|_|Δ https://studio.code.org/s/course1  ,Δ2:  https://studio.code.org/s/course1/stage/4/puzzle/10   ,  Δ1: Δεν έγινε μάθημα|_|ΤΡΙΤΗ (Δ1: εχασε το μάθημα)
-^E|_|20181106|_|Ε https://studio.code.org/s/course1  ,Ε1:  ως melisses https://studio.code.org/s/course1/stage/7/puzzle/1  & labrat ,  Ε2: https://studio.code.org/s/course1/stage/4/puzzle/15 ,labrat|_|ΤΡΙΤΗ
-^Γ|_|20181112|_|συνέχεια Γ1: ως kallitexnis1 https://studio.code.org/s/course1/stage/8/puzzle/1 , Γ2: ως https://studio.code.org/s/course1/stage/7/puzzle/9|_|ΔΕΥΤΕΡΑ
-^ST|_|20181112|_|συνέχεια ΣΤ2: ως kallitexnis2 https://studio.code.org/s/course1/stage/10/puzzle/1 ,  st1:ως kallitexnis1 (καποιοι μειναν πίσω)https://studio.code.org/s/course1/stage/8/puzzle/1|_|ΔΕΥΤΕΡΑ
-^Δ|_|20181113|_|Δ2:ως  https://studio.code.org/s/course1/stage/5/puzzle/1  , Δ1 :ως https://studio.code.org/s/course1/stage/4/puzzle/10|_|ΤΡΙΤΗ
-^E|_|20181113|_|Ε1:  ως kallitexni1 https://studio.code.org/s/course1/stage/8/puzzle/1  & ,  Ε2:  ως melisses https://studio.code.org/s/course1/stage/7/puzzle/10  ,labrat|_|ΤΡΙΤΗ
-^Γ2|_|20181114|_|Γ2: https://studio.code.org/s/course1/stage/5/puzzle/5|_|Γ2 ΤΕΤΑΡΤΗ
-^Δ|_|20181115|_|Δ2 :  ως melisses https://studio.code.org/s/course1/stage/7/puzzle/10  , Δ1: ως melisses https://studio.code.org/s/course1/stage/7/puzzle/10  , mickey,airtyper  , typeroids_(rapidtyping.com).swf|_|ΠΕΜΠΤΗ
-^ST1|_|20181115|_|ΣΤ1: ως melisses https://studio.code.org/s/course1/stage/7/puzzle/1 ,mickey mouse ,blooddefence , -ΣΤ2 (ΑΡΓΙΑ ΠΑΡΑΣΚ 17 ΝΟΕ)|_|ΠΕΜΠΤΗ
-^E2|_|20181115|_|Ε2: ftasan ως melisses https://studio.code.org/s/course1/stage/7/puzzle/1 ,bloons2 ,defend your honor ,Ε1 (ΑΡΓΙΑ ΠΑΡΑΣΚ 17 ΝΟΕ)|_|ΠΕΜΠΤΗ
-^Γ1|_|20181115|_|Γ1: kanan ως kallitexni1 https://studio.code.org/s/course1/stage/8/puzzle/1  , mickey (to barethikan)|_|ΠΕΜΠΤΗ
-^Γ|_|20181119|_|Γ1: ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 , Γ2: kallitexni2-skin10 https://studio.code.org/s/course1/stage/10/puzzle/1|_|ΔΕΥΤΕΡΑ
-^ST|_|20181119|_|ΣΤ2: ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1  , st1:ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1|_|ΔΕΥΤΕΡΑ
-^Δ|_|20181119|_|Δ2: ως kallitexni1 https://studio.code.org/s/course1/stage/8/puzzle/1 , Δ1 :ως melisses https://studio.code.org/s/course1/stage/7/puzzle/10|_|ΤΡΙΤΗ ΣΥΝΕΧΕΙΑ ΑΠΟ
-^E|_|20181119|_|Ε1: ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 & tortuga.sxoleio.tk (σπίτι) , Ε2: ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1|_|ΤΡΙΤΗ
-^Γ2|_|20181121|_|Γ2: ως melisses https://studio.code.org/s/course1/stage/7/puzzle/9 (kapoioi meinan pisw)  , labrat|_|ΤΕΤΑΡΤΗ
-^Δ|_|20181122|_|Δ2:ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 (tortuga.sxoleio.tk) (aggelos ως kallitexnis2: https://studio.code.org/s/course1/stage/10/puzzle/1) , Δ1:ως kallitexnis2: https://studio.code.org/s/course1/stage/10/puzzle/3 (tortuga.sxoleio.tk σε μερικουσ)|_|ΠΕΜΠΤΗ
-^Γ1|_|20181122|_|Γ1:ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 , tortuga.dimotiko.tk -ΠΟΛΥΚΑΤΟΙΚΙΑ(σε όλους)|_|ΠΕΜΠΤΗ
-^ST1|_|20181122|_|ΣΤ1 : ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1  (tortuga.dimotiko.tk se oloys - spiti)|_|ΠΕΜΠΤΗ
-^E2|_|20181122|_|Ε2:ως kallitexnis1: https://studio.code.org/s/course1/stage/8/puzzle/1|_|ΠΕΜΠΤΗ ΣΥΝΕΧΕΙΑ ΑΠΟ
-^Γ|_|20181126|_|Γ1: ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/1 , Γ2: ως repeat angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1   (se oloys tortuga.dimotiko.tk)|_|ΔΕΥΤΕΡΑ
-^ST|_|20181126|_|ΣΤ2: ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/1 , st1:ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/1  (st1 mono tortuga.dimotiko.tk - polykatoikies)|_|ΔΕΥΤΕΡΑ
-^Δ|_|20181126|_|Δ2: ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 (oloi tortuga.dimotiko.tk) , Δ1 :ως kallitexni1 https://studio.code.org/s/course1/stage/8/puzzle/1 (tortuga.dimotiko.tk -oloi εκτός από δυο)|_|ΤΡΙΤΗ
-^ST2|_|20181123|_|ΣΤ2: kallitexni2-skin10 https://studio.code.org/s/course1/stage/10/puzzle/1 (tortuga.dimotiko.tk se oloys - spiti)|_|ΠΑΡΑΣΚΕΥΗ
-^E1|_|20181123|_|E1 : ως kallitexnis2: https://studio.code.org/s/course1/stage/10/puzzle/1)   (tortuga.dimotiko.tk se oloys - spiti)|_|ΠΑΡΑΣΚΕΥΗ
-^E|_|20181126|_|Ε1: ως μεση mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/5 & tortuga.sxoleio.tk (σπίτι) , Ε2: ως μεση mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/1 & tortuga.sxoleio.tk (σπίτι)|_|ΤΡΙΤΗ toDo ΣΥΝΕΧΕΙΑ ΑΠΟ
-^Γ|_|20181127|_|Γ2: ως kallitexnis2: https://studio.code.org/s/course1/stage/10/puzzle/1 (την άλλη τεταρτη 6 δεκ να βαλω finding-santa_(christmas_find)_!!.swf)|_|ΤΕΤΑΡΤΗ
-^B|_|20181128|_|Β1,2 :(αρχή code.org) ως angrybirds4 https://studio.code.org/s/course1/stage/5/puzzle/1 ( sxedon oloi finding-santa_(christmas_find)_!!.swf No Old PC  ,|_|ΤΕΤΑΡΤΗ
-^Δ|_|20181129|_|Δ2:ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/1 (finding-santa__christmas) (aggelos tha katsei akriano ypologisti ως angry13: https://studio.code.org/s/course1/stage/13/puzzle/6) , Δ1:ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 (finding-santa__christmas)|_|ΠΕΜΠΤΗ
-^Γ|_|20181129|_|Γ1:ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/1 (finding-santa__christmas)|_|ΠΕΜΠΤΗ
-^ST1|_|20181129|_|ΣΤ1 : ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/1 (finding-santa__christmas)|_|ΠΕΜΠΤΗ
-^E2|_|20181129|_|Ε2:ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 (finding-santa__christmas)|_|ΠΕΜΠΤΗ ΣΥΝΕΧΕΙΑ ΑΠΟ
-^ST2|_|20181130|_|ΣΤ2 : ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 (finding-santa__christmas)|_|ΠΑΡΑΣΚΕΥΗ
-^E1|_|20181130|_|Ε1 : ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 (finding-santa__christmas)|_|ΠΑΡΑΣΚΕΥΗ
-^Γ|_|20181203|_|Γ1: ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/5 (mono se 1 zeugari oi alloi ftasan mexri 5 finding-santa), Γ2: ως repeat angry-birdslabyr13 https://studio.code.org/s/course1/stage/14/puzzle/1   (finding-santa)|_|ΔΕΥΤΕΡΑ
-^ST|_|20181203|_|ΣΤ2: ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/6 , st1:ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/6  (finding-santa)|_|ΔΕΥΤΕΡΑ
-^Δ|_|20181204|_|Δ2: ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/8 (finding-santa) , Δ1 :ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 (finding-santa)|_|ΤΡΙΤΗ
-^E|_|20181204|_|Ε1: ως https://studio.code.org/s/course1/stage/16/puzzle/1 (Δυο εμειναν στο 14/puzzle/10)  & finding-santa , Ε2: ως μεση mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/8 & labrat|_|ΤΡΙΤΗ
-^Γ2|_|20181205|_|Γ2: ως repeat angry-birdslabyr13 https://studio.code.org/s/course1/stage/14/puzzle/1   (finding-santa)|_|ΤΕΤΑΡΤΗ
-^B*|_|20181205|_|** Β1,2 :(αρχή code.org) ως angrybirds4 https://studio.code.org/s/course1/stage/5/puzzle/1 ( sxedon oloi finding-santa_(christmas_find)_!!.swf No Old PC  ,|_|ΤΕΤΑΡΤΗ
-^Δ|_|20181213|_|Δ2:ως dog-repeat16 https://studio.code.org/s/course1/stage/16/puzzle/1 (finding-santa__christmas) (aggelos tha katsei akriano ypologisti ως angry13: https://studio.code.org/s/course1/stage/13/puzzle/6) , Δ1:ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/8 (finding-santa__christmas)|_|ΠΕΜΠΤΗ
-^Γ1|_|20181213|_|Γ1:ως dog-16 https://studio.code.org/s/course1/stage/16/1 (finding-santa__christmas)|_|ΠΕΜΠΤΗ
-^ST1|_|20181213|_|ΣΤ1 : ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/6 (finding-santa__christmas , hidden christams room)|_|ΠΕΜΠΤΗ
-^E2|_|20181213|_|Ε2:ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/10 (hidden christmas santa room , finding-santa__christmas)|_|ΠΕΜΠΤΗ ΣΥΝΕΧΕΙΑ ΑΠΟ
+
+^A^B^Γ^Δ^E^ST|_|20181031|_|https://studio.code.org/s/course1 ,https://studio.code.org/s/course1/stage/3/puzzle/1  |_|(1. Χαρούμενοι Χάρτες , 2. Κούνισέ το, Κούνισέ το , 3. Παζλ: Μάθε την μεταφορά και )
+^Γ^Δ^E^ST|_|20181031-1106|_|ironstart "https://studio.code.org/s/course1/stage/4/puzzle/1 "$SWFlocal"pack_A01.html" |_|4. Λαβύρινθος angry-birds: Ακολουθία
+^Γ^Δ^E^ST|_|20181031-1113|_|ironstart "https://studio.code.org/s/course1/stage/5/puzzle/1 "$SWFlocal"pack_A02.html" |_| 5. Λαβύρινθο angry-birds: εντοπισμός σφαλμ
+^Γ^Δ^E^ST|_|20181102-1105|_|ironstart "https://studio.code.org/s/course1/stage/7/puzzle/1 "$SWFlocal"pack_A03.html"    , airtyper|_|(7. melisses)
+^Γ^Δ^E^ST|_|20181102-1113|_|ironstart "https://studio.code.org/s/course1/stage/8/puzzle/1 "$SWFlocal"pack_A01.html"|_|(8. Καλλιτέχνης : Ακολουθία)
+^Γ^Δ^E^ST|_|20181102-1112|_|ironstart "https://studio.code.org/s/course1/stage/10/puzzle/1 "$SWFlocal"pack_A02.html"|_|(10.Καλλιτέχνης: Σχήματα)
+^Γ^Δ^E^ST|_|20181110-1130|_|ironstart "https://studio.code.org/s/course1/stage/12/puzzle/2 "$SWFlocal"pack_A03.html"|_|(12. Επαναλαμβανόμαστε,13. Λαβύρινθος angry-birds: Επαναλήψεις)  (stage11 αγγλικά μόνο)
+^Γ^Δ^E^ST|_|20181102-1122|_|ironstart "https://studio.code.org/s/course1/stage/14/puzzle/1 "$SWFlocal"pack_A01.html"|_|(14. Μέλισσα: Επαναλήψεις)
+^Γ^Δ^E^ST|_|20181102-1214|_|ironstart "https://studio.code.org/s/course1/stage/15/puzzle/2 "$SWFlocal"pack_A02.html"|_|ΔΥΣΚΟΛΑ (15. Το Μεγάλο Γεγονός , 16. Εργαστήρι Παιχνιδιού: Δημιουρ)
+
+
+
+
+
 
 
 
