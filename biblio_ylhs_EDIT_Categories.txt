@@ -2,35 +2,35 @@
 |_||_|######## Mouse Intro Ευκολα Α,Β ###########
 
 ^A|_|20180913|_|colorgame(sheppardsoftware.com)_preschool.swf ,funbrain_com_SimonSees.swf  ,funbrain_com_PicklePop.swf|_|
-^A^B|_|20180926|_|A1 : funbrain_com_SimonSees.swf  ,funbrain   ,  A2:|_|mouse-intro-1
-^A1|_|20190122|_|A1 : games $SWFlocal"pack_A01.html  ,  τους άρεσε arrange_castle_doll_house ,  paint_artpad_y8_noNavAdUrl.swf (καλή ζωγραφική. Να το βάζω στην 6η θεση)|_|ΤΕΤΑΡΤΗ
-^B|_|20190122|_|B1: pack_A01.html (typing-numeric-maze,arrange_castle_doll_house ,  paint_artpad_y8_GREEK , hidden-objects-study-roomrnd_img, frogger)(βαρεθηκαν καποιοι - τελευταια 5 λεπτα frogger) B2: pack_A01.html|_|ΤΕΤΑΡΤΗ
-^A2|_|20190201|_|A2: ironstart ""$SWFlocal"ab/funbrain_com/funbrain.html "  games 1-6|_|ΠΑΡΑΣΚΕΥΗ
-^B|_|20190201|_|ironstart ""$SWFlocal"pack_A01.html "|_|ΠΑΡΑΣΚΕΥΗ
-^Γ2|_|20190122|_|Γ2:|_|ΤΕΤΑΡΤΗ
-^A1|_|20190122|_|A1 : ironstart ""$SWFlocal"ab/funbrain_com/funbrain.html "|_|ΤΕΤΑΡΤΗ
-^A|_|20190205|_|pack_A01.html|_|ΤΡΙΤΗ
-^A1|_|20190206|_|ironstart ""$SWFlocal"pack_A02.html " (τους αρεσε το coloring doodle)|_|ΤΕΤΑΡΤΗ
-^B|_|20190206|_|B1: pack_A02.html , B2: pack_A02.html|_|ΤΕΤΑΡΤΗ
-^A2|_|20190208|_|ironstart ""$SWFlocal"pack_A02.html "|_|ΠΑΡΑΣΚΕΥΗ
-^B|_|20190208|_|ironstart ""$SWFlocal"pack_A02.html "|_|ΠΑΡΑΣΚΕΥΗ
 
-^A|_|20190212|_|ironstart ""$SWFlocal"pack_A02.html "$SWFlocal"pack_A01.html"|_|ΤΡΙΤΗ
 
-^A1|_|20190213|_|A1: ironstart ""$SWFlocal"pack_A03.html " (δυσκολευτηκαν λιγο στο basket μαθηματικα)|_|ΤΕΤΑΡΤΗ
-^B|_|20190213|_|B1: pack_A03.html , B2: pack_A03.html|_|ΤΕΤΑΡΤΗ
+
+^A^B|_|01-03|_|funbrain pt1 ironstart ""$SWFlocal"ab/funbrain_com/funbrain.html "  A:games 1-6|_|mouse-intro-1
+^A^B|_|20190122|_|funbrain pt2 ironstart ""$SWFlocal"ab/funbrain_com/funbrain.html "|_|
+^A^B|_|20181205|_|funbrain pt3 ironstart ""$SWFlocal"ab/funbrain_com/funbrain.html "|_|ΤΕΤΑΡΤΗ
+
+^A^B|_|20190205|_|ironstart ""$SWFlocal"pack_A01.html   (typing-numeric-maze,arrange_castle_doll_house ,  paint_artpad_y8_GREEK , hidden-objects-study-roomrnd_img, frogger)|_|άρεσε arrange_castle_doll_house ,  paint_artpad_y8_noNavAdUrl.swf
+^A^B|_|20190206-12|_|ironstart ""$SWFlocal"pack_A02.html "$SWFlocal"pack_A01.html"|_|A:(τους αρεσε το coloring doodle)
+^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A03.html " |_|A:(δυσκολευτηκαν λιγο στο basket μαθηματικα)
+
+
 ^A|_|20181106|_|Mickey-Man(pacman).swf (dyskolo - barethikan sta 10n min) , gcompris (2 πρωτες επιλογες δεξια)|_|ΤΡΙΤΗ
 ^A|_|20181113|_|http://192.168.1.200/swf/ab/Phineas-E-Ferb-coloring.swf  ,   shapesonact_(same_each_time)1stGrade.swf ,Mickey-Man(pacman).swf (to zitisan barethikan sta 10n min) , gcompris (2 πρωτες επιλογες δεξια)|_|ΤΡΙΤΗ
 ^A|_|20181114|_|A2: http://192.168.1.200/swf/ab/Phineas-E-Ferb-coloring.swf  , shapesonact_(same_each_time)1stGrade.swf , http://192.168.1.200/swf/fun/super-mario-racing-2.swf (ΕΧΕΙ ADs) ,Α1 ΠΑΡΑΣΚΕΥΗ(17ΝΟΕ -ΑΡΓΙΑ)|_|ΤΕΤΑΡΤΗ, Α1 ΠΑΡΑΣΚΕΥΗ(ΔΕΝ
-^A2|_|20181130|_|Α2 : Kids-Coloring-Book-many-images__noNavigateToURL3.swf  , finding-santa (ΔΥΣΚΟΛΕΥΤΗΚΑΝ ΟΙ ΠΙΟ ΠΟΛΛΟΙ)|_|ΠΑΡΑΣΚΕΥΗ
-^B|_|20181130|_|Β: Kids-Coloring-Book-many-images__noNavigateToURL3.swf, typing_bricks(puzzle)!!!.swf  , finding-santa|_|ΠΑΡΑΣΚΕΥΗ
+^A^B|_|20181130|_|Β: Kids-Coloring-Book-many-images__noNavigateToURL3.swf, typing_bricks(puzzle)!!!.swf  , finding-santa|_|ΠΑΡΑΣΚΕΥΗ
 ^A|_|20181204|_|A smurfs_nintendo_simple.swf (kolaei *** isws ads) , minion-jump-adventure(1key)ok_noADS.swf (bgazei ads)  , finding-santa (dyskolo gia gia A) , kaban|_|ΤΡΙΤΗ
-^A1|_|20181205|_|A1: funbrain.html (kai thn teleytaia ebdomafa να βαλω funbrain.html , finding-santa_(christmas_find)_!!.swf)|_|ΤΕΤΑΡΤΗ
+
 ^B|_|20181214|_|: frogger3d.swf (Dyskologia Α)  |_|ΠΑΡΑΣΚΕΥΗ
 ^A|_|20190115|_|Α: coloring-inside-out__noADsURL.swf  , coloring_walking_frankie_coloring_page_noAdsUrl_!!.swf (τελειώνουν γρήγορα) , xromatizo ΜΥΚΗΝΕΣ /swf/ramkid_selection_swf/xromatizo/mincol.swf (θέλει χειροκίνητη αλλαγή)|_|ΤΡΙΤΗ
 ^B|_|20190116|_|Β1,:coloring-inside-out__noADsURL.swf  , (είναιστο pack_A? )coloring_walking_frankie_coloring_page_noAdsUrl_!!.swf (τελειώνουν γρήγορα) , frogger3d.swf  ,  Β2 (4 ;atoma mono):coloring-inside-out__noADsURL.swf|_|ΤΕΤΑΡΤΗ
 ^B|_|20181019|_|Minions-Thirsty-Coloring.swf  ,buscounting_%28simple%29.swf, Mickey-Man(pacman).swf (kalo - barethikan sta 10n min),      typing_adventure(indiana_jones).swf  (τους; αρεσε TO TYPING!!)|_|ΠΑΡΑΣΚΕΥΗ
+^B|_|20180926|_|colorgame(sheppardsoftware.com)_preschool.swf ,colors_preschool_!!!.swf , (ligo sto B1) smurf-papas-memory_!.swf|_|
 
+^A|_|20181002|_|buscounting, elephant_maze_puzzleKIDS.swf , colorgame(sheppardsoftware.com)_preschool.swf (again)|_|ΤΡΙΤΗ
+^A|_|20181003|_|A1,2 :colorgame(sheppardsoftware.com)_preschool.swf (again),buscounting, A1 :Your-Face.swf , A2: coloring_1bear.swf (toys arese)|_|ΤΕΤΑΡΤΗ
+^B|_|20181003|_|b1,2:buscounting,  ,typing_adventure(indiana_jones)(to briskoun ligo dyskolo).swf,typing_bricks(puzzle)!!!.swf(again)|_|ΤΕΤΑΡΤΗ
+suggest|_|20181003|_|@@@@ http://educ.swf.dimotiko.tk/education_math_shapes_/math_WordSearch-computer. TO EDIT IMAGES Να Γίνει ελληνικά   , indiana jones|_|http://educ.swf.dimotiko.tk/education_math_shapes_/math_WordSearch-computer.swf
+^Γ|_|20181008|_|g1,2 ,εσωτερικό PC, tuxpaint (πινέλα),|_|ΔΕΥΤΕΡΑ
 
 
 
@@ -47,13 +47,7 @@ suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 
 
 
-^B|_|20180926|_|colorgame(sheppardsoftware.com)_preschool.swf ,colors_preschool_!!!.swf , (ligo sto B1) smurf-papas-memory_!.swf|_|
 
-^A|_|20181002|_|buscounting, elephant_maze_puzzleKIDS.swf , colorgame(sheppardsoftware.com)_preschool.swf (again)|_|ΤΡΙΤΗ
-^A|_|20181003|_|A1,2 :colorgame(sheppardsoftware.com)_preschool.swf (again),buscounting, A1 :Your-Face.swf , A2: coloring_1bear.swf (toys arese)|_|ΤΕΤΑΡΤΗ
-^B|_|20181003|_|b1,2:buscounting,  ,typing_adventure(indiana_jones)(to briskoun ligo dyskolo).swf,typing_bricks(puzzle)!!!.swf(again)|_|ΤΕΤΑΡΤΗ
-suggest|_|20181003|_|@@@@ http://educ.swf.dimotiko.tk/education_math_shapes_/math_WordSearch-computer. TO EDIT IMAGES Να Γίνει ελληνικά   , indiana jones|_|http://educ.swf.dimotiko.tk/education_math_shapes_/math_WordSearch-computer.swf
-^Γ|_|20181008|_|g1,2 ,εσωτερικό PC, tuxpaint (πινέλα),|_|ΔΕΥΤΕΡΑ
 
 |_||_|######## Tuxpaint ###########
 ^Γ|_|20181001|_|tuxpaint, σχήματα με τετράγωνα + τρίγωνα (σπιτάκια)|_|ΔΕΥΤΕΡΑ
