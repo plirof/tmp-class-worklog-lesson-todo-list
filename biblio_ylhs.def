@@ -1,5 +1,5 @@
-Class,LIST,1,suggest:dim10-A:dim10-B:dim10-Γ:dim10-Δ:dim10-E:dim10-ST:dim15-A:dim15-B:dim15-Γ:dim15-Δ:dim15-E:dim15-ST:dim10-A1:dim10-A2:dim10-B:dim10-Γ1:dim10-Γ2:dim10-Δ:dim10-E1:dim10-E2:dim10-ST1:dim10-ST2:
-Date,DATE,8,NY:CA:LA
+Levels,STRING,14
+Week Suggestion,STRING,20
 Entry,TEXT,70:2
 Comments,STRING,30
 dim15-A,LOGICAL,1,NAI:OXI

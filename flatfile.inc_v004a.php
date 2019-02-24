@@ -1,10 +1,9 @@
 <?php
 date_default_timezone_set('Europe/Athens'); //added to avoid PHP warning for date 160920
 #####################################################################################
-# Flat File Database Manager 1.2jmod05-RTfilter 190224a
+# Flat File Database Manager 1.2jmod04-link object type 190223a
 #
 # changes
-# ver1.2jmod05-Reat time client filter 190224a
 # ver1.2jmod04-link object type 190223a :
 #   - Added red color to DELETE/MARK checkbox
 #
@@ -143,29 +142,15 @@ echo "<head><title>$data_file</title>
   function autoScrolling() { window.scrollTo(0,document.body.scrollHeight); }
   //setInterval(autoScrolling, 1000); //added by jon 160218 autoscroll bottom of page
 </script>
-<style>
-/* filter table stuff */
-.myRTFilterInput {
-  width: 100%; /* Full-width */
-  font-size: 16px; /* Increase font-size */
-  padding: 12px 20px 12px 40px; /* Add some padding */
-  border: 1px solid #ddd; /* Add a grey border */
-  margin-bottom: 12px; /* Add some space below the input */
-}
-
-
-</style>
-
 </head>";
 echo "<body><h1>$data_file</h1>
 
 ";
-
 echo '<form method="post">';
-echo "\n".'<table id="myTable" border=1 >'."\n";
+echo '<table>'."\n";
 
 // output header
-echo '<tr >';
+echo '<tr style="background: #AAAAAA; border: 1px solid blue">';
 foreach ($structure as $key=>$line) {
   echo "<th>{$line['name_original']}</th>";
 }
@@ -189,15 +174,13 @@ foreach($data as $datakey => $line) {
   foreach ($items as $key => $item) {
     $item = htmlspecialchars(trim($item));
     $name = $structure[$key]['name'];
-    echo "\n".'  <td >';
+    echo "\n".'  <td valign="top">';
   //echo "<h1>$item</h1>";
-
     switch ($structure[$key]['type']) {
 # STRING:  Rendered as regular input field. Row format:
 #          title,STRING,length  
       case 'STRING':
         echo '<input onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" value="'.$item.'" size="'.$structure[$key]['format'].'" />';
-        //echo "$item";
         break;
 # DATE:  Rendered as regular input field. Row format:    Added by jon
 #          title,STRING,length      
@@ -205,7 +188,6 @@ foreach($data as $datakey => $line) {
     
     if ($item==null) $item=date("Ymd");
         echo '<input onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" value="'.$item.'" size="'.$structure[$key]['format'].'" />';
-        //echo "$item";
         break;
 # TEXT:    Rendered as text area. Row format:
 #          title,TEXT,columns,rows
@@ -255,10 +237,8 @@ foreach($data as $datakey => $line) {
 
 }
 
-echo '<tr><td colspan=255 align=center></td></tr>';
-print '<input type="text" id="myRTFilterInput" onkeyup="myRTFilterFunction()" placeholder="Search for names..">';
+echo '<tr><td colspan=255 align=center><input type="submit" name="submit" value="Save Changes and Delete marked" style="border:1px solid red"></td></tr>';
 echo '</table>';
-echo '<center><input type="submit" name="submit" value="Save Changes and Delete marked" style="border:1px solid red"></center>';
 echo "</form>
 
 <script>
@@ -267,56 +247,14 @@ document.getElementById('d_e_l_e_t_e['+theid+']').checked = false;
 }
 </script>";
 
-//include('show_filter.php'); //added 181020a jon to display a list of options to filter rows   
+include('show_filter.php'); //added 181020a jon to display a list of options to filter rows   
 
 
-echo '
+echo "
 <script>
 autoScrolling();
-
-function myRTFilterFunction() {
-  // Declare variables 
-  var input, filter, table, tr, td, i, txtValue;
-  var counted_columns='.count($structure).';
-  input = document.getElementById("myRTFilterInput");
-  filter = input.value.toUpperCase();
-  table = document.getElementById("myTable");
-  tr = table.getElementsByTagName("tr");
-
-  // Loop through all table rows, and hide those who dont match the search query
-  for (i = 0; i < tr.length; i++) {
-
-
-	var found_in_input_elem=false;
-    for (col = 0; col < counted_columns; col++) {
-    	
-	 	var x;
-	 	td = tr[i].getElementsByTagName("td")[col];
-	    if (td) {
-	      if(td.getElementsByTagName("input")[0]){
-	      	x = td.getElementsByTagName("input")[0].value;
-	      	
-	      
-	      }
-
-	      txtValue = td.textContent || td.innerText || x ;
-	      if(txtValue==null) txtValue="ZXCXZCCXZC";
-	      if (txtValue.toUpperCase().indexOf(filter) > -1 || found_in_input_elem) {
-	      	//console.log("x found="+x+"  txtValue="+txtValue    +"          count(structure)="+counted_columns);
-	        tr[i].style.display = "";
-	        found_in_input_elem=true;
-	      } else {
-	        tr[i].style.display = "none";
-	      }
-    	}
-    }// END of for (col = 0; col < counted_columns; col++) {
-
-
-  }
-}
-
 </script>
-';
+";
 
 echo '</body>';
 echo '</html>';

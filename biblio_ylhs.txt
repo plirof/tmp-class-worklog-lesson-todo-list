@@ -8,10 +8,15 @@
 ^A^B|_|01-03|_|funbrain pt1 ironstart ""$SWFlocal"ab/funbrain_com/funbrain.html "  A:games 1-6|_|mouse-intro-1
 ^A^B|_|20190122|_|funbrain pt2 ironstart ""$SWFlocal"ab/funbrain_com/funbrain.html "|_|
 ^A^B|_|20181205|_|funbrain pt3 ironstart ""$SWFlocal"ab/funbrain_com/funbrain.html "|_|ΤΕΤΑΡΤΗ
+^A^B^Γ|_|00|_|netsmart.html ironstart ""$SWFlocal"ab/netsmartkids/netsmart.html "|_|ΤΕΤΑΡΤΗ
 
-^A^B|_|20190205|_|ironstart ""$SWFlocal"pack_A01.html   (typing-numeric-maze,arrange_castle_doll_house ,  paint_artpad_y8_GREEK , hidden-objects-study-roomrnd_img, frogger)|_|άρεσε arrange_castle_doll_house ,  paint_artpad_y8_noNavAdUrl.swf
-^A^B|_|20190206-12|_|ironstart ""$SWFlocal"pack_A02.html "$SWFlocal"pack_A01.html"|_|A:(τους αρεσε το coloring doodle)
-^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A03.html " |_|A:(δυσκολευτηκαν λιγο στο basket μαθηματικα)
+
+
+^A^B|_|20190205|_|ironstart ""$SWFlocal"pack_A01.html?timer4   (typing-numeric-maze, arrange_castle ! ,  paint_artpad !!! , hidden-objects-study-roomrnd_img, frogger)|_|άρεσε arrange_castle_doll_house ,  paint_artpad_y8_noNavAdUrl.swf
+^A^B|_|20190206-12|_|ironstart ""$SWFlocal"pack_A02.html "$SWFlocal"pack_A01.html"|_|A:(τους αρεσε το coloring doodle) doodle-bugs coloring, typing_bricks, typing_adventure(indiana_jones), carasmagicpocket, soccer-balls-2, MonkeyGOHappy6,chess
+^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A03.html " |_|A:(δυσκολευτηκαν λιγο στο basket μαθηματικα) basketball math,animate draw your cartoon,magnetic_draw__paint_y8,arrange dollhouse,keymory type,BasketBalls physicsPuz,Kaban maze,chess
+^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A04.html " |_|keytower type ,draw_line puzzle,arrange_fix car,paint super_wings,little-house-maze,soccer__higher_lower,paint_artpad, MonkeyGOHappyBalloons,chess
+^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A05.html " |_|RideAndSolve math_sign, coloring_walking_frankie,paint_lily_paint_magic !!! _GOOD_PALLETE,arrange lego police,diver3, excuses-excuses__type (E-ST),spark_chess,sup mario-race-2,pirates-vs-undead_TDRT,chess
 
 
 ^A|_|20181106|_|Mickey-Man(pacman).swf (dyskolo - barethikan sta 10n min) , gcompris (2 πρωτες επιλογες δεξια)|_|ΤΡΙΤΗ
@@ -20,9 +25,12 @@
 ^A^B|_|20181130|_|Β: Kids-Coloring-Book-many-images__noNavigateToURL3.swf, typing_bricks(puzzle)!!!.swf  , finding-santa|_|ΠΑΡΑΣΚΕΥΗ
 ^A|_|20181204|_|A smurfs_nintendo_simple.swf (kolaei *** isws ads) , minion-jump-adventure(1key)ok_noADS.swf (bgazei ads)  , finding-santa (dyskolo gia gia A) , kaban|_|ΤΡΙΤΗ
 
-^B|_|20181214|_|: frogger3d.swf (Dyskologia Α)  |_|ΠΑΡΑΣΚΕΥΗ
-^A|_|20190115|_|Α: coloring-inside-out__noADsURL.swf  , coloring_walking_frankie_coloring_page_noAdsUrl_!!.swf (τελειώνουν γρήγορα) , xromatizo ΜΥΚΗΝΕΣ /swf/ramkid_selection_swf/xromatizo/mincol.swf (θέλει χειροκίνητη αλλαγή)|_|ΤΡΙΤΗ
+
+^B|_|20181214|_|ironstart ""$SWFlocal"fun/frogger3d__noNavURL_10lives!!.swf "$SWFlocal"pack_A01.html"   (Dyskologia Α sto frogger)  |_|ΠΑΡΑΣΚΕΥΗ
+^A|_|20190115|_|Α: coloring-inside-out__noADsURL.swf  , coloring_walking_frankie_coloring_page_noAdsUrl (ok on pack_A05) (τελειώνουν γρήγορα) , xromatizo ΜΥΚΗΝΕΣ /swf/ramkid_selection_swf/xromatizo/mincol.swf (θέλει χειροκίνητη αλλαγή)|_|ΤΡΙΤΗ
+
 ^B|_|20190116|_|Β1,:coloring-inside-out__noADsURL.swf  , (είναιστο pack_A? )coloring_walking_frankie_coloring_page_noAdsUrl_!!.swf (τελειώνουν γρήγορα) , frogger3d.swf  ,  Β2 (4 ;atoma mono):coloring-inside-out__noADsURL.swf|_|ΤΕΤΑΡΤΗ
+
 ^B|_|20181019|_|Minions-Thirsty-Coloring.swf  ,buscounting_%28simple%29.swf, Mickey-Man(pacman).swf (kalo - barethikan sta 10n min),      typing_adventure(indiana_jones).swf  (τους; αρεσε TO TYPING!!)|_|ΠΑΡΑΣΚΕΥΗ
 ^B|_|20180926|_|colorgame(sheppardsoftware.com)_preschool.swf ,colors_preschool_!!!.swf , (ligo sto B1) smurf-papas-memory_!.swf|_|
 
@@ -41,7 +49,7 @@ suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 
 
 |_||_|######## PARKING ###########
-^Δ^E^ST|_|05+|_|ST2 :spongebob-parking_!!.swf , edsparkinggame.swf ,typingbricks|_|
+^Γ^Δ^E^ST|_|05+|_|ST2 :spongebob-parking_!!.swf , edsparkinggame.swf ,typingbricks|_|
 ^ST|_|20181010|_|ST1(mono 6 atoma) : spongebob-parking_!!.swf ,labrat  ,  |_|ΠΕΜΠΤΗ,ΠΑΡΑΣΚΕΥΗ
 
 
@@ -50,36 +58,25 @@ suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 
 
 |_||_|######## Tuxpaint ###########
-^Γ|_|20181001|_|tuxpaint, σχήματα με τετράγωνα + τρίγωνα (σπιτάκια)|_|ΔΕΥΤΕΡΑ
-^Δ|_|20181009|_|D2,1 : tuxpaint τριγωνα τετραγωνα|_|ΤΡΙΤΗ
-^A|_|20181009|_|tuxpaint πινέλα  (barethikan) ,|_|ΤΡΙΤΗ
-^Δ|_|20181011|_|d1,2: tuxpaint τριγωνα τετραγωνα,d2:typing_adventure(indiana_jones) , D1: labrat|_|ΠΕΜΠΤΗ
-^Γ2|_|20181016|_|Γ2: tuxpaint τριγωνα τετραγωνα (το Γ1 τα είχε κάνει την προηγ εβδομάδα - το G2 είχε χάσει τότε το μάθημα)|_|ΤΕΤΑΡΤΗ
-^A|_|20181016|_|A2,1: tuxpaint πινέλα, σφραγίδες (A2 φάνηκε να βαριέται)|_|ΤΕΤΑΡΤΗ, Α1 ΠΑΡΑΣΚΕΥΗ
-^B|_|20181016|_|B1,2: tuxpaint (ζωγραφίστε σπίτι + αμάξι ,πινέλα ,σφραγίδες)|_|ΤΕΤΑΡΤΗ
-^Γ2|_|20181010|_|G2: den egine mathima ,G1 (pempth): tuxpaint τριγωνα τετραγωνα|_|ΤΕΤΑΡΤΗ
-^ST|_|20181021|_|tuxapaint (spiti,amaksi meta free)  [mono st2: type_magos_typenpop.swf (barethikan),|_|ΔΕΥΤΕΡΑ
+^A^B^Γ^Δ^E^ST|_|01-05|_|tuxpaint πινέλα  (ζωγραφίστε σπίτι + αμάξι ,πινέλα ,σφραγίδες) ,typing_bricks(puzzle)!!!.swf|_|tuxpaint 1
+^Γ^Δ^E^ST|_|20181001-09|_|tuxpaint, σχήματα με τετράγωνα + τρίγωνα (σπιτάκια)|_|tuxpaint 2
+^A^B|_|20181016|_|A2,1: tuxpaint πινέλα, σφραγίδες (A2 φάνηκε να βαριέται)|_|tuxpaint 3
+
 
 
 
 |_||_|######## Maze ###########
-^A^B|_|20181010|_|A1,2 :Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf, labrat_(maze-kids)!!.swf , WORD (σε λιγους που βαρεθήκαν)|_|maze 1
-^ST|_|20181010|_|ST2 Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf, labrat  ,|_|ΠΕΜΠΤΗ,ΠΑΡΑΣΚΕΥΗ
+^A^B^Γ^Δ^E^ST|_|20181010|_|A1,2 :Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf, BloonsTowerDefense2.swf , typing_adventure(indiana_jones).swf, the-maze-game(robot).swf , WORD (σε λιγους που βαρεθήκαν)|_|maze 1 (diego Δ+ to teleiwsan sta 15me20lepta))
 ^ST|_|20181015|_|st2,1: labrat(! SlowPC) , soccer-balls(projectile).swf (Toys Arese ST)|_|ΔΕΥΤΕΡΑ
 ^E|_|20181010|_|e2,1: labrat , spongebob-parking_!!.swf , edsparkinggame.swf|_|ΠΕΜΠΤΗ,ΠΑΡΑΣΚΕΥΗ
-^B|_|20181012|_|labrat ,colorgame(sheppardsoftware.com)_preschool.swf , Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf |_|ΠΑΡΑΣΚΕΥΗ
-^Δ|_|20181016|_|Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf (tous arese - to teleiwsan sta 15me20lepta) , labrat , soccer-balls(projectile).swf  ,the-maze-game(robot).swf ok slow pc|_|ΤΡΙΤΗ
-^Δ|_|20181017|_|Δ2,1 : Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf (tous arese - to teleiwsan sta 15me20lepta) , labrat , (note : tp Δ1 βαρέθηκε)|_|ΠΕΜΠΤΗ
-^E2|_|20181017|_|Ε2 : Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf , BloonsTowerDefense2.swf (e2: bareuhkan)  ,ZHTHSAN : labrat ή airtyper|_|ΠΕΜΠΤΗ,
-^Γ1|_|20181017|_|Γ1 : Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf , LABRAT (το ζητησαν) (ξανά), spongebob-parking_need760MBram_!!.swf|_|ΠΕΜΠΤΗ
-^E1|_|20181019|_|Ε1 Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf ,BloonsTowerDefense2.swf , typing_adventure(indiana_jones).swf (E1 ΠΑΡΑΣΚΕΥΗ δεν ΤΟ ΕΙΧΑΝ ΠΑΙΞΕΙ)|_|ΠΑΡΑΣΚΕΥΗ
-^E|_|20181016|_|e1 e2 parelash) : Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf , BloonsTowerDefense2.swf  ,|_|ΤΡΙΤΗ
+^A^B|_|20181012|_|labrat ,colorgame(sheppardsoftware.com)_preschool.swf , Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf |_|ΠΑΡΑΣΚΕΥΗ
+
 
 
 
 |_||_|######## Tuxmath ###########
 ^Γ|_|20181022|_|tuxmath(training ως substraction up to 20) (note to E1 τελείωσε πιο γρήγορα το tuxmath) , reward (E2,E1): labrat,diego|_|ΔΕΥΤΕΡΑ
-^A|_|20181022|_|tuxmath (patame arithmous ως πραξεις 0-5) ,coloring_1bear , Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf|_|ΤΡΙΤΗ
+^A|_|20181022|_|tuxmath (patame arithmous ως πραξεις 0-5) ,coloring_1bear , Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf |_|ΤΡΙΤΗ
 ^E|_|20181022|_|Tuxmath (arxisa apo DoubleDigit Addition ως οσο παει), type_magos_typenpop.swf (τους φανηκε δυσκολο)|_|ΤΡΙΤΗ
 ^Γ2|_|20181023|_|Γ2:tuxmath(training αρχή-ως substraction up to 20),tuxpaint (Γ1 εχασε μαθημα)|_|ΤΕΤΑΡΤΗ, ToDo G1 - ΠΕΜΠΤΗ
 ^A2|_|20181023|_|A2 - tuxmath (patame arithmous ως πραξεις 0-3- παιξαν 25 λεπτα περιπου) ,tuxpaint   (A1 -EXASE ΜΑΘΗΜΑ)|_|ΤΕΤΑΡΤΗ
@@ -100,61 +97,22 @@ suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 
 
 
+ironstart ""$SWFlocal"pack_A02.html "$SWFlocal"pack_A01.html"
 
-
-|_||_|######## HourOfCode ###########
+|_||_|######## HourOfCode 6-9 μαθήματα ###########
 ^ST1|_|25+|_|ΠΟΛΛΑ ΜΑΖΙ (τελος χρονιάς)ΣΤ1  https://studio.code.org/hoc/1 (angry birds - τους αρεσε) , (ΣΤ2 -ΠΑΡΑΣΚΕΥΗ ΔΕΝ ΕΓΙΝΕ ΜΑΘΗΜΑ)|_|ΠΕΜΠΤΗ,
 
-^Δ|_|20181031|_|d2 : https://studio.code.org/s/course1  ,Δ2: ως course1/stage/5/puzzle/5 Δ1: ως course1/stage/5/puzzle/5|_|ΠΕΜΠΤΗ
-^Γ|_|20181031|_|Γ1 https://studio.code.org/s/course1  ,Γ1: ως melisses https://studio.code.org/s/course1/stage/7/puzzle/1|_|ΠΕΜΠΤΗ
-^E|_|20181101|_|E2:https://studio.code.org/s/course1/stage/5/puzzle/1  , Ε1:  ως melisses https://studio.code.org/s/course1/stage/7/puzzle/1   , airtyper|_|ΠΕΜΠΤΗ, ΠΑΡΑΣΚΕΥΗ
-^ST2|_|20181102|_|ΣΤ2:  ως melisses https://studio.code.org/s/course1/stage/7/puzzle/1   , airtyper|_|ΠΑΡΑΣΚΕΥΗ
-^Γ|_|20181105|_|Γ1 https://studio.code.org/s/course1  ,Γ1:  https://studio.code.org/s/course1/stage/5/puzzle/5   ,  Γ2: https://studio.code.org/s/course1/stage/5/puzzle/5|_|ΔΕΥΤΕΡΑ
-^ST|_|20181105|_|ST2 https://studio.code.org/s/course1  , ΣΤ2:  ως melisses https://studio.code.org/s/course1/stage/7/puzzle/1  ,st1:https://studio.code.org/s/course1/stage/5/puzzle/6|_|ΔΕΥΤΕΡΑ
-^Δ|_|20181106|_|Δ https://studio.code.org/s/course1  ,Δ2:  https://studio.code.org/s/course1/stage/4/puzzle/10   ,  Δ1: Δεν έγινε μάθημα|_|ΤΡΙΤΗ (Δ1: εχασε το μάθημα)
-^E|_|20181106|_|Ε https://studio.code.org/s/course1  ,Ε1:  ως melisses https://studio.code.org/s/course1/stage/7/puzzle/1  & labrat ,  Ε2: https://studio.code.org/s/course1/stage/4/puzzle/15 ,labrat|_|ΤΡΙΤΗ
-^Γ|_|20181112|_|συνέχεια Γ1: ως kallitexnis1 https://studio.code.org/s/course1/stage/8/puzzle/1 , Γ2: ως https://studio.code.org/s/course1/stage/7/puzzle/9|_|ΔΕΥΤΕΡΑ
-^ST|_|20181112|_|συνέχεια ΣΤ2: ως kallitexnis2 https://studio.code.org/s/course1/stage/10/puzzle/1 ,  st1:ως kallitexnis1 (καποιοι μειναν πίσω)https://studio.code.org/s/course1/stage/8/puzzle/1|_|ΔΕΥΤΕΡΑ
-^Δ|_|20181113|_|Δ2:ως  https://studio.code.org/s/course1/stage/5/puzzle/1  , Δ1 :ως https://studio.code.org/s/course1/stage/4/puzzle/10|_|ΤΡΙΤΗ
-^E|_|20181113|_|Ε1:  ως kallitexni1 https://studio.code.org/s/course1/stage/8/puzzle/1  & ,  Ε2:  ως melisses https://studio.code.org/s/course1/stage/7/puzzle/10  ,labrat|_|ΤΡΙΤΗ
-^Γ2|_|20181114|_|Γ2: https://studio.code.org/s/course1/stage/5/puzzle/5|_|Γ2 ΤΕΤΑΡΤΗ
-^Δ|_|20181115|_|Δ2 :  ως melisses https://studio.code.org/s/course1/stage/7/puzzle/10  , Δ1: ως melisses https://studio.code.org/s/course1/stage/7/puzzle/10  , mickey,airtyper  , typeroids_(rapidtyping.com).swf|_|ΠΕΜΠΤΗ
-^ST1|_|20181115|_|ΣΤ1: ως melisses https://studio.code.org/s/course1/stage/7/puzzle/1 ,mickey mouse ,blooddefence , -ΣΤ2 (ΑΡΓΙΑ ΠΑΡΑΣΚ 17 ΝΟΕ)|_|ΠΕΜΠΤΗ
-^E2|_|20181115|_|Ε2: ftasan ως melisses https://studio.code.org/s/course1/stage/7/puzzle/1 ,bloons2 ,defend your honor ,Ε1 (ΑΡΓΙΑ ΠΑΡΑΣΚ 17 ΝΟΕ)|_|ΠΕΜΠΤΗ
-^Γ1|_|20181115|_|Γ1: kanan ως kallitexni1 https://studio.code.org/s/course1/stage/8/puzzle/1  , mickey (to barethikan)|_|ΠΕΜΠΤΗ
-^Γ|_|20181119|_|Γ1: ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 , Γ2: kallitexni2-skin10 https://studio.code.org/s/course1/stage/10/puzzle/1|_|ΔΕΥΤΕΡΑ
-^ST|_|20181119|_|ΣΤ2: ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1  , st1:ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1|_|ΔΕΥΤΕΡΑ
-^Δ|_|20181119|_|Δ2: ως kallitexni1 https://studio.code.org/s/course1/stage/8/puzzle/1 , Δ1 :ως melisses https://studio.code.org/s/course1/stage/7/puzzle/10|_|ΤΡΙΤΗ ΣΥΝΕΧΕΙΑ ΑΠΟ
-^E|_|20181119|_|Ε1: ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 & tortuga.sxoleio.tk (σπίτι) , Ε2: ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1|_|ΤΡΙΤΗ
-^Γ2|_|20181121|_|Γ2: ως melisses https://studio.code.org/s/course1/stage/7/puzzle/9 (kapoioi meinan pisw)  , labrat|_|ΤΕΤΑΡΤΗ
-^Δ|_|20181122|_|Δ2:ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 (tortuga.sxoleio.tk) (aggelos ως kallitexnis2: https://studio.code.org/s/course1/stage/10/puzzle/1) , Δ1:ως kallitexnis2: https://studio.code.org/s/course1/stage/10/puzzle/3 (tortuga.sxoleio.tk σε μερικουσ)|_|ΠΕΜΠΤΗ
-^Γ1|_|20181122|_|Γ1:ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 , tortuga.dimotiko.tk -ΠΟΛΥΚΑΤΟΙΚΙΑ(σε όλους)|_|ΠΕΜΠΤΗ
-^ST1|_|20181122|_|ΣΤ1 : ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1  (tortuga.dimotiko.tk se oloys - spiti)|_|ΠΕΜΠΤΗ
-^E2|_|20181122|_|Ε2:ως kallitexnis1: https://studio.code.org/s/course1/stage/8/puzzle/1|_|ΠΕΜΠΤΗ ΣΥΝΕΧΕΙΑ ΑΠΟ
-^Γ|_|20181126|_|Γ1: ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/1 , Γ2: ως repeat angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1   (se oloys tortuga.dimotiko.tk)|_|ΔΕΥΤΕΡΑ
-^ST|_|20181126|_|ΣΤ2: ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/1 , st1:ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/1  (st1 mono tortuga.dimotiko.tk - polykatoikies)|_|ΔΕΥΤΕΡΑ
-^Δ|_|20181126|_|Δ2: ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 (oloi tortuga.dimotiko.tk) , Δ1 :ως kallitexni1 https://studio.code.org/s/course1/stage/8/puzzle/1 (tortuga.dimotiko.tk -oloi εκτός από δυο)|_|ΤΡΙΤΗ
-^ST2|_|20181123|_|ΣΤ2: kallitexni2-skin10 https://studio.code.org/s/course1/stage/10/puzzle/1 (tortuga.dimotiko.tk se oloys - spiti)|_|ΠΑΡΑΣΚΕΥΗ
-^E1|_|20181123|_|E1 : ως kallitexnis2: https://studio.code.org/s/course1/stage/10/puzzle/1)   (tortuga.dimotiko.tk se oloys - spiti)|_|ΠΑΡΑΣΚΕΥΗ
-^E|_|20181126|_|Ε1: ως μεση mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/5 & tortuga.sxoleio.tk (σπίτι) , Ε2: ως μεση mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/1 & tortuga.sxoleio.tk (σπίτι)|_|ΤΡΙΤΗ toDo ΣΥΝΕΧΕΙΑ ΑΠΟ
-^Γ|_|20181127|_|Γ2: ως kallitexnis2: https://studio.code.org/s/course1/stage/10/puzzle/1 (την άλλη τεταρτη 6 δεκ να βαλω finding-santa_(christmas_find)_!!.swf)|_|ΤΕΤΑΡΤΗ
-^B|_|20181128|_|Β1,2 :(αρχή code.org) ως angrybirds4 https://studio.code.org/s/course1/stage/5/puzzle/1 ( sxedon oloi finding-santa_(christmas_find)_!!.swf No Old PC  ,|_|ΤΕΤΑΡΤΗ
-^Δ|_|20181129|_|Δ2:ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/1 (finding-santa__christmas) (aggelos tha katsei akriano ypologisti ως angry13: https://studio.code.org/s/course1/stage/13/puzzle/6) , Δ1:ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 (finding-santa__christmas)|_|ΠΕΜΠΤΗ
-^Γ|_|20181129|_|Γ1:ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/1 (finding-santa__christmas)|_|ΠΕΜΠΤΗ
-^ST1|_|20181129|_|ΣΤ1 : ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/1 (finding-santa__christmas)|_|ΠΕΜΠΤΗ
-^E2|_|20181129|_|Ε2:ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 (finding-santa__christmas)|_|ΠΕΜΠΤΗ ΣΥΝΕΧΕΙΑ ΑΠΟ
-^ST2|_|20181130|_|ΣΤ2 : ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 (finding-santa__christmas)|_|ΠΑΡΑΣΚΕΥΗ
-^E1|_|20181130|_|Ε1 : ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 (finding-santa__christmas)|_|ΠΑΡΑΣΚΕΥΗ
-^Γ|_|20181203|_|Γ1: ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/5 (mono se 1 zeugari oi alloi ftasan mexri 5 finding-santa), Γ2: ως repeat angry-birdslabyr13 https://studio.code.org/s/course1/stage/14/puzzle/1   (finding-santa)|_|ΔΕΥΤΕΡΑ
-^ST|_|20181203|_|ΣΤ2: ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/6 , st1:ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/6  (finding-santa)|_|ΔΕΥΤΕΡΑ
-^Δ|_|20181204|_|Δ2: ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/8 (finding-santa) , Δ1 :ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/1 (finding-santa)|_|ΤΡΙΤΗ
-^E|_|20181204|_|Ε1: ως https://studio.code.org/s/course1/stage/16/puzzle/1 (Δυο εμειναν στο 14/puzzle/10)  & finding-santa , Ε2: ως μεση mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/8 & labrat|_|ΤΡΙΤΗ
-^Γ2|_|20181205|_|Γ2: ως repeat angry-birdslabyr13 https://studio.code.org/s/course1/stage/14/puzzle/1   (finding-santa)|_|ΤΕΤΑΡΤΗ
-^B*|_|20181205|_|** Β1,2 :(αρχή code.org) ως angrybirds4 https://studio.code.org/s/course1/stage/5/puzzle/1 ( sxedon oloi finding-santa_(christmas_find)_!!.swf No Old PC  ,|_|ΤΕΤΑΡΤΗ
-^Δ|_|20181213|_|Δ2:ως dog-repeat16 https://studio.code.org/s/course1/stage/16/puzzle/1 (finding-santa__christmas) (aggelos tha katsei akriano ypologisti ως angry13: https://studio.code.org/s/course1/stage/13/puzzle/6) , Δ1:ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/8 (finding-santa__christmas)|_|ΠΕΜΠΤΗ
-^Γ1|_|20181213|_|Γ1:ως dog-16 https://studio.code.org/s/course1/stage/16/1 (finding-santa__christmas)|_|ΠΕΜΠΤΗ
-^ST1|_|20181213|_|ΣΤ1 : ως mellises-repeat14 https://studio.code.org/s/course1/stage/14/puzzle/6 (finding-santa__christmas , hidden christams room)|_|ΠΕΜΠΤΗ
-^E2|_|20181213|_|Ε2:ως angry-birdslabyr13 https://studio.code.org/s/course1/stage/13/puzzle/10 (hidden christmas santa room , finding-santa__christmas)|_|ΠΕΜΠΤΗ ΣΥΝΕΧΕΙΑ ΑΠΟ
+
+^A^B^Γ^Δ^E^ST|_|20181031|_|https://studio.code.org/s/course1 ,https://studio.code.org/s/course1/stage/3/puzzle/1  |_|(1. Χαρούμενοι Χάρτες , 2. Κούνισέ το, Κούνισέ το , 3. Παζλ: Μάθε την μεταφορά και )
+^Γ^Δ^E^ST|_|20181031-1106|_|ironstart "https://studio.code.org/s/course1/stage/4/puzzle/1 "$SWFlocal"pack_A01.html" |_|4. Λαβύρινθος angry-birds: Ακολουθία
+^Γ^Δ^E^ST|_|20181031-1113|_|ironstart "https://studio.code.org/s/course1/stage/5/puzzle/1 "$SWFlocal"pack_A02.html" |_| 5. Λαβύρινθο angry-birds: εντοπισμός σφαλμ
+^Γ^Δ^E^ST|_|20181102-1105|_|ironstart "https://studio.code.org/s/course1/stage/7/puzzle/1 "$SWFlocal"pack_A03.html"    , airtyper|_|(7. melisses)
+^Γ^Δ^E^ST|_|20181102-1113|_|ironstart "https://studio.code.org/s/course1/stage/8/puzzle/1 "$SWFlocal"pack_A01.html"|_|(8. Καλλιτέχνης : Ακολουθία)
+^Γ^Δ^E^ST|_|20181102-1112|_|ironstart "https://studio.code.org/s/course1/stage/10/puzzle/1 "$SWFlocal"pack_A02.html"|_|(10.Καλλιτέχνης: Σχήματα)
+^Γ^Δ^E^ST|_|20181110-1130|_|ironstart "https://studio.code.org/s/course1/stage/12/puzzle/2 "$SWFlocal"pack_A03.html"|_|(12. Επαναλαμβανόμαστε,13. Λαβύρινθος angry-birds: Επαναλήψεις)  (stage11 αγγλικά μόνο)
+^Γ^Δ^E^ST|_|20181102-1122|_|ironstart "https://studio.code.org/s/course1/stage/14/puzzle/1 "$SWFlocal"pack_A01.html"|_|(14. Μέλισσα: Επαναλήψεις)
+^Γ^Δ^E^ST|_|20181102-1214|_|ironstart "https://studio.code.org/s/course1/stage/15/puzzle/2 "$SWFlocal"pack_A02.html"|_|ΔΥΣΚΟΛΑ (15. Το Μεγάλο Γεγονός , 16. Εργαστήρι Παιχνιδιού: Δημιουρ)
+
 
 
 
@@ -171,37 +129,16 @@ suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 
 
 |_||_|######## Word 1,2,3 ###########
-^Δ|_|20190115|_|Δ2: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock),(δεν προλάβαμε -frogger3d.swf) ,  Δ1: AskiseisWord/Για Πληκτρολόγηση.doc ,frogger3d.swf|_|ΤΡΙΤΗ
-^E|_|20190115|_|Ε1: AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock),frogger3d.swf Ε2: AskiseisWord/Για Πληκτρολόγηση.doc ,frogger3d.swf|_|ΤΡΙΤΗ
-^Γ2|_|20190116|_|Γ2: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock)|_|ΤΕΤΑΡΤΗ
-^Δ|_|20190116|_|Δ2: Asfaleia internet (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock),(δεν προλάβαμε -frogger3d.swf) ,  Δ1: Asfaleia internet , AskiseisWord/Για Πληκτρολόγηση.doc ,frogger3d.swf|_|ΠΕΜΠΤΗ
-^Γ1|_|20190116|_|Γ1: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock)|_|ΠΕΜΠΤΗ
-^ST1|_|20190116|_|ΣΤ1: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock) Κάποιοι το γράψαν όλο το κείμενο|_|ΠΕΜΠΤΗ
-^E2|_|20190116|_|E2: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock)|_|ΠΕΜΠΤΗ
-^ST2|_|20190117|_|ΣΤ2: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock)|_|ΠΑΡΑΣΚΕΥΗ
-^E1|_|20190117|_|Ε1: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock)|_|ΠΑΡΑΣΚΕΥΗ
-^Γ|_|20190120|_|Γ1: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock)  , Γ1: (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock)|_|ΔΕΥΤΕΡΑ
-^ST|_|20190120|_|ΣΤ2: AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock) το εγραψαν ολο 3 ) , ΣΤ1 : (ξανά στο άλλο μάθημα) AskiseisWord/Για Πληκτρολόγηση.doc (2 σειρές ,shift,enter,backspace caps lock)|_|ΔΕΥΤΕΡΑ
-^Δ|_|20190121|_|Δ2:  OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc (2 σειρές ,shift,enter,backspace caps lock) ,  Δ1: (2 αγορια ηταν αργα)$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc"|_|ΤΡΙΤΗ
-^E|_|20190121|_|Ε1:  OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc (2 σειρές ,shift,enter,backspace caps lock)  , E2: OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc|_|ΤΡΙΤΗ
-^Γ2|_|20190122|_|Γ2:  OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc (2 σειρές ,shift,enter,backspace caps lock)|_|ΤΕΤΑΡΤΗ
-^Δ|_|20190124|_|Δ2: OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc (ο Άγγελος δεν εγραψε τ'ιποτα) ,  Δ1: OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc|_|ΠΕΜΠΤΗ
-^Γ1|_|20190124|_|Γ1: OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc|_|ΠΕΜΠΤΗ
-^ST1|_|20190124|_|ΣΤ1: OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc|_|ΠΕΜΠΤΗ
-^E2|_|20190124|_|Ε2: EΛΕΙΠΑΝ πολλοί Να το κάνω αλλη εβδομάδα (έβαλα το b.html)OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc|_|ΠΕΜΠΤΗ
-^A2|_|20190125|_|A2 : $SWFlocal"pack_A01.html  , (καλή ζωγραφική. Να το βάζω στην 6η θεση)|_|ΠΑΡΑΣΚΕΥΗ
-^ST2|_|20190125|_|ΣΤ2: OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc|_|ΠΑΡΑΣΚΕΥΗ
-^Δ|_|20190130|_|Δ2: OFFICE_extra_files/pliktrologisi_j02.2_antigrafi_didaktiko_yliko.doc (ο Άγγελος δεν εγραψε τ'ιποτα) ,  Δ1: OFFICE_extra_files/pliktrologisi_j02.2_antigrafi_didaktiko_yliko.doc|_|ΠΕΜΠΤΗ
-^Γ1|_|20190131|_|Γ1: OFFICE_extra_files/pliktrologisi_j02.2_antigrafi_didaktiko_yliko.doc|_|ΠΕΜΠΤΗ
-^ST1|_|20190131|_|ΣΤ1: OFFICE_extra_files/pliktrologisi_j02.2_antigrafi_didaktiko_yliko.doc|_|ΠΕΜΠΤΗ
-^E2|_|20190131|_|Ε2: OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc|_|ΠΕΜΠΤΗ
-^ST2|_|20190201|_|oookidsopen "OFFICE_extra_files/pliktrologisi_j01.1_antigrafi_stratigiki_ekmathisis.doc"  τελείωσαν γρήγορα pack_A02.html|_|ΠΑΡΑΣΚΕΥΗ
-^E1|_|20190201|_|oookidsopen "OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc"|_|ΠΑΡΑΣΚΕΥΗ
+
+^Γ^Δ^E^ST|_|20190115-20|_|word01 AskiseisWord/Για Πληκτρολόγηση.doc ,(frogger3d.swf)|_|(2-2 σειρές καθένας,shift,enter,backspace caps lock)
+^Γ^Δ^E^ST|_|20190121-0201|_|word02  $OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc"  |_|(2-2 σειρές καθένας ,shift,enter,backspace caps lock)
+^Γ^Δ^E^ST|_|20190130-0131|_|word03 $OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/pliktrologisi_j02.2_antigrafi_didaktiko_yliko.doc"|_|
+
+
+^Γ^Δ^E^ST|_|20190130-0131|_|word05 $OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/pliktrologisi_j03.5_kremala_paint.doc"|_|
 
 
 
-
-|_||_|######## PARKING ###########
 
 
 |_||_|######## giortes xmas 1###########
@@ -210,11 +147,12 @@ suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 
 
 |_||_|######## giortes xmas 2###########
-^ST2|_|20181214|_|christmas games Mono, code.org από Ιανουαριο|_|ΠΑΡΑΣΚΕΥΗ
-^E1|_|20181214|_|christmas games Mono, code.org από Ιανουαριο|_|ΠΑΡΑΣΚΕΥΗ
+^A^B^Γ^Δ^E^ST|_|20181214|_|ironstartincognito ""$SWFgiortes"index_xmas.html"|_| 2-3 μαθήματα (μετά τέλος ασκήσεων)
+
 
 
 |_||_|######## giortes xmas 3 after ###########
+
 |_|20190108|_|15o tuxpaint : βασιλόπιτα, χριστουγ εικόνα  ^A, ^Δ1,^Δ2,  ^Ε1,^Ε2,^B1,^B2|_|ΤΡΙΤΗ, ΤΕΤΑΡΤΗ,ΔΕΥΤΕΡΑ  όλες  οι τάξεις 15ο Δημοτικό
 |_|20190109|_|10o tuxpaint : βασιλόπιτα, χριστουγ εικόνα  ^Γ2 ,^Α1 ,^Δ2,^Γ1,^ΣΤ1,^Ε2,^Α2, ^ΣΤ2,^Ε1,^Β|_|ΤΕΤΑΡΤΗ , ΠΕΜΠΤΗ ΠΑΡΑΣΚΕΥΗ
 
@@ -238,7 +176,7 @@ suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 |_||_|######## giortes easter 2 ###########
 
 |_||_|######## giortes easter 3 ###########
-
+^A^B^Γ^Δ^E^ST|_|20181214|_|ironstartincognito ""$SWFgiortes"index_easter.html"|_|2-3 μαθήματα (μετά τέλος ασκήσεων)
 
 
 |_||_|######## coding 1 lightbotjs 1###########
