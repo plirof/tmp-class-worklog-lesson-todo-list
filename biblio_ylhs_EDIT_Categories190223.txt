@@ -17,10 +17,6 @@
 ^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A03.html " |_|A:(δυσκολευτηκαν λιγο στο basket μαθηματικα) basketball math,animate draw your cartoon,magnetic_draw__paint_y8,arrange dollhouse,keymory type,BasketBalls physicsPuz,Kaban maze,chess
 ^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A04.html " |_|keytower type ,draw_line puzzle,arrange_fix car,paint super_wings,little-house-maze,soccer__higher_lower,paint_artpad, MonkeyGOHappyBalloons,chess
 ^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A05.html " |_|RideAndSolve math_sign, coloring_walking_frankie,paint_lily_paint_magic !!! _GOOD_PALLETE,arrange lego police,diver3, excuses-excuses__type (E-ST),spark_chess,sup mario-race-2,pirates-vs-undead_TDRT,chess
-^A^B|_|20190213|_|(REDO pack_A06 -- ironstart ""$SWFlocal"pack_A06.html " |_| XXXXXXXXXX    XXXREMOVE magnetic_draw__paint_y8_NoNavUrl_swf73,energy_physics__electrocute,MonkeyGOHappyCandy,smart-chess,subway_2pl_,fratboy_girlfriend_TD,XXXREMOVEanimate_draw_your_cartoon,math-platformer__collect_numbers,chess-mate-master
-^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A07.html " |_| color_ramkid_pccollet_xromatizw_me_grammata,croc-addition-with-pictures_!!,spider2_fuelthebrain,ramkid_typing_letters_slow_flyingt,qwerty21_decompr,chess-mate
-
-
 
 
 ^A|_|20181106|_|Mickey-Man(pacman).swf (dyskolo - barethikan sta 10n min) , gcompris (2 πρωτες επιλογες δεξια)|_|ΤΡΙΤΗ
@@ -35,25 +31,25 @@
 
 ^B|_|20190116|_|Β1,:coloring-inside-out__noADsURL.swf  , (είναιστο pack_A? )coloring_walking_frankie_coloring_page_noAdsUrl_!!.swf (τελειώνουν γρήγορα) , frogger3d.swf  ,  Β2 (4 ;atoma mono):coloring-inside-out__noADsURL.swf|_|ΤΕΤΑΡΤΗ
 
+^B|_|20181019|_|Minions-Thirsty-Coloring.swf  ,buscounting_%28simple%29.swf, Mickey-Man(pacman).swf (kalo - barethikan sta 10n min),      typing_adventure(indiana_jones).swf  (τους; αρεσε TO TYPING!!)|_|ΠΑΡΑΣΚΕΥΗ
 ^B|_|20180926|_|colorgame(sheppardsoftware.com)_preschool.swf ,colors_preschool_!!!.swf , (ligo sto B1) smurf-papas-memory_!.swf|_|
 
-
-^A|_|pack+OctA-20181003|_|A1,2 :colorgame(sheppardsoftware.com)_preschool.swf (again),buscounting, A1 :Your-Face.swf , A2: coloring_1bear.swf (toys arese),Mickey-Man(pacman).swf (kalo - barethikan sta 10n min)|_|ΤΕΤΑΡΤΗ
-^A^B|_|20181003|_|Minions-Thirsty-Coloring.swf , buscounting,  ,typing_adventure(indiana_jones)(to briskoun ligo dyskolo).swf,typing_bricks(puzzle)!!!.swf(again), colorgame(sheppardsoftware.com)_preschool.swf|_|ΤΕΤΑΡΤΗ
+^A|_|20181002|_|buscounting, elephant_maze_puzzleKIDS.swf , colorgame(sheppardsoftware.com)_preschool.swf (again)|_|ΤΡΙΤΗ
+^A|_|20181003|_|A1,2 :colorgame(sheppardsoftware.com)_preschool.swf (again),buscounting, A1 :Your-Face.swf , A2: coloring_1bear.swf (toys arese)|_|ΤΕΤΑΡΤΗ
+^B|_|20181003|_|b1,2:buscounting,  ,typing_adventure(indiana_jones)(to briskoun ligo dyskolo).swf,typing_bricks(puzzle)!!!.swf(again)|_|ΤΕΤΑΡΤΗ
 suggest|_|20181003|_|@@@@ http://educ.swf.dimotiko.tk/education_math_shapes_/math_WordSearch-computer. TO EDIT IMAGES Να Γίνει ελληνικά   , indiana jones|_|http://educ.swf.dimotiko.tk/education_math_shapes_/math_WordSearch-computer.swf
 ^Γ|_|20181008|_|g1,2 ,εσωτερικό PC, tuxpaint (πινέλα),|_|ΔΕΥΤΕΡΑ
 
 
 
 |_||_|######## Type ###########
-^A^B^Γ|_|02|_|http://192.168.1.200/swf/pack_type_ramkid_greek.html |_|typing0 (A,B δημοτικου) typing_bricks,ramkid_typing (4 different), ramkid typing disk2_0 Γράψε 5 φράσεις !!! ,castle-defence-extreme-spelling
-^A^B^Γ^Δ^E^ST|_|w02|_|typing_bricks(puzzle)!!!.swf  , airtyper_1.swf|_|typing1
-^A^B^Γ^Δ^E^ST|_|w03|_|airtype (again), typing_adventure(indiana_jones).swf (Δ αρέσει)31sec record ,d1:typing_bricks(puzzle)!!!.swf(again), Your-Face.swf|_|typing2
+^A^B^Γ^Δ^E^ST|_|02|_|typing_bricks(puzzle)!!!.swf  , airtyper_1.swf|_|typing1
+^A^B^Γ^Δ^E^ST|_|03|_|airtype (again), typing_adventure(indiana_jones).swf (Δ αρέσει)31sec record ,d1:typing_bricks(puzzle)!!!.swf(again), Your-Face.swf|_|typing2
 suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 
 
 |_||_|######## PARKING ###########
-^Γ^Δ^E^ST|_|OctB-w05+|_|ST2 :spongebob-parking_!!.swf , edsparkinggame.swf ,typingbricks|_|pack_park01
+^Γ^Δ^E^ST|_|05+|_|ST2 :spongebob-parking_!!.swf , edsparkinggame.swf ,typingbricks|_|
 ^ST|_|20181010|_|ST1(mono 6 atoma) : spongebob-parking_!!.swf ,labrat  ,  |_|ΠΕΜΠΤΗ,ΠΑΡΑΣΚΕΥΗ
 
 
@@ -62,18 +58,16 @@ suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 
 
 |_||_|######## Tuxpaint ###########
-^A^B^Γ^Δ^E^ST|_|w01-05|_|tuxpaint πινέλα  (ζωγραφίστε σπίτι + αμάξι ,πινέλα ,σφραγίδες) ,typing_bricks(puzzle)!!!.swf|_|tuxpaint 1
+^A^B^Γ^Δ^E^ST|_|01-05|_|tuxpaint πινέλα  (ζωγραφίστε σπίτι + αμάξι ,πινέλα ,σφραγίδες) ,typing_bricks(puzzle)!!!.swf|_|tuxpaint 1
 ^Γ^Δ^E^ST|_|20181001-09|_|tuxpaint, σχήματα με τετράγωνα + τρίγωνα (σπιτάκια)|_|tuxpaint 2
 ^A^B|_|20181016|_|A2,1: tuxpaint πινέλα, σφραγίδες (A2 φάνηκε να βαριέται)|_|tuxpaint 3
 
-|_||_|######## Animation Graphics ###########
-^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_animate01.html " |_| animate_draw_your_cartoon_character_GREEK1_noAdsUrl.swf,magnetic_draw__paint_y8,paint_artpad_y8_GREEK_noNavAdUrl.swf , paint_lily_paint_magic_GOOD_PALLETE_NoNavAdUrl_!!.swf,comic_design__garfield_comic_creator_y8.swf
-^A^B^Γ^Δ^E^ST|_|March|_|ironstart ""$SWFlocal"graphics_/comic_design__garfield_comic_creator_y8.swf "$SWFlocal"graphics_/animate_space__animation_studio_noAdUrl_!.swf" "$SWFlocal"pack_A03.html" |_|Graphics 01 Φτιάξε comic !!! ,
+
 
 
 |_||_|######## Maze ###########
-^A^B^Γ^Δ^E^ST|_|OctB-20181010|_|A1,2 :Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf , typing_adventure(indiana_jones).swf, the-maze-game(robot).swf , ab/ladybugs_TRODLER_noADsURL@.swf ,fun/maze/minotaur_122_maze__unencr3_noAdsUrl_!.swf, BloonsTowerDefense2.swf, WORD (σε λιγους που βαρεθήκαν)|_|maze 1 (diego Δ+ to teleiwsan sta 15me20lepta))
-^A^B^Γ^Δ^E^ST|_|octC-20181015|_|st2,1: labrat(! SlowPC) , ab/ladybugs_TRODLER_noADsURL@.swf ,fun/maze/minotaur_122_maze__unencr3_noAdsUrl_!.swf ,Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf,soccer-balls(projectile).swf (Toys Arese ST)|_|maze2 ΔΕΥΤΕΡΑ
+^A^B^Γ^Δ^E^ST|_|20181010|_|A1,2 :Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf, BloonsTowerDefense2.swf , typing_adventure(indiana_jones).swf, the-maze-game(robot).swf , WORD (σε λιγους που βαρεθήκαν)|_|maze 1 (diego Δ+ to teleiwsan sta 15me20lepta))
+^ST|_|20181015|_|st2,1: labrat(! SlowPC) , soccer-balls(projectile).swf (Toys Arese ST)|_|ΔΕΥΤΕΡΑ
 ^E|_|20181010|_|e2,1: labrat , spongebob-parking_!!.swf , edsparkinggame.swf|_|ΠΕΜΠΤΗ,ΠΑΡΑΣΚΕΥΗ
 ^A^B|_|20181012|_|labrat ,colorgame(sheppardsoftware.com)_preschool.swf , Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf |_|ΠΑΡΑΣΚΕΥΗ
 
