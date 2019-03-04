@@ -67,8 +67,8 @@ suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 ^A^B|_|20181016|_|A2,1: tuxpaint πινέλα, σφραγίδες (A2 φάνηκε να βαριέται)|_|tuxpaint 3
 
 |_||_|######## Animation Graphics ###########
-^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_animate01.html " |_| animate_draw_your_cartoon_character_GREEK1_noAdsUrl.swf,magnetic_draw__paint_y8,paint_artpad_y8_GREEK_noNavAdUrl.swf , paint_lily_paint_magic_GOOD_PALLETE_NoNavAdUrl_!!.swf,comic_design__garfield_comic_creator_y8.swf
-^A^B^Γ^Δ^E^ST|_|March|_|ironstart ""$SWFlocal"graphics_/comic_design__garfield_comic_creator_y8.swf "$SWFlocal"graphics_/animate_space__animation_studio_noAdUrl_!.swf" "$SWFlocal"pack_A03.html" |_|Graphics 01 Φτιάξε comic !!! ,
+^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_gfx01.html " |_| sumopaint1025_GREEK_NoNavUrl1_v4b_progray.swf , animate_draw_your_cartoon_character_GREEK1_noAdsUrl.swf,magnetic_draw__paint_y8,paint_artpad_y8_GREEK_noNavAdUrl.swf , paint_lily_paint_magic_GOOD_PALLETE_NoNavAdUrl_!!.swf,comic_design__garfield_comic_creator_y8.swf
+^A^B^Γ^Δ^E^ST|_|March|_|ironstart ""$SWFlocal"graphics_/comic_design__garfield_comic_creator_y8.swf "$SWFlocal"graphics_/animate_space__animation_studio_noAdUrl_!.swf" "$SWFlocal"pack_A03.html" |_|Graphics 02 Φτιάξε comic !!! ,
 
 
 |_||_|######## Maze ###########
