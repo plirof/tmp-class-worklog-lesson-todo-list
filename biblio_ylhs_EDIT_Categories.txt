@@ -67,8 +67,8 @@ suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 ^A^B|_|20181016|_|A2,1: tuxpaint πινέλα, σφραγίδες (A2 φάνηκε να βαριέται)|_|tuxpaint 3
 
 |_||_|######## Animation Graphics ###########
-^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_gfx01.html " |_| sumopaint1025_GREEK_NoNavUrl1_v4b_progray.swf , animate_draw_your_cartoon_character_GREEK1_noAdsUrl.swf,magnetic_draw__paint_y8,paint_artpad_y8_GREEK_noNavAdUrl.swf , paint_lily_paint_magic_GOOD_PALLETE_NoNavAdUrl_!!.swf,comic_design__garfield_comic_creator_y8.swf
-^A^B^Γ^Δ^E^ST|_|March|_|ironstart ""$SWFlocal"graphics_/comic_design__garfield_comic_creator_y8.swf "$SWFlocal"graphics_/animate_space__animation_studio_noAdUrl_!.swf" "$SWFlocal"pack_A03.html" |_|Graphics 02 Φτιάξε comic !!! ,
+^A^B^Γ^Δ^E^ST|_|gfx1 20190213|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=graphics_/paint_artpad_y8_GREEK_noNavAdUrl.swf\&url2=graphics_/paint_lily_paint_magic_GOOD_PALLETE_NoNavAdUrl_!!.swf\&url3=animate_draw_your_cartoon_character_GREEK1_noAdsUrl.swf\&url4=pack_A02.html\&url5=GFX1\&url6=sumopaint1025_GREEK_NoNavUrl1_v4b_progray.swf" |_| gfx1
+^A^B^Γ^Δ^E^ST|_|gfx2 March|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=graphics_/comic_design__garfield_comic_creator_y8.swf\&url2=graphics_/animate_space__animation_studio_noAdUrl_!.swf\&url3=http://tortuga.dimotiko.tk\&url4=pack_A03.html\&url5=ΦΤΙΑΞΕ KOMIK\&url6=sumopaint1025_GREEK_NoNavUrl1_v4b_progray.swf" |_| gfx2 comic create
 
 
 |_||_|######## Maze ###########
@@ -206,9 +206,8 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 ^Γ^Δ^E^ST|_|AprilA|_|TANK   ironstartincognito ""$GAMESEDU"Code-Commander-gr/index_dot_links.html  http://192.168.1.200/swf/pack_A02.html "   ,|_|----tank commander lesson  @@@
 
 |_||_|######## coding 4 other flash etc###########
-^Γ^Δ^E^ST|_|AprilB|_|ironstartincognito ""$SWFlocal"coding/lightbot-codehour-gr_NoNavUrl.swf "$SWFlocal"coding/
-Tiny-explorers__nice_puzzle_education_unencr_noAds_ok.swf http://tortuga.dimotiko.tk"    |_|ΠΕΜΠΤΗ,
-^Γ^Δ^E^ST|_|AprilC|_|ironstartincognito ""$SWFlocal"coding/Rover_nasa_GREEK1.swf "$SWFlocal"coding/Tiny-explorers__nice_puzzle_education_unencr_noAds_ok.swf http://tortuga.dimotiko.tk"     |_|ΠΕΜΠΤΗ,
+^Γ^Δ^E^ST|_|AprilB|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=coding/lightbot-codehour-gr_NoNavUrl.swf\&url2=coding/Tiny-explorers__nice_puzzle_education_unencr_noAds_ok.swf\&url3=http://tortuga.dimotiko.tk\&url4=pack_A02.html\&url5=ΚΩΔΙΚΑΣ"    |_|coding swf lightbot
+^Γ^Δ^E^ST|_|AprilC|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=coding/Rover_nasa_GREEK1.swf\&url2=coding/Tiny-explorers__nice_puzzle_education_unencr_noAds_ok.swf\&url3=http://tortuga.dimotiko.tk\&url4=pack_A02.html\&url5=ΚΩΔΙΚΑΣ"     |_|ΠΕΜΠΤΗ,
 
 |_||_|######## coding 5 scratch ###########
 ^Γ|_|20181029|_|Scratch dialogue-cartoon , html/txt οδηγίες βήμα-βήμα|_|Scratch dialogue-cartoon
