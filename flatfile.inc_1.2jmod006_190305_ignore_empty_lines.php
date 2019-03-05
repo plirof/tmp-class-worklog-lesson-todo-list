@@ -4,6 +4,7 @@ date_default_timezone_set('Europe/Athens'); //added to avoid PHP warning for dat
 # Flat File Database Manager 1.2jmod06-RTfilter 190305
 #
 # changes
+# ver1.2jmod006_190305_ignore_empty_lines.php
 # ver1.2jmod05-Reat time client filter 190224a
 # ver1.2jmod04-link object type 190223a :
 #   - Added red color to DELETE/MARK checkbox
