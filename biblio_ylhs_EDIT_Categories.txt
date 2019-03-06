@@ -54,7 +54,8 @@ suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 
 
 |_||_|######## PARKING ###########
-^Γ^Δ^E^ST|_|OctB-w05+|_|ST2 :spongebob-parking_!!.swf , edsparkinggame.swf ,typingbricks|_|pack_park01
+^Γ^Δ^E^ST|_|OctB-w05+|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/spongebob-parking_jon04noURLS_need760MBram_!!.swf\&url2=fun/puzzle_board/edsparkinggame.swf\&url3=type/typing_bricks(puzzle)!!!.swf\&url4=type/typing_alphattack2__bombDrop_NoNavUrl.swf\&url5=fun/puzzle_board/spark_chess_17521__allows_save_NoNavUrl.swf\&url6=park-1"|_|pack_park01
+
 ^ST|_|20181010|_|ST1(mono 6 atoma) : spongebob-parking_!!.swf ,labrat  ,  |_|ΠΕΜΠΤΗ,ΠΑΡΑΣΚΕΥΗ
 
 
@@ -73,8 +74,12 @@ suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 
 
 |_||_|######## Maze ###########
-^A^B^Γ^Δ^E^ST|_|OctB-20181010|_|A1,2 :Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf , typing_adventure(indiana_jones).swf, the-maze-game(robot).swf , ab/ladybugs_TRODLER_noADsURL@.swf ,fun/maze/minotaur_122_maze__unencr3_noAdsUrl_!.swf, BloonsTowerDefense2.swf, WORD (σε λιγους που βαρεθήκαν)|_|maze 1 (diego Δ+ to teleiwsan sta 15me20lepta))
-^A^B^Γ^Δ^E^ST|_|octC-20181015|_|st2,1: labrat(! SlowPC) , ab/ladybugs_TRODLER_noADsURL@.swf ,fun/maze/minotaur_122_maze__unencr3_noAdsUrl_!.swf ,Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf,soccer-balls(projectile).swf (Toys Arese ST)|_|maze2 ΔΕΥΤΕΡΑ
+^A^B^Γ^Δ^E^ST|_|OctB-20181010|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/maze/Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf\&url2=fun/maze/the-maze-game(robot)__no_jp_utl.swf\&url3=ab/ladybugs_TRODLER_noADsURL@.swf\&url4=type/typing_adventure(indiana_jones).swf\&url5=fun/td/BloonsTowerDefense2_ok4slow_p4_NoNavUrl.swf\&url6=maze-1"|_|maze 1 (diego Δ+ to teleiwsan sta 15me20lepta))
+
+^A^B^Γ^Δ^E^ST|_|octC-20181015|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/maze/labrat__maze-kids_needFastPC_unencr2noAdsURL_!!.swf\&url2=fun/maze/minotaur_122_maze__unencr3_noAdsUrl_!.swf\&url3=fun/maze/Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!\&url4=ab/ladybugs_TRODLER_noADsURL@.swf\&url5=fun/physics/soccer-balls__physics__noADurl.swf\&url6=maze-2" |_|maze2 ,soccer-balls(projectile).swf (Toys Arese ST)
+
+
+
 ^E|_|20181010|_|e2,1: labrat , spongebob-parking_!!.swf , edsparkinggame.swf|_|ΠΕΜΠΤΗ,ΠΑΡΑΣΚΕΥΗ
 ^A^B|_|20181012|_|labrat ,colorgame(sheppardsoftware.com)_preschool.swf , Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf |_|ΠΑΡΑΣΚΕΥΗ
 
