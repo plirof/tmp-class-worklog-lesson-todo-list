@@ -47,9 +47,8 @@ suggest|_|20181003|_|@@@@ http://educ.swf.dimotiko.tk/education_math_shapes_/mat
 
 |_||_|######## Type ###########
 ^A^B^Γ|_|02|_|http://192.168.1.200/swf/pack_type_ramkid_greek.html |_|typing0 (A,B δημοτικου) typing_bricks,ramkid_typing (4 different), ramkid typing disk2_0 Γράψε 5 φράσεις !!! ,castle-defence-extreme-spelling
-^A^B^Γ^Δ^E^ST|_|w02|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=type/typing_bricks(puzzle)!!!.swf\&url2=type/assault-typing__shootemup__rapidtyping.com_NoAdUrl.swf\&url3=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url4=type/typing_alphattack2__bombDrop_NoNavUrl.swf\&url5=type/airtyper_1_noADsURL.swf\&url6=typing-1"|_|typing1
-
-^A^B^Γ^Δ^E^ST|_|w03|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=type/airtyper_1_noADsURL.swf\&url2=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url3=type/typing_bricks(puzzle)!!!.swf\&url4=type/typing_tidepool(sea_race)_!!.swf\&url5=typing-2" |_|typing2  - airtype, typing_adventure(indiana_jones).swf (Δ αρέσει)31sec record ,d1:typing_bricks
+^A^B^Γ^Δ^E^ST|_|w02|_|typing_bricks(puzzle)!!!.swf  , airtyper_1.swf|_|typing1
+^A^B^Γ^Δ^E^ST|_|w03|_|airtype (again), typing_adventure(indiana_jones).swf (Δ αρέσει)31sec record ,d1:typing_bricks(puzzle)!!!.swf(again), Your-Face.swf|_|typing2
 suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 
 
