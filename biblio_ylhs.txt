@@ -141,13 +141,14 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 
 |_||_|######## special days (recycle etc) ###########
 ^A^B^Γ^Δ^E^ST|_|recycle|_|ironstart ""$SWFlocal"pack_recycle.html?timer2"  |_|recycle  (junkmonster,ramkid_recycle_catch_trash_recfall,ramkid_recycle_correct_bin_reccat, Go_Recycle,Recycle(drag_drop),Recycle_Fun(grabber) recycle_huruhumi(recycle_or_compost))
-
+suggest|_|20190204|_|TA BINTEO) : http://www.saferinternet.gr/index.php?parentobjId=Page15&objId=Category17&p=0   ,INTERNETOΔΑΣΟΣ:  http://wildwebwoods.org/popup.php?lang=gr   ,   https://internet-safety.sch.gr/ ,  http://www.saferinternet.gr/  ,  BINTEO http://www.saferinternet.gr/index.php?objId=Category17&parentobjId=Page15   ,|_|ΑΣΦΑΛΕΙΑ ΔΙΑΔΙΚΤΥΟ  @@@
 
 |_||_|######## coding 1,2 lightbotjs###########
-^Α^Β|_|code0|_|Να βρω κάτι πολύ εύκολο !!! lightbot_iron_browser "maps_d1.txt "$SWFlocal"pack_A02.html"|_|code0ΑΒ
-^Γ^Δ^E^ST|_|code1|_|lightbot_iron_browser "maps_random_2%284x4_3lights%29.txt "$SWFlocal"pack_A04.html" |_|code1 ευκολο για μεγάλες τάξεις (ας παίξουν pack_A04 όσοι τελειώσουν)
-^Γ|_|code2Γ|_|lightbot_iron_browser "maps_d1.txt "$SWFlocal"pack_A02.html"|_|code2Γ
-^Δ^E^ST|_|code2Δ,Ε,ΣΤ|_|lightbot_iron_browser "maps_easy.txt "$SWFlocal"pack_A02.html"|_|code2Δ,Ε,ΣΤ ΕΠΑΠΑΝΑΛΑΒΕ
+^Α^Β|_|JanC code0|_|Να βρω κάτι πολύ εύκολο !!! lightbot_iron_browser "maps_d1.txt "$SWFlocal"pack_A02.html"|_|code0ΑΒ
+^Γ^Δ^E^ST|_|JanC code1|_|lightbot_iron_browser "maps_random_2%284x4_3lights%29.txt "$SWFlocal"pack_A04.html" |_|code1 intro ευκολο για μεγάλες τάξεις (ας παίξουν pack_A04 όσοι τελειώσουν)
+^Γ|_|JanD code2Γ|_|lightbot_iron_browser "maps_d1.txt "$SWFlocal"pack_A02.html"|_|code2Γ
+^Δ^E^ST|_|JanD code2Δ,Ε,ΣΤ|_|lightbot_iron_browser "maps_easy.txt "$SWFlocal"pack_A02.html"|_|code2Δ,Ε,ΣΤ ΕΠΑΠΑΝΑΛΑΒΕ
+
 
 
 |_||_|######## coding 3 tank ###########
@@ -191,15 +192,13 @@ suggest|_|20181015|_|http://androul.mysch.gr/course/index.php?categoryid=1|_|
 
 suggest|_|20181022|_| https://pinta-project.com/pintaproject/pinta/  ,  http://www.upubuntu.com/2011/03/eight-image-editors-you-can-install-and.html|_|
 
-suggest|_|20190204|_|TA BINTEO) : http://www.saferinternet.gr/index.php?parentobjId=Page15&objId=Category17&p=0   ,INTERNETOΔΑΣΟΣ:  http://wildwebwoods.org/popup.php?lang=gr   ,   https://internet-safety.sch.gr/ ,  http://www.saferinternet.gr/  ,  BINTEO http://www.saferinternet.gr/index.php?objId=Category17&parentobjId=Page15   ,|_|ΑΣΦΑΛΕΙΑ ΔΙΑΔΙΚΤΥΟ  @@@
+
 suggest|_|20190205|_|wget -T 30 https://mirror.aarnet.edu.au/pub/centos/7/isos/x86_64/md5sum.txt|_|wget timeout  @@@
 
 suggest|_|20190123|_|ln -s /opt/lampp/htdocs/ramkid_selection_swf/ ./   ,  http://educ.swf.dimotiko.tk/4class_sfs/   ,|_|
-suggest|_|20181221|_|/mnt/live/memory/images/askiseis_office_htdocs_desktop_v02a_181104.squashfs/opt/lampp/htdocs/askiseis_office/AskiseisWord/   , ooo4kids1.3 -n /opt/lampp/htdocs/askiseis_office/AskiseisWord/epistoli.doc|_|
-suggest|_|20181221|_|OOOKIDS="ooo4kids1.3 -n "OOOKIDSpathprefix="/opt/lampp/htdocs/askiseis_office/"#: '#ΤΕΤΑΡΤΗ 10ο ΔΗΜ$OOOKIDS$OOOKIDSpathprefix"AskiseisWord/epistoli.doc"$OOOKIDS|_|
 suggest|_|20190115|_|https://forums.opensuse.org/showthread.php/432360-can-t-open-remote-files-in-Openoffice|_|
 suggest|_|20181115|_|save exit  http://murga-linux.com/puppy/viewtopic.php?t=111789&start=150&sid=0ef20a79c046e5c1bb7ee82230b8db43|_|
-suggest|_|20190214|_|2check flash games   ,  https://clevergames.wordpress.com/2009/12/02/online-games-for-kids-top-list-free-educational-flash-games/|_|
+suggest|_|20190214|_|2check flash games   , https://clevergames.wordpress.com/2009/12/02/online-games-for-kids-top-list-free-educational-flash-games/|_|
 |_|20190225-08|_|apokries part 3 (two weeks 20190225-20190308)  : ^B, ^A, ^B, ^Γ, ^Δ, ^E, ^ST, ^A1, ^A2, ^B, ^Γ1, ^Γ2, ^Δ, ^E1, 
 suggest|_|20181122|_|https://littlebinsforlittlehands.com/printable-algorithm-coding-game-stem-kids/   ,|_|
 
@@ -219,5 +218,5 @@ suggest|_|20190210|_|https://www.e-dim.gr/a-dimotiko/|_|
 suggest|_|20190211|_|typefun.dimotiko.tk  ,  http://list2checkbox.dimotiko.tk/class_dimotika.php|_|
 suggest|_|20181213|_|https://sites.google.com/site/unlokcloud/swf-game-downloads-and-links   ,  https://www.kidzeegames.com/category/education/   ,  http://bmanatee.blogspot.com/2013/04/manatee-swf-decrypter-v3.html   ,  http://bruce-lab.blogspot.co.il/2010/08/freeswfdecompilers.html     ,   http://www.showmycode.com/   ,   https://developers.google.com/swiffy/   ,|_|
 suggest|_|20190131|_|A ταξη : ironstart "https://blockly-games.appspot.com/?lang=el http://192.168.1.200/swf/pack_A01.html --incognito"|_|http://192.168.1.200/gamesedu/lightbot_haan/select.php
-|_|20190131|_|LIGHTBOT : INTRO class A,B,C : lightbot_iron_browser maps_easy.txt http://192.168.1.200/swf/pack_A02.html --incognito" , ####  INTRO d-st : lightbot_iron_browser maps_random_2%284x4_3lights%29.txt http://192.168.1.200/swf/pack_A02.html --incognito" , ####   , #### NORMAL GAME (bigger classes) ironstart "http://192.168.1.200/gamesedu/lightbot_haan/ http://192.168.1.200/swf/pack_A02.html --incognito"   , ####  lightbot_iron_browser maps_d1.txt http://192.168.1.200/swf/pack_A02.html --incognito"|_|----lightbot lesson
+
 
