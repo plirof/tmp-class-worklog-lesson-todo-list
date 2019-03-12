@@ -2,6 +2,7 @@
 |_||_|######## Mouse Intro Ευκολα Α,Β ###########
 
 ^A|_|20180913|_|colorgame(sheppardsoftware.com)_preschool.swf ,funbrain_com_SimonSees.swf  ,funbrain_com_PicklePop.swf|_|
+suggest|_|20190204|_|http://ts.sch.gr/repo/online-packages/^glossa-a-b/start.html   ,  http://sivasxoleio.blogspot.com/2015/03/blog-post_67.html , http://mikrapaidia.gr/ccs3/ *** gia a,b taksi   ,   CUSTOM 2 check : http://www.blendedplay.com/#|_|ΕΚΠΑΙΔΕΥΤΙΚΑ παιχνίδια ts.sch.gr @@@
 
 
 
@@ -71,13 +72,8 @@ suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 
 |_||_|######## Maze ###########
 ^A^B^Γ^Δ^E^ST|_|OctB-20181010|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/maze/Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf\&url2=fun/maze/the-maze-game\(robot\)__no_jp_utl.swf\&url3=ab/ladybugs_TRODLER_noADsURL@.swf\&url4=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url5=fun/td/BloonsTowerDefense2_ok4slow_p4_NoNavUrl.swf\&url6=maze-1"|_|maze 1 (diego Δ+ to teleiwsan sta 15me20lepta))
-
 ^A^B^Γ^Δ^E^ST|_|octC-20181015|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/maze/labrat__maze-kids_needFastPC_unencr2noAdsURL_!!.swf\&url2=fun/maze/minotaur_122_maze__unencr3_noAdsUrl_!.swf\&url3=fun/maze/Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf\&url4=ab/ladybugs_TRODLER_noADsURL@.swf\&url5=fun/physics/soccer-balls__physics__noADurl.swf\&url6=maze-2" |_|maze2 ,soccer-balls(projectile).swf (Toys Arese ST)
-
 ^A^B^Γ^Δ^E^ST|_|maze3fun|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/maze/mazegame-lola_kids_A-ST__NoNavUrl_!!.swf\&url2=fun/maze/Kaban_agriogourouno_maze_ok_more_time!!.swf\&url3=fun/maze/ghostcastle_maze_girl__jon_SHOW_ALL!!.swf\&url4=fun/maze/open-doors_maze__dimD-ST_NoNavUrl_!!.swf\&url5=fun/maze/sonic-vs-dogs_maze_ok_noADurl.swf\&url6=maze-3" |_|maze3 fun
-
-
-^A^B|_|20181012|_|labrat ,colorgame(sheppardsoftware.com)_preschool.swf , Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf |_|ΠΑΡΑΣΚΕΥΗ
 
 
 
@@ -147,7 +143,6 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 ^A^B^Γ^Δ^E^ST|_|recycle|_|ironstart ""$SWFlocal"pack_recycle.html?timer2"  |_|recycle  (junkmonster,ramkid_recycle_catch_trash_recfall,ramkid_recycle_correct_bin_reccat, Go_Recycle,Recycle(drag_drop),Recycle_Fun(grabber) recycle_huruhumi(recycle_or_compost))
 
 
-
 |_||_|######## coding 1,2 lightbotjs###########
 ^Α^Β|_|code0|_|Να βρω κάτι πολύ εύκολο !!! lightbot_iron_browser "maps_d1.txt "$SWFlocal"pack_A02.html"|_|code0ΑΒ
 ^Γ^Δ^E^ST|_|code1|_|lightbot_iron_browser "maps_random_2%284x4_3lights%29.txt "$SWFlocal"pack_A04.html" |_|code1 ευκολο για μεγάλες τάξεις (ας παίξουν pack_A04 όσοι τελειώσουν)
@@ -155,9 +150,8 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 ^Δ^E^ST|_|code2Δ,Ε,ΣΤ|_|lightbot_iron_browser "maps_easy.txt "$SWFlocal"pack_A02.html"|_|code2Δ,Ε,ΣΤ ΕΠΑΠΑΝΑΛΑΒΕ
 
 
-
 |_||_|######## coding 3 tank ###########
-^Γ^Δ^E^ST|_|AprA|_|TANK   ironstartincognito ""$GAMESEDU"Code-Commander-gr/index_dot_links.html "$SWFlocal"pack_A02.html"   ,|_|TANK commander lesson  @@@
+^Γ^Δ^E^ST|_|AprA|_|TANK   ironstartincognito ""$GAMESEDU"Code-Commander-gr/index_dot_links.html "$SWFlocal"pack_A02.html"   ,|_|coding TANK commander lesson  @@@
 
 |_||_|######## coding 4 other flash etc###########
 ^Γ^Δ^E^ST|_|MarB|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=coding/Rover_nasa_GREEK1.swf\&url2=coding/Tiny-explorers__nice_puzzle_education_unencr_noAds_ok.swf\&url3=http://tortuga.dimotiko.tk\&url4=pack_A02.html\&url5=coding/TurtlePond__illuminations.nctm.org.swf\&url6=ΚΩΔΙΚΑΣ"     |_|coding (ok Δ δημοτικού mars_rover  -tiny explorers αρεσε Δ,ΣΤ)
@@ -181,10 +175,6 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 
 
 
-
-
-
-
 ^Γ|_|20181014|_|G1,2 addition-croc_(BiggerNumbers)_(math4childrenplus).swf ,labrat|_|ΔΕΥΤΕΡΑ
 suggest|_|20181015|_|http://androul.mysch.gr/course/index.php?categoryid=1|_|
 
@@ -199,43 +189,9 @@ suggest|_|20181015|_|http://androul.mysch.gr/course/index.php?categoryid=1|_|
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-^E1|_|20190222|_|^E1 - θα γράψουν ένα κείμενο της δασκάλας τους.|_|next ΠΑΡΑΣΚΕΥΗ 29 εργασία τάξης
-
-
-^A2|_|20181214|_|Α2 : frogger3d.sw (dyskoleytikan poly) , christmas hidden objects|_|ΠΑΡΑΣΚΕΥΗ
-
-
-
-
-
-
-
-
-
-easter|_|20190116|_|Β2 (4 ;atoma mono): @@@ΔΟΚΙΜΕΣ: ,stoneage_runner_y8.swf ligo argo se SlowPC , (easter_shop_farm_ShowAll_noNavURL.swf ok4slowPC , easter_bunny_ride_physics (bit slow 4slowPC,easter_extinction_hammer_eggs ok SlowPC , easter_avenger_ex_NoNavUrl.swf NEED fastPC , Free Rider 3  (med speed 4 slow PC),  easter_bunny_jumping_funny_y8test5HasAds.swf  (ok speed 4 slow PC)|_|ΤΕΤΑΡΤΗ
 suggest|_|20181022|_| https://pinta-project.com/pintaproject/pinta/  ,  http://www.upubuntu.com/2011/03/eight-image-editors-you-can-install-and.html|_|
 
 suggest|_|20190204|_|TA BINTEO) : http://www.saferinternet.gr/index.php?parentobjId=Page15&objId=Category17&p=0   ,INTERNETOΔΑΣΟΣ:  http://wildwebwoods.org/popup.php?lang=gr   ,   https://internet-safety.sch.gr/ ,  http://www.saferinternet.gr/  ,  BINTEO http://www.saferinternet.gr/index.php?objId=Category17&parentobjId=Page15   ,|_|ΑΣΦΑΛΕΙΑ ΔΙΑΔΙΚΤΥΟ  @@@
-suggest|_|20190204|_|http://ts.sch.gr/repo/online-packages/^glossa-a-b/start.html   ,   http://sivasxoleio.blogspot.com/2015/03/blog-post_67.html   ,   CUSTOM 2 check : http://www.blendedplay.com/#|_|ΕΚΠΑΙΔΕΥΤΙΚΑ παιχνίδια ts.sch.gr @@@
 suggest|_|20190205|_|wget -T 30 https://mirror.aarnet.edu.au/pub/centos/7/isos/x86_64/md5sum.txt|_|wget timeout  @@@
 
 suggest|_|20190123|_|ln -s /opt/lampp/htdocs/ramkid_selection_swf/ ./   ,  http://educ.swf.dimotiko.tk/4class_sfs/   ,|_|
