@@ -128,7 +128,7 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 
 
 |_||_|######## giortes xmas###########
-^A^B^Γ^Δ^E^ST|_|20181217|_|15ο Δημοτικό ΔΕΥΤΕΡΑ Xristougenniatikes drasthriothtes (oles oi takseis) , christmas hidden objects , ζωγραφιστε χριστουγ κάρτες |_|giortes xmas Α
+^A^B^Γ^Δ^E^ST|_|20181217|_|Xristougenniatikes drasthriothtes (oles oi takseis) , christmas hidden objects , ζωγραφιστε χριστουγ κάρτες |_|giortes xmas Α
 ^A^B^Γ^Δ^E^ST|_|20181214|_|ironstartincognito ""$SWFgiortes"index_xmas.html"|_|giortes xmas Β : 2-3 μαθήματα (μετά τέλος ασκήσεων)
 ^A^B^Γ^Δ^E^ST|_|20190108|_|15o tuxpaint : βασιλόπιτα, χριστουγ εικόνα  ^A, ^Δ1,^Δ2,  ^Ε1,^Ε2,^B1,^B2|_|giortes xmas C
 
@@ -138,13 +138,9 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 ^A^B^Γ^Δ^E^ST|_|FebD|_|ironstartincognito ""$SWFgiortes"index_halloween.html"|_|apokries part 2, games two weeks 20190225-20190308 , ΔΕΥΤΕΡΑ,ΤΡΙΤΗ,ΤΕΤΑΡΤΗ,ΠΕΜΠΤΗ,ΠΑΡΑΣΚΕΥΗ
 
 
-
-|_||_|######## giortes easter 1 ###########
-
-|_||_|######## giortes easter 2 ###########
-
 |_||_|######## giortes easter ###########
-^A^B^Γ^Δ^E^ST|_|20181214|_|ironstartincognito ""$SWFgiortes"index_easter.html"|_|pasxa part B ,2-3 μαθήματα (μετά τέλος ασκήσεων)
+^A^B^Γ^Δ^E^ST|_|20181214|_|ironstartincognito ""$SWFlocal"ramkidpedia_vol20_pasxa1.html"  @@@@@@|_|pasxa part Α (kids_ePedia32cd Volume20 DIRECT,Ramkid_15may_pasxa_flags)
+^A^B^Γ^Δ^E^ST|_|20181214|_|ironstartincognito ""$SWFgiortes"index_easter.html"|_|pasxa part B ,2-3 μαθήματα
 
 
 |_||_|######## special days (recycle etc) ###########
