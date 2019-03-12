@@ -17,7 +17,7 @@
 ^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A03.html " |_|A:(δυσκολευτηκαν λιγο στο basket μαθηματικα) basketball math,animate draw your cartoon,magnetic_draw__paint_y8,arrange dollhouse,keymory type,BasketBalls physicsPuz,Kaban maze,chess
 ^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A04.html " |_|keytower type ,draw_line puzzle,arrange_fix car,paint super_wings,little-house-maze,soccer__higher_lower,paint_artpad, MonkeyGOHappyBalloons,chess
 ^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A05.html " |_|RideAndSolve math_sign, coloring_walking_frankie,paint_lily_paint_magic !!! _GOOD_PALLETE,arrange lego police,diver3, excuses-excuses__type (E-ST),spark_chess,sup mario-race-2,pirates-vs-undead_TDRT,chess
-^A^B|_|20190213|_|(REDO pack_A06 -- ironstart ""$SWFlocal"pack_A06.html " |_| XXXXXXXXXX    XXXREMOVE magnetic_draw__paint_y8_NoNavUrl_swf73,energy_physics__electrocute,MonkeyGOHappyCandy,smart-chess,subway_2pl_,fratboy_girlfriend_TD,XXXREMOVEanimate_draw_your_cartoon,math-platformer__collect_numbers,chess-mate-master
+^A^B|_|20190213|_|xxxxxxxxx (REDO pack_A06 -- ironstart ""$SWFlocal"pack_A06.html " |_| XXXXXXXXXX    XXXREMOVE magnetic_draw__paint_y8_NoNavUrl_swf73,energy_physics__electrocute,MonkeyGOHappyCandy,smart-chess,subway_2pl_,fratboy_girlfriend_TD,XXXREMOVEanimate_draw_your_cartoon,math-platformer__collect_numbers,chess-mate-master
 ^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A07.html " |_| color_ramkid_pccollet_xromatizw_me_grammata,croc-addition-with-pictures_!!,spider2_fuelthebrain,ramkid_typing_letters_slow_flyingt,qwerty21_decompr,chess-mate
 
 
@@ -46,9 +46,8 @@ suggest|_|20181003|_|@@@@ http://educ.swf.dimotiko.tk/education_math_shapes_/mat
 
 
 |_||_|######## Type ###########
-^A^B^Γ|_|02|_|http://192.168.1.200/swf/pack_type_ramkid_greek.html |_|typing0 (A,B δημοτικου) typing_bricks,ramkid_typing (4 different), ramkid typing disk2_0 Γράψε 5 φράσεις !!! ,castle-defence-extreme-spelling
+^A^B^Γ|_|02|_|ironstartincognito ""$SWFlocal"pack_type_ramkid_greek.html" |_|typing0 (A,B δημοτικου) typing_bricks,ramkid_typing (4 different), ramkid typing disk2_0 Γράψε 5 φράσεις !!! ,castle-defence-extreme-spelling
 ^A^B^Γ^Δ^E^ST|_|w02|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=type/typing_bricks\(puzzle\)!!!.swf\&url2=type/assault-typing__shootemup__rapidtyping.com_NoAdUrl.swf\&url3=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url4=type/typing_alphattack2__bombDrop_NoNavUrl.swf\&url5=type/airtyper_1_noADsURL.swf\&url6=typing-1"|_|typing1
-
 ^A^B^Γ^Δ^E^ST|_|w03|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=type/airtyper_1_noADsURL.swf\&url2=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url3=type/typing_bricks\(puzzle\)!!!.swf\&url4=type/typing_tidepool\(sea_race\)_!!.swf\&url5=typing-2" |_|typing2  - airtype, typing_adventure(indiana_jones).swf (Δ αρέσει)31sec record ,d1:typing_bricks
 
 suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
@@ -100,13 +99,10 @@ suggest|_|20181022|_|assault-typing(shootemup)__(rapidtyping.com).swf |_|
 ^Δ|_|20181022|_|Δ2 μόνο,Δ1 tuxmath , , ,type_magos_typenpop.swf , airtyper|_|ΤΡΙΤΗ
 
 |_||_|######## gcompris 1 ,2 ###########
-^A|_|20181030|_|gcompris 15 :mouse _ψαρια - keyboard ζαρι (τα κουμπιά τους φανηκαν δυσκολα)|_|ΤΡΙΤΗ
-^B|_|20181031|_|B :gcompris (2 πρωτες επιλογες δεξια) (Α1 δεν εκανε μαθημα)|_|ΤΕΤΑΡΤΗ (εξτρα μάθημα)
-^Γ2|_|20181031|_|Γ2 :gcompris  (2 πρωτες επιλογες δεξια kai skaki)|_|ΤΕΤΑΡΤΗ
-^B|_|20181031|_|B1 ,B2: gcompris  (2 πρωτες επιλογες δεξια) (καποιοι στο Β1 βαζαν μονοι τους )|_|ΤΕΤΑΡΤΗ
-^A|_|20181102|_|Α2 -gcompris (2 πρωτες επιλογες δεξια)|_|ΠΑΡΑΣΚΕΥΗ
-^A|_|20181119|_|gcompris panta me puzzle|_|ΤΡΙΤΗ
-^A1|_|20181121|_|A1: gcompris (2 πρωτες επιλογες δεξια)|_|ΤΕΤΑΡΤΗ
+^A^B|_|20181030|_|gcompris 15 :mouse _ψαρια - keyboard ζαρι (τα κουμπιά τους φανηκαν δυσκολα)|_|gcompris Α ΤΡΙΤΗ
+^A^B^Γ|_|20181031|_|gcompris  (2 πρωτες επιλογες δεξια) |_|gcompris Β
+^A^B^Γ|_|20181119|_|gcompris panta me puzzle|_|gcompris C
+
 
 
 
@@ -129,15 +125,9 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 
 
 |_||_|######## eduactiv8 1,2 ###########
-^B|_|20181120|_|Β1: eduactiv8 Γλωσικές Τέχνες->Ανακαλύψτε τα γραμματα  ,  Β2: eduactiv8 Γλωσικές Τέχνες->Ανακαλύψτε τα γραμματα|_|ΤΕΤΑΡΤΗ ΣΥΝΕΧΕΙΑ ΑΠΟ
-^A2|_|20181123|_|Α2 : /opt/eduActiv8/eduActiv8 Γλωσικές Τέχνες->Ανακαλύψτε τα γραμματα|_|ΠΑΡΑΣΚΕΥΗ
-^B|_|20181123|_|Β: eduactiv8 Γλωσικές Τέχνες->Ανακαλύψτε τα γραμματα|_|ΠΑΡΑΣΚΕΥΗ
-^A|_|20181126|_|Α: eduactiv8 Γλωσικές Τέχνες->Ανακαλύψτε τα γραμματα (ως πρωτο λαβυρινθο)|_|ΤΡΙΤΗ
-^A|_|20181127|_|A1: eduactiv8 Γλωσσικές Τέχνες->Ανακαλύψτε τα γραμματα (ως πρωτο λαβυρινθο) (την άλλη τεταρτη 6δεκ να βαλω finding-santa_(christmas_find)_!!.swf)|_|ΤΕΤΑΡΤΗ
-^B|_|20190117|_|παιχνιδια eduactiv8|_|ΠΑΡΑΣΚΕΥΗ
-^A1|_|20190116|_|Α1:eduactiv8 Σχηματισμός Λέξεων-> ζώα , δουλείες ,ρούχα)|_|ΤΕΤΑΡΤΗ
-^A2|_|20190117|_|Α2:eduactiv8 Σχηματισμός Λέξεων-> ζώα , δουλείες ,ρούχα)|_|ΠΑΡΑΣΚΕΥΗ
-^A|_|20190121|_|Α:eduactiv8 Σχηματισμός Λέξεων-> ζώα , δουλείες ,ρούχα)|_|ΤΡΙΤΗ
+^A^B|_|eduactivΑ|_|/opt/eduActiv8/eduActiv8 Γλωσσικές Τέχνες->Ανακαλύψτε τα γραμματα |_|eduactiv8 B
+^A^B|_|eduactivΒ|_|/opt/eduActiv8/eduActiv8 Σχηματισμός Λέξεων-> ζώα , δουλείες ,ρούχα)|_|eduactiv8 B (παιδιά της πρώτης βαρέθηκαν μόνο αυτό το είδος παιχνιδιο (να βάλω και άλλο))
+^A^B^Γ|_|eduactivC|_|/opt/eduActiv8/eduActiv8 παιχνιδια_| eduactiv8 C
 
 
 |_||_|######## Word 1,2,3 ###########
@@ -153,33 +143,18 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 
 
 
-|_||_|######## giortes xmas 1###########
-|_|20181217|_|15ο Δημοτικό ΔΕΥΤΕΡΑ Xristougenniatikes drasthriothtes (oles oi takseis) , christmas hidden objects , ζωγραφιστε χριστουγ κάρτες |_|ΔΕΥΤΕΡΑ,ΤΡΙΤΗ, ΤΕΤΑΡΤΗ όλες  οι τάξεις 15ο Δημοτικό
-|_|20181219|_|10ο Δημοτικό ΔΕΥΤΕΡΑ Xristougenniatikes drasthriothtes (oles oi takseis)|_|ΤΕΤΑΡΤΗ,ΠΕΜΠΤΗ,ΠΑΡΑΣΚΕΥΗ  όλες  οι τάξεις 10ο Δημοτικό
+|_||_|######## giortes xmas###########
+^A^B^Γ^Δ^E^ST|_|20181217|_|15ο Δημοτικό ΔΕΥΤΕΡΑ Xristougenniatikes drasthriothtes (oles oi takseis) , christmas hidden objects , ζωγραφιστε χριστουγ κάρτες |_|giortes xmas Α
+^A^B^Γ^Δ^E^ST|_|20181214|_|ironstartincognito ""$SWFgiortes"index_xmas.html"|_|giortes xmas Β : 2-3 μαθήματα (μετά τέλος ασκήσεων)
+^A^B^Γ^Δ^E^ST|_|20190108|_|15o tuxpaint : βασιλόπιτα, χριστουγ εικόνα  ^A, ^Δ1,^Δ2,  ^Ε1,^Ε2,^B1,^B2|_|giortes xmas C
 
 
-|_||_|######## giortes xmas 2###########
-^A^B^Γ^Δ^E^ST|_|20181214|_|ironstartincognito ""$SWFgiortes"index_xmas.html"|_| 2-3 μαθήματα (μετά τέλος ασκήσεων)
-
-
-
-|_||_|######## giortes xmas 3 after ###########
-
-|_|20190108|_|15o tuxpaint : βασιλόπιτα, χριστουγ εικόνα  ^A, ^Δ1,^Δ2,  ^Ε1,^Ε2,^B1,^B2|_|ΤΡΙΤΗ, ΤΕΤΑΡΤΗ,ΔΕΥΤΕΡΑ  όλες  οι τάξεις 15ο Δημοτικό
-|_|20190109|_|10o tuxpaint : βασιλόπιτα, χριστουγ εικόνα  ^Γ2 ,^Α1 ,^Δ2,^Γ1,^ΣΤ1,^Ε2,^Α2, ^ΣΤ2,^Ε1,^Β|_|ΤΕΤΑΡΤΗ , ΠΕΜΠΤΗ ΠΑΡΑΣΚΕΥΗ
+|_||_|######## giortes halloween ###########
+^A^B^Γ^Δ^E^ST|_|FebC|_|ironstartincognito ""$SWFgiortes"other/ramkid_invitation_party/index.html "$SWFpath"ramkid_giortes_apokries_pt1.html"  |_|apokries part 1 ramkid,prosklisi  (KIDS epedia απόκριες κολλάει συνέχεια το flash Volume13/index_kd_vol.html)
+^A^B^Γ^Δ^E^ST|_|FebD|_|ironstartincognito ""$SWFgiortes"index_halloween.html"|_|apokries part 2, games two weeks 20190225-20190308 , ΔΕΥΤΕΡΑ,ΤΡΙΤΗ,ΤΕΤΑΡΤΗ,ΠΕΜΠΤΗ,ΠΑΡΑΣΚΕΥΗ
 
 
 
-|_||_|######## giortes halloween 1###########
-^A2|_|20190215|_|apokries part 1 ramkid,prosklisi ironstart ""$SWFlocal"pack_A03.html "  (KIDS epedia απόκριες κολλάει συνέχεια το flash)|_|ΠΑΡΑΣΚΕΥΗ
-^B|_|20190215|_|ΑΔΕΙΑ - ΕΓΙΝΕ ΜΑΘΗΜΑ (ΠΕΜΠΤΗ) ironstart ""$SWFlocal"pack_A03.html "  (να κάνω τεστ αποκριάτικο RAMKID)|_|ΠΑΡΑΣΚΕΥΗ
-|_|201902118-22|_|apokries part 1 ramkid,prosklisi : ^A, ^B, ^Γ, ^Δ, ^E, ^ST, ^A1, ^A2, ^B, ^Γ1, ^Γ2, ^Δ,  ^E2, ^ST1, ^ST2, ΠΡΟΣΟΧΗ ΔΕΝ ΦΟΡΤΩΝΟΥΝ ironstartincognito ""$SWFgiortes"other/ramkid_invitation_party/index.html "$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume13/index_kd_vol.html_REMOVE_ME ΑΠΟΚΡΙΕΣ-ramkidpedia "$SWFlocal"swf_ramkid_cds2k5/Ramkid_12feb_apokries/index.html_REMOVE_ME "$SWFlocal"pack_A02.html"|_|ΔΕΥΤΕΡΑ,ΤΡΙΤΗ,ΤΕΤΑΡΤΗ,ΠΕΜΠΤΗ,ΠΑΡΑΣΚΕΥΗ
-
-
-|_||_|######## giortes halloween 2 ###########
-
-|_||_|######## giortes halloween 3 ###########
-^E1|_|20190222|_|^E2, ^ST1, ^ST2, ironstartincognito ""$SWFgiortes"index_halloween.html"|_|two weeks 20190225-20190308 , ΔΕΥΤΕΡΑ,ΤΡΙΤΗ,ΤΕΤΑΡΤΗ,ΠΕΜΠΤΗ,ΠΑΡΑΣΚΕΥΗ
 
 
 
@@ -187,26 +162,15 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 
 |_||_|######## giortes easter 2 ###########
 
-|_||_|######## giortes easter 3 ###########
-^A^B^Γ^Δ^E^ST|_|20181214|_|ironstartincognito ""$SWFgiortes"index_easter.html"|_|2-3 μαθήματα (μετά τέλος ασκήσεων)
+|_||_|######## giortes easter ###########
+^A^B^Γ^Δ^E^ST|_|20181214|_|ironstartincognito ""$SWFgiortes"index_easter.html"|_|pasxa part B ,2-3 μαθήματα (μετά τέλος ασκήσεων)
 
 
-|_||_|######## coding 1 lightbotjs 1###########
-^ST|_|20190204|_|ΣΤ2 : lightbot_iron_browser "maps_random_2%284x4_3lights%29.txt" ευκολο γιαμεγάλες τάξεις (να κάνω το _easy άλλη φορά) pack05ΣΤ1 : lightbot_iron_browser "maps_random_2%284x4_3lights%29.txt"|_|ΔΕΥΤΕΡΑ
-^Δ|_|20190205|_|Δ2 : lightbot_iron_browser "maps_random_2%284x4_3lights%29.txt" ευκολο γιαμεγάλες τάξεις (να κάνω το _easy άλλη φορά) pack05    Δ1 : lightbot_iron_browser "maps_random_2%284x4_3lights%29.txt"|_|ΤΡΙΤΗ
-^E|_|20190205|_|E1 : lightbot_iron_browser "maps_random_2%284x4_3lights%29.txt" ευκολο για μεγάλες τάξεις (να κάνω το _easy άλλη φορά) pack04    E2 : lightbot_iron_browser "maps_random_2%284x4_3lights%29.txt"  pack04|_|ΤΡΙΤΗ
-^Γ2|_|20190206|_|lightbot_iron_browser "maps_random_2%284x4_3lights%29.txt (arxh p;ista #1)   (κάποιοι κάναν μόνο 1 πιστα - να ξανακάνω με το maps_easy)|_|ΤΕΤΑΡΤΗ
-^ST|_|20190207-08|_|^Γ1, ^Γ2, ^Δ, ^E1, ^E2, ^ST1,  lightbot_iron_browser "maps_random_2%284x4_3lights%29.txt (arxh p;ista #1) , pack03   , ^ST2 ελειπαν πολλοί  εβαλα pack02|_|ΠΕΜΠΤΗ , ΠΑΡΑΣΚΕΥΗ
-^Γ|_|20190214-15|_|^ST1 lightbot_iron_browser "maps_random_2%284x4_3lights%29.txt , pack03|_|ΠΕΜΠΤΗ , ΠΑΡΑΣΚΕΥΗ
-
-
-|_||_|######## coding 2 lightbotjs 2  repeat ###########
-^Γ|_|20190204|_|Γ1 , Γ2  :lightbot_iron_browser "maps_easy.txt"|_|ΔΕΥΤΕΡΑ
-^Γ2|_|20190213|_|Γ2: lightbot_iron_browser "maps_d1.txt "+ pack02|_|ΤΕΤΑΡΤΗ
-^ST|_|20190211|_|^ΣΤ2  lightbot_iron_browser "maps_easy.txt pack_A02.html"+pack02 , ΣΤ1: lightbot_iron_browser "maps_easy.txt "+ pack02  lightbot ΕΠΑΠΑΝΑΛΑΒΕ|_|ΔΕΥΤΕΡΑ
-^Γ|_|20190211|_|^Γ1  lightbot_iron_browser "maps_d1.txt pack_A02.html"+pack02 , Γ2: lightbot_iron_browser "maps_d1.txt "+ pack02|_|ΔΕΥΤΕΡΑ
-^Δ|_|20190212|_|lightbot ΕΠΑΠΑΝΑΛΑΒΕ ^Δ2 , ^Δ1  ,^E1  ,^E2     ολοι lightbot_iron_browser "maps_easy.txt http://192.168.1.200/swf/pack_A02.html"|_|ΤΡΙΤΗ
-^Γ|_|20190214-15|_|^Γ1, ^Γ2, ^Δ, ^E1,  ^ST2 lightbot_iron_browser "maps_easy.txt  , pack03|_|ΠΕΜΠΤΗ , ΠΑΡΑΣΚΕΥΗ
+|_||_|######## coding 1,2 lightbotjs###########
+^Α^Β|_|code0|_|Να βρω κάτι πολύ εύκολο !!! lightbot_iron_browser "maps_d1.txt "$SWFlocal"pack_A02.html"|_|code0ΑΒ
+^Γ^Δ^E^ST|_|code1|_|lightbot_iron_browser "maps_random_2%284x4_3lights%29.txt "$SWFlocal"pack_A04.html" |_|code1 ευκολο για μεγάλες τάξεις (ας παίξουν pack_A04 όσοι τελειώσουν)
+^Γ|_|code2Γ|_|lightbot_iron_browser "maps_d1.txt "$SWFlocal"pack_A02.html"|_|code2Γ
+^Δ^E^ST|_|code2Δ,Ε,ΣΤ|_|lightbot_iron_browser "maps_easy.txt "$SWFlocal"pack_A02.html"|_|code2Δ,Ε,ΣΤ ΕΠΑΠΑΝΑΛΑΒΕ
 
 
 |_||_|######## coding 3 tank ###########
