@@ -144,7 +144,7 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 
 
 |_||_|######## special days (recycle etc) ###########
-^A^B^Γ^Δ^E^ST|_|recycle|_|ironstart ""$SWFlocal"pack_recycle.html?timer2  |_|recycle  (junkmonster,ramkid_recycle_catch_trash_recfall,ramkid_recycle_correct_bin_reccat, Go_Recycle,Recycle(drag_drop),Recycle_Fun(grabber))
+^A^B^Γ^Δ^E^ST|_|recycle|_|ironstart ""$SWFlocal"pack_recycle.html?timer2"  |_|recycle  (junkmonster,ramkid_recycle_catch_trash_recfall,ramkid_recycle_correct_bin_reccat, Go_Recycle,Recycle(drag_drop),Recycle_Fun(grabber) recycle_huruhumi(recycle_or_compost))
 
 
 
@@ -157,11 +157,12 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 
 
 |_||_|######## coding 3 tank ###########
-^Γ^Δ^E^ST|_|AprilA|_|TANK   ironstartincognito ""$GAMESEDU"Code-Commander-gr/index_dot_links.html "$SWFlocal"pack_A02.html"   ,|_|----tank commander lesson  @@@
+^Γ^Δ^E^ST|_|AprA|_|TANK   ironstartincognito ""$GAMESEDU"Code-Commander-gr/index_dot_links.html "$SWFlocal"pack_A02.html"   ,|_|TANK commander lesson  @@@
 
 |_||_|######## coding 4 other flash etc###########
-^Γ^Δ^E^ST|_|AprilB|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=coding/lightbot-codehour-gr_NoNavUrl.swf\&url2=coding/Tiny-explorers__nice_puzzle_education_unencr_noAds_ok.swf\&url3=http://tortuga.dimotiko.tk\&url4=pack_A02.html\&url5=ΚΩΔΙΚΑΣ"    |_|coding swf lightbot
-^Γ^Δ^E^ST|_|MarB|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=coding/Rover_nasa_GREEK1.swf\&url2=coding/Tiny-explorers__nice_puzzle_education_unencr_noAds_ok.swf\&url3=http://tortuga.dimotiko.tk\&url4=pack_A02.html\&url5=ΚΩΔΙΚΑΣ"     |_|coding (ok Δ δημοτικού mars_rover)
+^Γ^Δ^E^ST|_|MarB|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=coding/Rover_nasa_GREEK1.swf\&url2=coding/Tiny-explorers__nice_puzzle_education_unencr_noAds_ok.swf\&url3=http://tortuga.dimotiko.tk\&url4=pack_A02.html\&url5=coding/TurtlePond__illuminations.nctm.org.swf\&url6=ΚΩΔΙΚΑΣ"     |_|coding (ok Δ δημοτικού mars_rover  -tiny explorers αρεσε Δ,ΣΤ)
+^Γ^Δ^E^ST|_|AprB|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=coding/lightbot-codehour-gr_NoNavUrl.swf\&url2=coding/Tiny-explorers__nice_puzzle_education_unencr_noAds_ok.swf\&url3=http://tortuga.dimotiko.tk\&url4=pack_A03.html\&url5=coding/TurtlePond__illuminations.nctm.org.swf\&url6=ΚΩΔΙΚΑΣ"    |_|coding swf lightbot
+
 
 |_||_|######## coding 5 scratch ###########
 ^Γ|_|20181029|_|Scratch dialogue-cartoon , html/txt οδηγίες βήμα-βήμα|_|Scratch dialogue-cartoon
