@@ -1,9 +1,10 @@
 <?php
 date_default_timezone_set('Europe/Athens'); //added to avoid PHP warning for date 160920
 #####################################################################################
-# Flat File Database Manager 1.2jmod07-LISTQUARTER 190312
+# Flat File Database Manager 1.2jmod08-190319_shows_selected_&_class_name on list text 190319
 #
 # changes
+# 1.2jmod07-LISTQUARTER 190312
 # ver1.2jmod06-RTfilter 190305
 # ver1.2jmod05-Reat time client filter 190224a
 # ver1.2jmod04-link object type 190223a :
@@ -60,6 +61,9 @@ if (get_magic_quotes_gpc()) {
   //$_COOKIE = stripslashes_deep($_COOKIE);
 }
 $show_empty_lines=false; //If disabled(false) might have problem if you have empty lines
+$add_class_to_element=true; //190319 adds class name to each element(so we can add custom js for this element )
+$show_internal_element_text_outside=true;
+
 $structure_tmp = file($structure_file);
 $structure = array();
 foreach($structure_tmp as $key=>$tmp) {
@@ -194,12 +198,13 @@ foreach($data as $datakey => $line) {
     $name = $structure[$key]['name'];
     echo "\n".'  <td >';
   //echo "<h1>$item</h1>";
-
+    $class_name='';
+    if($add_class_to_element) $class_name='class="'.$name.'"';
     switch ($structure[$key]['type']) {
 # STRING:  Rendered as regular input field. Row format:
 #          title,STRING,length  
       case 'STRING':
-        echo '<input onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" value="'.$item.'" size="'.$structure[$key]['format'].'" />';
+        echo '<input onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" value="'.$item.'" '.$class_name.' size="'.$structure[$key]['format'].'" />';
         //echo "$item";
         break;
 # DATE:  Rendered as regular input field. Row format:    Added by jon
@@ -207,7 +212,7 @@ foreach($data as $datakey => $line) {
       case 'DATE':   // added by jon 20141208
     
     if ($item==null) $item=date("Ymd");
-        echo '<input onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" value="'.$item.'" size="'.$structure[$key]['format'].'" />';
+        echo '<input onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" value="'.$item.'" '.$class_name.' size="'.$structure[$key]['format'].'" />';
         //echo "$item";
         break;
 # TEXT:    Rendered as text area. Row format:
@@ -235,24 +240,25 @@ foreach($data as $datakey => $line) {
 #        quicknotes_worklog_/flatfile.inc.php on line 203
         echo '<input onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" value="'.$item.'" size="'.$structure[$key]['format'].'" />';
 //      echo '<BR><a href="http://'.$item.'" >'.$item.'</a>';
-        echo '<BR><a href="http://'.$item.'" >LINK</a>';        
+        if($show_internal_element_text_outside)echo '<BR><a href="http://'.$item.'" >LINK</a>';        
         break;        
 // ------------------------ added by john to show a link (adds HTTP://)----------------------
 # LIST:    Rendered as list box or combo box. Row format:
 #          title,LIST,number of rows visible at a time,colon ":" separated allowed values   
       case 'LIST':
-        echo '<select onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" size="'.$structure[$key]['format'].'">';
+        echo '<select onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" '.$class_name.' size="'.$structure[$key]['format'].'">';
         foreach($structure[$key]['values'] as $value) {
           echo '<option value="'.$value.'" '.($value == $item ? 'selected' : '').'>'.$value.'</option>';
         }
         echo '</select>';
+        if($show_internal_element_text_outside)echo '<BR><b>'.$item.'</b>'; 
         break;
 # LISTQUARTER:    Rendered as list box or combo box with monthQuarters (not much usefull atm). Row format:
 #          title,LIST,number of rows visible at a time,colon ":" separated allowed values   
       case 'LISTQUARTER':
       	$month_weeks=array("---");
       	array_push($month_weeks,"SepA","SepB","SepC","SepD","OctA","OctB","OctC","OctD","NovA","NovB","NovC","NovD","DecA","DecB","DecC","DecD","JanB","JanC","JanD","FebA","FebB","FebC","FebD","MarA","MarB","MarC","MarD","AprA","AprB","AprC","AprD","MayA","MayB","MayC","MayD","JunA","JunB","JunC","JunD");
-        echo '<select onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" size="'.$structure[$key]['format'].'">';
+        echo '<select onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" '.$class_name.' size="'.$structure[$key]['format'].'">';
         foreach($month_weeks as $value) {
           //echo '<option value="'.$value.'" '.($value == $item ? 'selected' : '').'>'.$value.'</option>';
         	echo '<option value="'.$value.'" '.($value == $item ? 'selected' : '').'>'.$value.'</option>';
