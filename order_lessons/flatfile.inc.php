@@ -60,9 +60,10 @@ if (get_magic_quotes_gpc()) {
   $_GET = stripslashes_deep($_GET);
   //$_COOKIE = stripslashes_deep($_COOKIE);
 }
-$show_empty_lines=false; //If disabled(false) might have problem if you have empty lines
-$add_class_to_element=true; //190319 adds class name to each element(so we can add custom js for this element )
-$show_internal_element_text_outside=true;
+
+if(empty($show_empty_lines))$show_empty_lines=false; //If disabled(false) might have problem if you have empty lines
+if(empty($add_class_to_element))$add_class_to_element=true; //190319 adds class name to each element(so we can add custom js for this element )
+if(empty($show_internal_element_text_outside))$show_internal_element_text_outside=true;
 
 $structure_tmp = file($structure_file);
 $structure = array();
