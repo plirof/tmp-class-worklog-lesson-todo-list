@@ -1,0 +1,248 @@
+
+######|_||_|######## Mouse Intro Ευκολα Α,Β ###########
+
+^A|_|20180913|_|colorgame(sheppardsoftware.com)_preschool.swf ,funbrain_com_SimonSees.swf  ,funbrain_com_PicklePop.swf|_|
+suggest|_|20190204|_|http://ts.sch.gr/repo/online-packages/^glossa-a-b/start.html   ,  http://sivasxoleio.blogspot.com/2015/03/blog-post_67.html , http://mikrapaidia.gr/ccs3/ *** gia a,b taksi   ,   CUSTOM 2 check : http://www.blendedplay.com/#|_|ΕΚΠΑΙΔΕΥΤΙΚΑ παιχνίδια ts.sch.gr @@@
+
+
+
+^A^B|_|SepB wk01|_|funbrain pt1 ironstart ""$SWFlocal"ab/funbrain_com/funbrain.html "  A:games 1-6|_|mouse-intro-1
+^A^B|_|SepC wk04|_|funbrain pt2 ironstart ""$SWFlocal"ab/funbrain_com/funbrain.html "|_|
+^A^B|_|JanD wk23 (20190122)|_|funbrain pt3 ironstart ""$SWFlocal"ab/funbrain_com/funbrain.html "|_|ΤΕΤΑΡΤΗ
+^A^B^Γ|_|00|_|netsmart.html ironstart ""$SWFlocal"ab/netsmartkids/netsmart.html "|_|ΤΕΤARTH  MED
+
+
+
+^A^B|_|FebB 20190205|_|ironstart ""$SWFlocal"pack_A01.html?timer4"   (typing-numeric-maze, arrange_castle ! ,  paint_artpad !!! , hidden-objects-study-roomrnd_img, frogger)|_|άρεσε arrange_castle_doll_house ,  paint_artpad_y8_noNavAdUrl.swf
+^A^B|_|FebC 20190206-12|_|ironstart ""$SWFlocal"pack_A02.html "$SWFlocal"pack_A01.html"|_|A:(τους αρεσε το coloring doodle) doodle-bugs coloring, typing_bricks, typing_adventure(indiana_jones), carasmagicpocket, soccer-balls-2, MonkeyGOHappy6,chess
+^A^B|_|MarB 20190213|_|ironstart ""$SWFlocal"pack_A03.html " |_|A:(δυσκολευτηκαν λιγο στο basket μαθηματικα) basketball math,animate draw your cartoon,magnetic_draw__paint_y8,arrange dollhouse,keymory type,BasketBalls physicsPuz,Kaban maze,chess
+^A^B|_|MarC 20190213|_|ironstart ""$SWFlocal"pack_A04.html " |_|keytower ABC type  ,draw_line puzzle (Α,Β μπορούν μέχρι ΚΑΙ level 3 -όχι την 4),arrange_fix car,paint super_wings,little-house-maze,soccer__higher_lower,paint_artpad, MonkeyGOHappyBalloons,chess
+^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A05.html " |_|RideAndSolve math_sign, coloring_walking_frankie,paint_lily_paint_magic !!! _GOOD_PALLETE,arrange lego police,diver3, excuses-excuses__type (E-ST),spark_chess,sup mario-race-2,pirates-vs-undead_TDRT,chess
+^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A06.html " |_| SuperHyperSpiderTyper, donnie-s-superfly-game(flucatch mouse) ,bouncehs_tomatoes , blobuloids burger, sweet , chocolate , mazerace2_pasxalitsa__dimA , sumopaint,pencil_racer_skate_park, typing_Expert_Fox__dimE-ST_16mins_english
+^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A07.html " |_| color_ramkid_pccollet_xromatizw_me_grammata,croc-addition-with-pictures_!!,spider2_fuelthebrain,ramkid_typing_letters_slow_flyingt,qwerty21_decompr,chess-mate
+
+
+
+
+^A|_|20181106|_|Mickey-Man(pacman).swf (dyskolo - barethikan sta 10n min) , gcompris (2 πρωτες επιλογες δεξια)|_|ΤΡΙΤΗ
+^A|_|20181113|_|http://192.168.1.200/swf/ab/Phineas-E-Ferb-coloring.swf  ,   shapesonact_(same_each_time)1stGrade.swf ,Mickey-Man(pacman).swf (to zitisan barethikan sta 10n min) , gcompris (2 πρωτες επιλογες δεξια)|_|ΤΡΙΤΗ
+^A|_|20181114|_|A2: http://192.168.1.200/swf/ab/Phineas-E-Ferb-coloring.swf  , shapesonact_(same_each_time)1stGrade.swf , http://192.168.1.200/swf/fun/super-mario-racing-2.swf (ΕΧΕΙ ADs) ,Α1 ΠΑΡΑΣΚΕΥΗ(17ΝΟΕ -ΑΡΓΙΑ)|_|ΤΕΤΑΡΤΗ, Α1 ΠΑΡΑΣΚΕΥΗ(ΔΕΝ
+^A^B|_|20181130|_|Β: Kids-Coloring-Book-many-images__noNavigateToURL3.swf, typing_bricks(puzzle)!!!.swf  , finding-santa|_|ΠΑΡΑΣΚΕΥΗ
+^A|_|20181204|_|A smurfs_nintendo_simple.swf (kolaei *** isws ads) , minion-jump-adventure(1key)ok_noADS.swf (bgazei ads)  , finding-santa (dyskolo gia gia A) , kaban|_|ΤΡΙΤΗ
+
+
+^B|_|20181214|_|ironstart ""$SWFlocal"fun/frogger3d__noNavURL_10lives!!.swf "$SWFlocal"pack_A01.html"   (Dyskologia Α sto frogger)  |_|ΠΑΡΑΣΚΕΥΗ
+^A|_|20190115|_|Α: coloring-inside-out__noADsURL.swf  , coloring_walking_frankie_coloring_page_noAdsUrl (ok on pack_A05) (τελειώνουν γρήγορα) , xromatizo ΜΥΚΗΝΕΣ /swf/ramkid_selection_swf/xromatizo/mincol.swf (θέλει χειροκίνητη αλλαγή)|_|ΤΡΙΤΗ
+
+^B|_|20190116|_|Β1,:coloring-inside-out__noADsURL.swf  , (είναιστο pack_A? )coloring_walking_frankie_coloring_page_noAdsUrl_!!.swf (τελειώνουν γρήγορα) , frogger3d.swf  ,  Β2 (4 ;atoma mono):coloring-inside-out__noADsURL.swf|_|ΤΕΤΑΡΤΗ
+
+^B|_|20180926|_|colorgame(sheppardsoftware.com)_preschool.swf ,colors_preschool_!!!.swf , (ligo sto B1) smurf-papas-memory_!.swf|_|
+
+
+^A|_|pack+OctA-20181003|_|A1,2 :colorgame(sheppardsoftware.com)_preschool.swf (again),buscounting, A1 :Your-Face.swf , A2: coloring_1bear.swf (toys arese),Mickey-Man(pacman).swf (kalo - barethikan sta 10n min)|_|ΤΕΤΑΡΤΗ
+^A^B|_|20181003|_|Minions-Thirsty-Coloring.swf , buscounting,  ,typing_adventure(indiana_jones)(to briskoun ligo dyskolo).swf,typing_bricks(puzzle)!!!.swf(again), colorgame(sheppardsoftware.com)_preschool.swf|_|ΤΕΤΑΡΤΗ
+suggest|_|20181003|_|@@@@ http://educ.swf.dimotiko.tk/education_math_shapes_/math_WordSearch-computer. TO EDIT IMAGES Να Γίνει ελληνικά   , indiana jones|_|http://educ.swf.dimotiko.tk/education_math_shapes_/math_WordSearch-computer.swf
+^Γ|_|20181008|_|g1,2 ,εσωτερικό PC, tuxpaint (πινέλα),|_|ΔΕΥΤΕΡΑ
+
+
+
+######|_||_|######## Type ###########
+^A^B^Γ|_|SepD wk03|_|ironstartincognito ""$SWFlocal"pack_type_ramkid_greek.html" |_|typing0 (A,B δημοτικου) typing_bricks,ramkid_typing (4 different), ramkid typing disk2_0 Γράψε 5 φράσεις !!! ,castle-defence-extreme-spelling
+^A^B^Γ^Δ^E^ST|_|SepC wk02|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=type/typing_bricks\(puzzle\)!!!.swf\&url2=type/assault-typing__shootemup__rapidtyping.com_NoAdUrl.swf\&url3=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url4=type/typing_alphattack2__bombDrop_NoNavUrl.swf\&url5=type/airtyper_1_noADsURL.swf\&url6=typing-1"|_|typing1
+^A^B^Γ^Δ^E^ST|_|wk03|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=type/airtyper_1_noADsURL.swf\&url2=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url3=type/typing_bricks\(puzzle\)!!!.swf\&url4=type/typing_tidepool\(sea_race\)_!!.swf\&url5=typing-2" |_|typing2  - airtype, typing_adventure(indiana_jones).swf (Δ αρέσει)31sec record ,d1:typing_bricks
+
+
+
+######|_||_|######## PARKING ###########
+^Γ^Δ^E^ST|_|OctB-wk05+|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/spongebob-parking_jon04noURLS_need760MBram_!!.swf\&url2=fun/puzzle_board/edsparkinggame.swf\&url3=type/typing_bricks\(puzzle\)!!!.swf\&url4=type/typing_alphattack2__bombDrop_NoNavUrl.swf\&url5=fun/puzzle_board/spark_chess_17521__allows_save_NoNavUrl.swf\&url6=park-1"|_|pack_park01
+
+^Γ^Δ^E^ST|_|OctC wk06+20181017|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/maze/labrat__maze-kids_needFastPC_unencr2noAdsURL_!!.swf\&url2=fun/spongebob-parking_jon04noURLS_need760MBram_!!.swf\&url3=fun/puzzle_board/edsparkinggame.swf\&url4=type/assault-typing__shootemup__rapidtyping.com_NoAdUrl.swf\&url5=fun/puzzle_board/spark_chess_17521__allows_save_NoNavUrl.swf\&url6=mix-maze-park"|_|mix-maze-park
+
+
+######|_||_|######## gcompris 1 ,2 ###########
+^A^B|_|NovA wk09  20181030|_|gcompris 15 :mouse _ψαρια - keyboard ζαρι (τα κουμπιά τους φανηκαν δυσκολα)|_|gcompris Α ΤΡΙΤΗ
+^A^B^Γ|_|20181031|_|gcompris  (2 πρωτες επιλογες δεξια) |_|gcompris Β
+^A^B^Γ|_|20181119|_|gcompris panta me puzzle|_|gcompris C
+
+######|_||_|######## eduactiv8 1,2 ###########
+^A^B|_|eduactivΑ|_|/opt/eduActiv8/eduActiv8 Γλωσσικές Τέχνες->Ανακαλύψτε τα γραμματα |_|eduactiv8 B
+^A^B|_|eduactivΒ|_|/opt/eduActiv8/eduActiv8 Σχηματισμός Λέξεων-> ζώα , δουλείες ,ρούχα)|_|eduactiv8 B (παιδιά της πρώτης βαρέθηκαν μόνο αυτό το είδος παιχνιδιο (να βάλω και άλλο))
+^A^B^Γ|_|eduactivC|_|/opt/eduActiv8/eduActiv8 παιχνιδια_| eduactiv8 C
+
+######|_||_|######## Maze ###########
+^A^B^Γ^Δ^E^ST|_|OctB wk05 -20181010|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/maze/Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf\&url2=fun/maze/the-maze-game\(robot\)__no_jp_utl.swf\&url3=ab/ladybugs_TRODLER_noADsURL@.swf\&url4=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url5=fun/td/BloonsTowerDefense2_ok4slow_p4_NoNavUrl.swf\&url6=maze-1"|_|maze 1 (diego Δ+ to teleiwsan sta 15me20lepta))
+^A^B^Γ^Δ^E^ST|_|OctC wk06 -20181015|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/maze/labrat__maze-kids_needFastPC_unencr2noAdsURL_!!.swf\&url2=fun/maze/minotaur_122_maze__unencr3_noAdsUrl_!.swf\&url3=fun/maze/Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf\&url4=ab/ladybugs_TRODLER_noADsURL@.swf\&url5=fun/physics/soccer-balls__physics__noADurl.swf\&url6=maze-2" |_|maze2 ,soccer-balls(projectile).swf (Toys Arese ST)
+^A^B^Γ^Δ^E^ST|_|maze3fun|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/maze/mazegame-lola_kids_A-ST__NoNavUrl_!!.swf\&url2=fun/maze/Kaban_agriogourouno_maze_ok_more_time!!.swf\&url3=fun/maze/ghostcastle_maze_girl__jon_SHOW_ALL!!.swf\&url4=fun/maze/open-doors_maze__dimD-ST_NoNavUrl_!!.swf\&url5=fun/maze/sonic-vs-dogs_maze_ok_noADurl.swf\&url6=maze-3" |_|maze3 fun
+
+
+
+######|_||_|######## Tuxpaint ###########
+^A^B^Γ^Δ^E^ST|_|w01-05|_|tuxpaint πινέλα  (ζωγραφίστε σπίτι + αμάξι ,πινέλα ,σφραγίδες) ,typing_bricks(puzzle)!!!.swf|_|tuxpaint 1
+^Γ^Δ^E^ST|_|20181001-09|_|tuxpaint, σχήματα με τετράγωνα + τρίγωνα (σπιτάκια)|_|tuxpaint 2
+^A^B|_|20181016|_|A2,1: tuxpaint πινέλα, σφραγίδες (A2 φάνηκε να βαριέται)|_|tuxpaint 3
+
+######|_||_|######## Animation Graphics ###########
+^A^B^Γ^Δ^E^ST|_|gfx1 FebB|_|ironstartincognito ""$SWFlocal"pack_gfx1.html?timer4"  PARAM version:  ironstartincognito ""$SWFlocal"pack_url_param.html?url1=graphics_/paint_artpad_y8_GREEK_noNavAdUrl.swf\&url2=graphics_/paint_lily_paint_magic_GOOD_PALLETE_NoNavAdUrl_!!.swf\&url3=graphics_/animate_draw_your_cartoon_character_GREEK1_noAdsUrl.swf\&url4=sumopaint1025_GREEK_NoNavUrl1_v4b_progray.swf\&url5=GFX1\&url6=pack_A02.html" |_| gfx1 (ίσως 2 μαθήματα στις μικρες τάξεις) artpad (άρεσε Δ,Ε) ,lily_paint_magic (άρεσε Δ,Ε),animate_draw_your_cartoon, sumopaint,pack_A02 (μερικά τα έχουν κάνει ήδη σε άλλα packs)
+^A^B^Γ^Δ^E^ST|_|gfx2 MarC|_|ironstartincognito ""$SWFlocal"pack_gfx2.html?timer4"  PARAM version: ironstartincognito ""$SWFlocal"pack_url_param.html?url1=graphics_/comic_design__garfield_comic_creator_y8.swf\&url2=graphics_/animate_space__animation_studio_noAdUrl_!.swf\&url3=http://192.168.1.200/gamesedu/tortuga-kids-logo-gr\&url4=pack_A03.html\&url5=ΦΤΙΑΞΕ-KOMIK\&url6=sumopaint1025_GREEK_NoNavUrl1_v4b_progray.swf" |_| gfx2 comic create :garfield_comic_creator ,animate_space studio,tortuga local ,sumopaint ,packA03 (Γάτα,Σκύλος,συνεφάκι.α)Γαβ,β)Οι γάτες δεν κάνουν Νιάου,γ)Νιάου
+
+
+
+######|_||_|######## Tuxmath ###########
+^A^B|_|OctC wk07|_|tuxmath (patame arithmous ως πραξεις 0-5 ή 0-3) , Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf ,soccer-balls(projectile).swf |_|Tuxmath 1A-B (Α παιξαν 25 λεπτα περιπου)
+^Γ|_|OctC wk07|_|tuxmath(training αρχή-ως substraction up to 20) , labrat,soccer-balls(projectile).swf|_|Tuxmath 1Γ
+^Δ^E^ST|_|OctC wk07|_|Tuxmath (arxisa apo DoubleDigit Addition ως οσο παει), labrat,assault typing,soccer-balls(projectile).swf|_|Tuxmath 1Δ-E-ST
+
+
+######|_||_|######## HourOfCode 6-9 μαθήματα ###########
+^ST1|_|25+|_|ΠΟΛΛΑ ΜΑΖΙ (τελος χρονιάς)ΣΤ1  https://studio.code.org/hoc/1 (angry birds - τους αρεσε) , (ΣΤ2 -ΠΑΡΑΣΚΕΥΗ ΔΕΝ ΕΓΙΝΕ ΜΑΘΗΜΑ)|_|ΠΕΜΠΤΗ,
+suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https://studio.code.org/hoc/1 (θελει firefox ESR +)|_|ΠΕΜΠΤΗ,
+
+
+^A^B^Γ^Δ^E^ST|_|OctD wk08|_|https://studio.code.org/s/course1 ,https://studio.code.org/s/course1/stage/3/puzzle/1  |_|(1. Χαρούμενοι Χάρτες , 2. Κούνισέ το, Κούνισέ το , 3. Παζλ: Μάθε την μεταφορά και )
+^Γ^Δ^E^ST|_|NovA 20181031-1106|_|ironstart "https://studio.code.org/s/course1/stage/4/puzzle/1 "$SWFlocal"pack_A01.html" |_|4. Λαβύρινθος angry-birds: Ακολουθία
+^Γ^Δ^E^ST|_|NovA wk09 20181031-1113|_|ironstart "https://studio.code.org/s/course1/stage/5/puzzle/1 "$SWFlocal"pack_A02.html" |_| 5. Λαβύρινθο angry-birds: εντοπισμός σφαλμ
+^Γ^Δ^E^ST|_|Nov 20181102-1105|_|ironstart "https://studio.code.org/s/course1/stage/7/puzzle/1 "$SWFlocal"pack_A03.html"    , airtyper|_|(7. melisses)
+^Γ^Δ^E^ST|_|NovB wk10 20181102-1113|_|ironstart "https://studio.code.org/s/course1/stage/8/puzzle/1 "$SWFlocal"pack_A01.html"|_|(8. Καλλιτέχνης : Ακολουθία)
+^Γ^Δ^E^ST|_| 20181102-1112|_|ironstart "https://studio.code.org/s/course1/stage/10/puzzle/1 "$SWFlocal"pack_A02.html"|_|(10.Καλλιτέχνης: Σχήματα)
+^Γ^Δ^E^ST|_|NovC wk11 20181110-1130|_|ironstart "https://studio.code.org/s/course1/stage/12/puzzle/2 "$SWFlocal"pack_A03.html"|_|(12. Επαναλαμβανόμαστε,13. Λαβύρινθος angry-birds: Επαναλήψεις)  (stage11 αγγλικά μόνο)
+^Γ^Δ^E^ST|_|DecA or JanE 20181102-1122|_|ironstart "https://studio.code.org/s/course1/stage/14/puzzle/1 "$SWFlocal"pack_A01.html"|_|(14. Μέλισσα: Επαναλήψεις)
+^Γ^Δ^E^ST|_|DecA or JanE 20181102-1214|_|ironstart "https://studio.code.org/s/course1/stage/15/puzzle/2 "$SWFlocal"pack_A02.html"|_|ΔΥΣΚΟΛΑ (15. Το Μεγάλο Γεγονός , 16. Εργαστήρι Παιχνιδιού: Δημιουρ)
+
+
+######|_||_|######## Word 1,2,3 ###########
+^A^B^Γ^Δ^E^ST|_|word-resume|_| $OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/ALL_biografiko_mathiti.doc"|_|word Βιογραφικό μαθητή
+^Γ^Δ^E^ST|_|JanC 20190115-20|_|word01 $OOOKIDS$OOOKIDSpathprefix"AskiseisWord/Για Πληκτρολόγηση.doc" ,(frogger3d.swf)|_|(2-2 σειρές καθένας,shift,enter,backspace caps lock) Να γίνει Oct
+^Γ^Δ^E^ST|_|JanD 20190121-0201|_|word02  $OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc"  |_|(2-2 σειρές καθένας ,shift,enter,backspace caps lock)
+^Γ^Δ^E^ST|_|JanD 20190130-0131|_|word03 $OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/pliktrologisi_j02.2_antigrafi_didaktiko_yliko.doc"|_|word coloring text (small keimeno)
+
+^Γ^Δ^E^ST|_|word|_|word03 $OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/pliktrologisi_j05.1_easy_syntagi_biskota-stafides.doc"|_|word γράψτε την συνταγή στην σωστή σειρά (μικρό κείμενο)
+
+^Γ^Δ^E^ST|_|JanD 20190130-0131|_|word03 $OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/pliktrologisi_j03.2_ta_xelonakia.doc"|_|word 9lines plikrologisi
+
+^Γ^Δ^E^ST|_|JanD|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/word_morph_text_1.01_aitos-aidoni.doc"|_|word μορφοποίηση
+
+^Γ^Δ^E^ST|_|20190130-0131|_|word05 $OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/pliktrologisi_j03.5_kremala_paint.doc"|_|
+
+^A^B|_|JanC wk20|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/type_A_B_Alfabitiki_seira_fylla.doc"|_| wordAB 1
+^A^B|_|JanE wk22|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/type_A_B-G_EASY_Zwa_delete_errors.doc"|_| wordAB 2
+^A^B|_|JanC+|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/type_A_B_Zwa_Copy-paste-caps-lock.doc"|_| wordAB 3 Με κεφαλαία στην πρώτη στήλη με μικρά στην 2η στήλη αν είναι δυνατόν.
+^A^B|_|JanC+|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/copy-paste-4_easy-skilos-kreas-symplirose-kena.doc"|_|wordAB  QUICK  copy-paste
+^A^B^Γ|_|JanC+|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/type_B_G_typing-agapimena_calendar-like-write-words.doc"|_| wordAB 4 calendar γράψτε λεξεις που ξεκινάν απο τα γράμματα
+
+
+^Γ^Δ|_|word-copy-paste!!! |_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/copy-paste-5_word97_j02_sunthetika-skylaki.doc|_|word  copy-paste eukoles (mallon gia Γ,Δ)
+^Γ^Δ^E^ST|_|word-copy-paste!!! |_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/copy-paste-MERGED-1-2-3-merged.doc|_|word  copy-paste (lexiko,garfield,fasianos)
+
+
+
+
+######|_||_|######## Excel ###########
+^A^B^Γ|_|JanC+ excel0|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/excel_A-B-NomismatikoSystima.xls"|_| excelABΓ1 - Χρηματικά Ποσά
+^Γ^Δ^E^ST|_|excel1|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/excel_1.1_pinakas_mathitwn.xls"|_|excel1
+^Γ^Δ^E^ST|_|excel2|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/excel_1.2_pinakas_sports.xls"|_|excel2
+
+
+
+
+
+
+
+######|_||_|######## giortes xmas###########
+^A^B^Γ^Δ^E^ST|_|DecA wk14 20181217|_|Xristougenniatikes drasthriothtes (oles oi takseis) , christmas hidden objects , ζωγραφιστε χριστουγ κάρτες ramkid |_|giortes xmas Α
+^A^B^Γ^Δ^E^ST|_|DecB,DecC wk15 ,wk16 20181214|_|ironstartincognito ""$SWFgiortes"index_xmas.html"|_|giortes xmas Β : 2-3 μαθήματα (μετά τέλος ασκήσεων)
+^A^B^Γ^Δ^E^ST|_|JanB wk19 20190108|_|15o tuxpaint : βασιλόπιτα, χριστουγ εικόνα  ^A, ^Δ1,^Δ2,  ^Ε1,^Ε2,^B1,^B2|_|giortes xmas C
+
+
+######|_||_|######## giortes halloween ###########
+^A^B^Γ^Δ^E^ST|_|FebC|_|ironstartincognito ""$SWFgiortes"other/ramkid_invitation_party/index.html "$SWFpath"ramkid_giortes_apokries_pt1.html"  |_|apokries part 1 ramkid,prosklisi  (KIDS epedia απόκριες κολλάει συνέχεια το flash Volume13/index_kd_vol.html)
+^A^B^Γ^Δ^E^ST|_|FebD|_|ironstartincognito ""$SWFgiortes"index_halloween.html"|_|apokries part 2, games two weeks 20190225-20190308 , ΔΕΥΤΕΡΑ,ΤΡΙΤΗ,ΤΕΤΑΡΤΗ,ΠΕΜΠΤΗ,ΠΑΡΑΣΚΕΥΗ
+
+
+######|_||_|######## giortes easter ###########
+^A^B^Γ^Δ^E^ST|_|easterA|_|ironstartincognito ""$SWFlocal"ramkidpedia_vol20_pasxa1.html"  @@@@@@|_|pasxa part Α (kids_ePedia32cd Volume20 DIRECT,Ramkid_15may_pasxa_flags)
+^A^B^Γ^Δ^E^ST|_|easterB,C|_|ironstartincognito ""$SWFgiortes"index_easter.html"|_|pasxa part B ,2-3 μαθήματα
+
+
+######|_||_|######## special days (recycle etc) ###########
+^Γ^Δ^E^ST|_|MarD prin 25martioy|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/25martioy-copy-paste-easy-01.doc"|_|word  QUICK copy-paste 25martioy 
+^A^B^Γ^Δ^E^ST|_|recycle|_|ironstart ""$SWFlocal"pack_recycle.html?timer2"  |_|recycle  (junkmonster,ramkid_recycle_catch_trash_recfall,ramkid_recycle_correct_bin_reccat, Go_Recycle,Recycle(drag_drop),Recycle_Fun(grabber) recycle_huruhumi(recycle_or_compost))
+suggest|_|20190204|_|TA BINTEO) : http://www.saferinternet.gr/index.php?parentobjId=Page15&objId=Category17&p=0   ,INTERNETOΔΑΣΟΣ:  http://wildwebwoods.org/popup.php?lang=gr   ,   https://internet-safety.sch.gr/ ,  http://www.saferinternet.gr/  ,  BINTEO http://www.saferinternet.gr/index.php?objId=Category17&parentobjId=Page15   ,|_|ΑΣΦΑΛΕΙΑ ΔΙΑΔΙΚΤΥΟ  @@@
+
+
+
+
+######|_||_|######## coding 1,2 lightbotjs###########
+^Α^Β|_|JanD wk21 code0|_|Να βρω κάτι πολύ εύκολο !!! lightbot_iron_browser "maps_d1.txt "$SWFlocal"pack_A02.html"|_|code0ΑΒ
+^Γ^Δ^E^ST|_|JanC code1|_|lightbot_iron_browser "maps_random_2%284x4_3lights%29.txt "$SWFlocal"pack_A04.html" |_|code1 intro ευκολο για μεγάλες τάξεις (ας παίξουν pack_A04 όσοι τελειώσουν)
+^Γ|_|JanD code2Γ|_|lightbot_iron_browser "maps_d1.txt "$SWFlocal"pack_A02.html"|_|code2Γ
+^Δ^E^ST|_|JanD code2Δ,Ε,ΣΤ|_|lightbot_iron_browser "maps_easy.txt "$SWFlocal"pack_A02.html"|_|code2Δ,Ε,ΣΤ ΕΠΑΠΑΝΑΛΑΒΕ
+
+
+
+######|_||_|######## coding 3 tank ###########
+^Γ^Δ^E^ST|_|AprA|_|TANK   ironstartincognito ""$GAMESEDU"Code-Commander-gr/index_dot_links.html "$SWFlocal"pack_A02.html"   ,|_|coding TANK commander lesson  @@@
+
+######|_||_|######## coding 4 other flash etc###########
+^Β^Γ^Δ^E^ST|_|MarB|_|ironstartincognito ""$SWFlocal"pack_code_rover.html?timer4" |_|coding (made pack_code_rover.html)  απόσταση 54,6-400 εκατ χλμ (ok Δ δημοτικού mars_rover Γ: λίγο δυσκολευτηκε -tiny explorers αρεσε Δ,ΣΤ) (Β τάξη MarB rover -να κάνω 3-5 πρώτες πίστες , Tortuga Τετράγωνο και Σκαλα ) (Rover_nasa ,Tiny-explorers,tortuga.dimotiko.tk,TurtlePond ,    )
+^Γ^Δ^E^ST|_|AprB|_|ironstartincognito ""$SWFlocal"pack_code_lightbotswf.html?timer4"  ORIG:  ironstartincognito ""$SWFlocal"pack_url_param.html?url1=coding/lightbot-codehour-gr_NoNavUrl.swf\&url2=coding/Tiny-explorers__nice_puzzle_education_unencr_noAds_ok.swf\&url3=http://tortuga.dimotiko.tk\&url4=pack_A03.html\&url5=coding/TurtlePond__illuminations.nctm.org.swf\&url6=ΚΩΔΙΚΑΣ"    |_|coding swf lightbot
+
+
+######|_||_|######## coding 5 scratch ###########
+^Γ|_|20181029|_|Scratch dialogue-cartoon , html/txt οδηγίες βήμα-βήμα|_|Scratch dialogue-cartoon
+
+
+
+######|_||_|######## FUN-ARCADE ###########
+^Γ|_|20181029|_|Γ1,2 : soccer-balls(projectile).swf ,BloonsTowerDefense2.swf|_|ΔΕΥΤΕΡΑ
+^ST|_|20181029|_|ΣΤ2, : (st2 mono auto) soccer-balls(projectile).swf (2η φορά teleivsan) ,ΣΤ1 : BloonsTowerDefense2.swf|_|ΔΕΥΤΕΡΑ
+^Δ|_|20181030|_|d2,1:  soccer-balls(projectile).swf , ligo BloonsTowerDefense2.swf|_|ΤΡΙΤΗ
+^B|_|20181114|_|B1,Δ2απασχοληση : sheep_card_game_v07.swf,paixnidia super-mario-racing-2_noADs.swf  , B2:xathike mathima|_|ΤΕΤΑΡΤΗ  B1,Δ2απασχοληση
+
+
+
+
+
+
+^Γ|_|20181014|_|G1,2 addition-croc_(BiggerNumbers)_(math4childrenplus).swf ,labrat|_|ΔΕΥΤΕΡΑ
+suggest|_|20181015|_|http://androul.mysch.gr/course/index.php?categoryid=1|_|
+
+
+^A|_|20181016|_|coloring_1bear.swf, MazeWorld-_oig_v_0.169(turtle).swf (SLOW pc Den tous arese)|_|ΤΡΙΤΗ
+
+|_|20181016|_|smurfai_856.swf  , http://users.sch.gr/salnk/didaskalia/microworldspro/mwprotut3.htm|_|http://users.sch.gr/salnk/didaskalia/microworldspro/mwprotut3.htm
+
+
+
+
+
+
+suggest|_|20181022|_| https://pinta-project.com/pintaproject/pinta/  ,  http://www.upubuntu.com/2011/03/eight-image-editors-you-can-install-and.html|_|
+
+
+suggest|_|20190205|_|wget -T 30 https://mirror.aarnet.edu.au/pub/centos/7/isos/x86_64/md5sum.txt|_|wget timeout  @@@
+
+suggest|_|20190123|_|ln -s /opt/lampp/htdocs/ramkid_selection_swf/ ./   ,  http://educ.swf.dimotiko.tk/4class_sfs/   ,|_|
+suggest|_|20190115|_|https://forums.opensuse.org/showthread.php/432360-can-t-open-remote-files-in-Openoffice|_|
+suggest|_|20181115|_|save exit  http://murga-linux.com/puppy/viewtopic.php?t=111789&start=150&sid=0ef20a79c046e5c1bb7ee82230b8db43|_|
+suggest|_|20190214|_|2check flash games   , https://clevergames.wordpress.com/2009/12/02/online-games-for-kids-top-list-free-educational-flash-games/|_|
+|_|20190225-08|_|apokries part 3 (two weeks 20190225-20190308)  : ^B, ^A, ^B, ^Γ, ^Δ, ^E, ^ST, ^A1, ^A2, ^B, ^Γ1, ^Γ2, ^Δ, ^E1, 
+suggest|_|20181122|_|https://littlebinsforlittlehands.com/printable-algorithm-coding-game-stem-kids/   ,|_|
+
+suggest|_|20181125|_|--incognito ,Tank Commander MAP EDITOR: O:laser turret, B:base , R=rock , *=mine , T=tree ,starttank :^ < > v,walls = -+|_|,     https://blockly-games.appspot.com/?lang=el  ,  https://github.com/google/blockly-games/tree/offline/generated
+suggest|_|20181127|_|http://swf.matheme.tk/opengame.php?file=./education_/holidays_/finding-santa_(christmas_find)_!!.swf|_|ΤΕΤΑΡΤΗ
+suggest|_|20181019|_|type_magos_typenpop.swf  , the-maze-game(robot)__no_jp_utl.swf  , DIM10 E1 : typing bricks , airtyper|_|
+τεστ|_|MarB|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=coding/Rover_nasa_GREEK1.swf\&url2=coding/Tiny-explorers__nice_puzzle_education_unencr_noAds_ok.swf\&url3=http://tortuga.dimotiko.tk\&url4=pack_A02.html\&url5=coding/TurtlePond__illuminations.nctm.org.swf\&url6=ΚΩΔΙΚΑΣ\&timer4"     |_|
+suggest|_|20190219|_|su -l puppy -c '/opt/firefox10/firefox -no-remote -profile "/mnt/home/downloads_linux/.data/firefox10" -new-tab -url "'$1'" -new-tab -url "'$2'"  -new-tab -url "'$3'"  -new-tab -url "'$4'"'|_|firefox10() {  . /tmp/firefox-puppy-home.sh "$@"          return 5 }
+suggest|_|20190220|_|database : id ,|_|http://list2checkbox.dimotiko.tk/class_dimotika.php
+suggest|_|20190220|_|https://www.mozilla.org/en-US/firefox/releases/   ,  FLAT FILE DATABASES https://duckduckgo.com/?q=flat+file+database+php&t=palemoon&ia=web   ,   https://github.com/filebase/Filebase   ,|_|
+suggest|_|20190221|_|https://www.vultr.com/docs/setup-nfs-share-on-debian|_|
+suggest|_|20190206|_|john_start_kill_apps.sh -15o 190213 https://pastebin.com/gSRnj9kx , john_start_kill_apps.sh -10o 190206 https://pastebin.com/tce810qS|_|https://pastebin.com/gSRnj9kx
+suggest|_|20190206|_|jml =google19&%   giat= Hello123!   http://www.rapidtyping.com/release-notes-beta.html|_|@@@
+suggest|_|20190207|_|REGULAR EXPRESSION map_file=(map_url_substring.match(/map=([^&]+)/)[1]);    https://stackoverflow.com/questions/5237725/take-a-url-variable-with-regex|_|https://rubular.com/  test regular expressions
+suggest|_|20190208|_|// Uncheckdocument.getElementById("checkbox").checked = false;|_|
+suggest|_|20190210|_|https://www.e-dim.gr/a-dimotiko/|_|
+suggest|_|20190211|_|typefun.dimotiko.tk  ,  http://list2checkbox.dimotiko.tk/class_dimotika.php|_|
+suggest|_|20181213|_|https://sites.google.com/site/unlokcloud/swf-game-downloads-and-links   ,  https://www.kidzeegames.com/category/education/   ,  http://bmanatee.blogspot.com/2013/04/manatee-swf-decrypter-v3.html   ,  http://bruce-lab.blogspot.co.il/2010/08/freeswfdecompilers.html     ,   http://www.showmycode.com/   ,   https://developers.google.com/swiffy/   ,|_|
+suggest|_|20190131|_|A ταξη : ironstart "https://blockly-games.appspot.com/?lang=el http://192.168.1.200/swf/pack_A01.html --incognito"|_|http://192.168.1.200/gamesedu/lightbot_haan/select.php
+
+
