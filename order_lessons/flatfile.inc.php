@@ -1,9 +1,11 @@
 <?php
 date_default_timezone_set('Europe/Athens'); //added to avoid PHP warning for date 160920
 #####################################################################################
-# Flat File Database Manager 1.2jmod08-190319_shows_selected_&_class_name on list text 190319
+# Flat File Database Manager 1.2jmod09-190320_sortablejs_sprintf
 #
 # changes
+# 1.2jmod09-190320_sortablejs_sprintf
+# 1.2jmod08-190319_shows_selected_&_class_name on list text
 # 1.2jmod07-LISTQUARTER 190312
 # ver1.2jmod06-RTfilter 190305
 # ver1.2jmod05-Reat time client filter 190224a
@@ -64,6 +66,7 @@ if (get_magic_quotes_gpc()) {
 if(empty($show_empty_lines))$show_empty_lines=false; //If disabled(false) might have problem if you have empty lines
 if(empty($add_class_to_element))$add_class_to_element=true; //190319 adds class name to each element(so we can add custom js for this element )
 if(empty($show_internal_element_text_outside))$show_internal_element_text_outside=true;
+if(empty($sorttable_js))$sorttable_js=true;
 
 $structure_tmp = file($structure_file);
 $structure = array();
@@ -162,15 +165,18 @@ echo "<head><title>$data_file</title>
 }
 
 
-</style>
+</style>";
 
-</head>";
+if($sorttable_js) echo'<script src="sorttable.js"></script>'."\n";
+
+echo "</head>";
 echo "<body><h1>$data_file</h1>
-
 ";
 
 echo '<form method="post">';
-echo "\n".'<table id="myTable" border=1 >'."\n";
+$table_class='';
+if($sorttable_js) $table_class=' class="sortable" ';
+echo "\n".'<table id="myTable" '.$table_class.' border=1 >'."\n";
 
 // output header
 echo '<tr >';
@@ -247,12 +253,13 @@ foreach($data as $datakey => $line) {
 # LIST:    Rendered as list box or combo box. Row format:
 #          title,LIST,number of rows visible at a time,colon ":" separated allowed values   
       case 'LIST':
+        if($show_internal_element_text_outside)echo '<b>'.sprintf("%02d", $item).'</b><BR>'; 
         echo '<select onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" '.$class_name.' size="'.$structure[$key]['format'].'">';
         foreach($structure[$key]['values'] as $value) {
           echo '<option value="'.$value.'" '.($value == $item ? 'selected' : '').'>'.$value.'</option>';
         }
         echo '</select>';
-        if($show_internal_element_text_outside)echo '<BR><b>'.$item.'</b>'; 
+        
         break;
 # LISTQUARTER:    Rendered as list box or combo box with monthQuarters (not much usefull atm). Row format:
 #          title,LIST,number of rows visible at a time,colon ":" separated allowed values   
