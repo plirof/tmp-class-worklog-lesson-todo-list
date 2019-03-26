@@ -1,7 +1,7 @@
 Levels,STRING,14
-Week Suggestion,TEXT,10:2
-Entry,TEXT,60:2
-Comments,TEXT,40:2
+Week Suggestion,STRING,20
+Entry,TEXT,70:2
+Comments,STRING,30
 dim15-A,LOGICAL,1,Y:N
 dim15-B,LOGICAL,1,Y:N
 dim15-Γ,LOGICAL,1,Y:N
