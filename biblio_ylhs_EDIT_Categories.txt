@@ -49,7 +49,7 @@ suggest|_|20181003|_|@@@@ http://educ.swf.dimotiko.tk/education_math_shapes_/mat
 ######|_||_|######## Type ###########
 ^A^B^Γ|_|SepD wk03|_|ironstartincognito ""$SWFlocal"pack_type_ramkid_greek.html" |_|typing0 (A,B δημοτικου) typing_bricks,ramkid_typing (4 different), ramkid typing disk2_0 Γράψε 5 φράσεις !!! ,castle-defence-extreme-spelling
 ^A^B^Γ^Δ^E^ST|_|SepC wk02|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=type/typing_bricks\(puzzle\)!!!.swf\&url2=type/assault-typing__shootemup__rapidtyping.com_NoAdUrl.swf\&url3=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url4=type/typing_alphattack2__bombDrop_NoNavUrl.swf\&url5=type/airtyper_1_noADsURL.swf\&url6=typing-1"|_|typing1
-^A^B^Γ^Δ^E^ST|_|wk03|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=type/airtyper_1_noADsURL.swf\&url2=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url3=type/typing_bricks\(puzzle\)!!!.swf\&url4=type/typing_tidepool\(sea_race\)_!!.swf\&url5=typing-2" |_|typing2  - airtype, typing_adventure(indiana_jones).swf (Δ αρέσει)31sec record ,d1:typing_bricks
+^A^B^Γ^Δ^E^ST|_|wk03|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=type/airtyper_1_noADsURL.swf\&url2=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url3=type/typing_bricks\(puzzle\)!!!.swf\&url4=type/typing_tidepool\(sea_race\)_!!.swf\&url5=type/excuses-excuses__type_noADsURL.swf\&url6=typing-2" |_|typing2  - airtype, typing_adventure(indiana_jones).swf (Δ αρέσει)31sec record ,d1:typing_bricks , excuses
 
 
 
@@ -98,7 +98,7 @@ suggest|_|20181003|_|@@@@ http://educ.swf.dimotiko.tk/education_math_shapes_/mat
 suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https://studio.code.org/hoc/1 (θελει firefox ESR +)|_|ΠΕΜΠΤΗ,
 
 
-^A^B^Γ^Δ^E^ST|_|OctD wk08|_|https://studio.code.org/s/course1 ,https://studio.code.org/s/course1/stage/3/puzzle/1  |_|(1. Χαρούμενοι Χάρτες , 2. Κούνισέ το, Κούνισέ το , 3. Παζλ: Μάθε την μεταφορά και )
+^A^B^Γ^Δ^E^ST|_|OctD wk08|_|https://studio.code.org/s/course1 ,ironstart "https://studio.code.org/s/course1/stage/3/puzzle/1 "$SWFlocal"pack_A01.html"  |_|(1. Χαρούμενοι Χάρτες , 2. Κούνισέ το, Κούνισέ το , 3. Παζλ: Μάθε την μεταφορά και )
 ^Γ^Δ^E^ST|_|NovA wk08 20181031-1106|_|ironstart "https://studio.code.org/s/course1/stage/4/puzzle/1 "$SWFlocal"pack_A01.html" |_|4. Λαβύρινθος angry-birds: Ακολουθία
 ^Γ^Δ^E^ST|_|NovA wk09 20181031-1113|_|ironstart "https://studio.code.org/s/course1/stage/5/puzzle/1 "$SWFlocal"pack_A02.html" |_| 5. Λαβύρινθο angry-birds: εντοπισμός σφαλμ
 ^Γ^Δ^E^ST|_|Nov wk09 20181102-1105|_|ironstart "https://studio.code.org/s/course1/stage/7/puzzle/1 "$SWFlocal"pack_A03.html"    , airtyper|_|(7. melisses)
@@ -132,8 +132,6 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 
 ^Γ^Δ|_|word-copy-paste!!! |_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/copy-paste-5_word97_j02_sunthetika-skylaki.doc|_|word  copy-paste eukoles (mallon gia Γ,Δ)
 ^Γ^Δ^E^ST|_|word-copy-paste!!! |_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/copy-paste-MERGED-1-2-3-merged.doc|_|word  copy-paste (lexiko,garfield,fasianos)
-
-
 
 
 ######|_||_|######## Excel ###########
