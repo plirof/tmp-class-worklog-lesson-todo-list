@@ -1,5 +1,5 @@
 
-######|_||_|######## Mouse Intro Ευκολα Α,Β ###########
+######|_||_|######## Mouse Intro Ευκολα Α,Β ########### wk =week of school year
 
 ^A|_|20180913|_|colorgame(sheppardsoftware.com)_preschool.swf ,funbrain_com_SimonSees.swf  ,funbrain_com_PicklePop.swf|_|
 suggest|_|20190204|_|http://ts.sch.gr/repo/online-packages/^glossa-a-b/start.html   ,  http://sivasxoleio.blogspot.com/2015/03/blog-post_67.html , http://mikrapaidia.gr/ccs3/ *** gia a,b taksi   ,   CUSTOM 2 check : http://www.blendedplay.com/#|_|ΕΚΠΑΙΔΕΥΤΙΚΑ παιχνίδια ts.sch.gr @@@
@@ -148,7 +148,7 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 
 
 ######|_||_|######## giortes xmas###########
-^A^B^Γ^Δ^E^ST|_|DecA wk14 20181217|_|Xristougenniatikes drasthriothtes (oles oi takseis) , christmas hidden objects , ζωγραφιστε χριστουγ κάρτες ramkid |_|giortes xmas Α
+^A^B^Γ^Δ^E^ST|_|DecA wk14 20181217|_|Xristougenniatikes drasthriothtes (oles oi takseis) , christmas hidden objects , ζωγραφιστε χριστουγ κάρτες ramkid ironstartincognito ""$SWFlocal"ramkidpedia_vol04_xmas1.html "$SWFlocal"ramkid_giortes_xmas_pt1.html"   |_|giortes xmas Α !!!!! NA ΦΤΙΑΞΩ το ramkid_giortes_xmas_pt1.html
 ^A^B^Γ^Δ^E^ST|_|DecB,DecC wk15 ,wk16 20181214|_|ironstartincognito ""$SWFgiortes"index_xmas.html"|_|giortes xmas Β : 2-3 μαθήματα (μετά τέλος ασκήσεων)
 ^A^B^Γ^Δ^E^ST|_|JanB wk19 20190108|_|15o tuxpaint : βασιλόπιτα, χριστουγ εικόνα  ^A, ^Δ1,^Δ2,  ^Ε1,^Ε2,^B1,^B2|_|giortes xmas C
 
@@ -159,7 +159,7 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 
 
 ######|_||_|######## giortes easter ###########
-^A^B^Γ^Δ^E^ST|_|wk32 easterA|_|ironstartincognito ""$SWFlocal"ramkidpedia_vol20_pasxa1.html"  @@@@@@|_|pasxa part Α (kids_ePedia32cd Volume20 DIRECT,Ramkid_15may_pasxa_flags)
+^A^B^Γ^Δ^E^ST|_|wk32 easterA|_|ironstartincognito ""$SWFlocal"ramkidpedia_vol20_pasxa1.html "$SWFlocal"ramkid_giortes_pasxa_pt1.html"  @@@@@@|_|pasxa part Α (kids_ePedia32cd Volume20 DIRECT,Ramkid_15may_pasxa_flags)
 ^A^B^Γ^Δ^E^ST|_|wk33 easterB,C|_|ironstartincognito ""$SWFgiortes"index_easter.html"|_|pasxa part B ,2-3 μαθήματα
 
 
