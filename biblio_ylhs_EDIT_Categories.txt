@@ -42,7 +42,7 @@ suggest|_|20190204|_|http://ts.sch.gr/repo/online-packages/^glossa-a-b/start.htm
 ^A|_|pack+OctA-20181003|_|A1,2 :colorgame(sheppardsoftware.com)_preschool.swf (again),buscounting, A1 :Your-Face.swf , A2: coloring_1bear.swf (toys arese),Mickey-Man(pacman).swf (kalo - barethikan sta 10n min)|_|ΤΕΤΑΡΤΗ
 ^A^B|_|20181003|_|Minions-Thirsty-Coloring.swf , buscounting,  ,typing_adventure(indiana_jones)(to briskoun ligo dyskolo).swf,typing_bricks(puzzle)!!!.swf(again), colorgame(sheppardsoftware.com)_preschool.swf|_|ΤΕΤΑΡΤΗ
 suggest|_|20181003|_|@@@@ http://educ.swf.dimotiko.tk/education_math_shapes_/math_WordSearch-computer. TO EDIT IMAGES Να Γίνει ελληνικά   , indiana jones|_|http://educ.swf.dimotiko.tk/education_math_shapes_/math_WordSearch-computer.swf
-^Γ|_|20181008|_|g1,2 ,εσωτερικό PC, tuxpaint (πινέλα),|_|ΔΕΥΤΕΡΑ
+^Γ|_|20181008|_|g1,2 ,εσωτερικό PC Εσωτερικό υπολογιστή Ελληνικά Video 7min  https://www.youtube.com/watch?v=3U5AzACKaQU  , tuxpaint (πινέλα),|_|ΔΕΥΤΕΡΑ
 
 ######|_||_|######## Type ###########
 ^A^B^Γ|_|SepD wk03|_|ironstartincognito ""$SWFlocal"pack_type_ramkid_greek.html" |_|typing0 (A,B δημοτικου) typing_bricks,ramkid_typing (4 different), ramkid typing disk2_0 Γράψε 5 φράσεις !!! ,castle-defence-extreme-spelling
@@ -176,6 +176,9 @@ suggest|_|20190204|_|TA BINTEO) : http://www.saferinternet.gr/index.php?parentob
 ######|_||_|######## coding 5 scratch ###########
 ^Γ|_|20181029|_|Scratch dialogue-cartoon , html/txt οδηγίες βήμα-βήμα|_|Scratch dialogue-cartoon
 
+
+######|_||_|######## coding 6 hour of code (english) ###########
+^Γ^Δ^E^ST|_|20181029|_|ironstartincognito "https://hoc.nclab.com/karel/el/ "$GAMESEDU"blockly-games/el/index.html?lang=el "$GAMESEDU"pixbot "$SWFlocal"pack_A03.html " |_|karel/el light bot style with ENGLISH words (easy -but ENG)
 
 
 ######|_||_|######## FUN-ARCADE ###########
