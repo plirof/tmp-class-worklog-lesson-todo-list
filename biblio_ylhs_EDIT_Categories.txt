@@ -21,18 +21,22 @@ suggest|_|20190204|_|http://ts.sch.gr/repo/online-packages/^glossa-a-b/start.htm
 ^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A06.html " |_| SuperHyperSpiderTyper, donnie-s-superfly-game(flucatch mouse) ,bouncehs_tomatoes , blobuloids burger, sweet , chocolate , mazerace2_pasxalitsa__dimA , sumopaint,pencil_racer_skate_park, typing_Expert_Fox__dimE-ST_16mins_english
 ^A^B|_|20190213|_|ironstart ""$SWFlocal"pack_A07.html " |_| color_ramkid_pccollet_xromatizw_me_grammata,croc-addition-with-pictures_!!,spider2_fuelthebrain,ramkid_typing_letters_slow_flyingt,qwerty21_decompr,chess-mate
 
+^A^B|_|20181003|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=ab/coloring/coloring_Minions-Thirsty-Coloring_1image_NoNav.swf\&url2=ab/buscounting__simple.swf\&url3=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url4=type/typing_bricks__puzzle!!!.swf\&url5=ab/coloring/colorgame__sheppardsoftware.com_preschool.swf\&url6=pack_AA1kids"|_|pack_AA1.html ΤΕΤΑΡΤΗ
+^A|_|20181113|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=ab/coloring/coloring_Phineas-E-Ferb-coloring.swf\&url2=ab/shapesonact__same_each_time_1stGrade.swf\&url3=fun/super-mario-racing-2_noADs.swf\&url4=fun/maze/labrat__maze-kids_needFastPC_unencr2noAdsURL_!!.swf\&url5=fun/maze/Mickey-Man__pacman_noNavUrl.swf\&url6=pack_AA2-kids"   |_|pack_AA2.html  Mickey-Man(pacman).swf (to zitisan barethikan sta 10n min) , gcompris (2 πρωτες επιλογες δεξια)
+^A|_|20190115|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=ab/coloring/coloring-inside-out__noADsURL.swf\&url2=ab/coloring/color_mordecai_and_rigby-regular__moving_1img_NoNav.swf\&url3=fun/derby_racing_minecraft-like__NoNavUrl.swf\&url4=fun/frogger3d__noNavURL_10lives!!.swf\&url5=fun/maze/mouse_maze_game_play_10_1_noNavUrl!!.swf\&url6=pack_AA3-kids"|_|pack_AA3.htmlΤΡΙΤΗ
+
+^A^B|_|20181130|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=ab/Kids-Coloring-Book-many-images__noNavigateToURL3.swf\&url2=dim_ab_fun/blobuloids_NoNavUrl.swf\&url3=dim_ab_fun/kaban_sheep_NoNavUrl.swf\&url4=fun/frogger3d__noNavURL_10lives!!.swf\&url5=dim_ab_fun/donnie-s-superfly-game__mouse_eat_flies_dimAB.swf\&url6=pack_AA4-kids"|_|pack_AA4.html ΠΑΡΑΣΚΕΥΗ
+
+
+
 
 
 
 ^A|_|20181106|_|Mickey-Man(pacman).swf (dyskolo - barethikan sta 10n min) , gcompris (2 πρωτες επιλογες δεξια)|_|ΤΡΙΤΗ
-^A|_|20181113|_|http://192.168.1.200/swf/ab/Phineas-E-Ferb-coloring.swf  ,   shapesonact_(same_each_time)1stGrade.swf ,Mickey-Man(pacman).swf (to zitisan barethikan sta 10n min) , gcompris (2 πρωτες επιλογες δεξια)|_|ΤΡΙΤΗ
-^A|_|20181114|_|A2: http://192.168.1.200/swf/ab/Phineas-E-Ferb-coloring.swf  , shapesonact_(same_each_time)1stGrade.swf , http://192.168.1.200/swf/fun/super-mario-racing-2.swf (ΕΧΕΙ ADs) ,Α1 ΠΑΡΑΣΚΕΥΗ(17ΝΟΕ -ΑΡΓΙΑ)|_|ΤΕΤΑΡΤΗ, Α1 ΠΑΡΑΣΚΕΥΗ(ΔΕΝ
-^A^B|_|20181130|_|Β: Kids-Coloring-Book-many-images__noNavigateToURL3.swf, typing_bricks(puzzle)!!!.swf  , finding-santa|_|ΠΑΡΑΣΚΕΥΗ
 ^A|_|20181204|_|A smurfs_nintendo_simple.swf (kolaei *** isws ads) , minion-jump-adventure(1key)ok_noADS.swf (bgazei ads)  , finding-santa (dyskolo gia gia A) , kaban|_|ΤΡΙΤΗ
 
 
 ^B|_|20181214|_|ironstart ""$SWFlocal"fun/frogger3d__noNavURL_10lives!!.swf "$SWFlocal"pack_A01.html"   (Dyskologia Α sto frogger)  |_|ΠΑΡΑΣΚΕΥΗ
-^A|_|20190115|_|Α: coloring-inside-out__noADsURL.swf  , coloring_walking_frankie_coloring_page_noAdsUrl (ok on pack_A05) (τελειώνουν γρήγορα) , xromatizo ΜΥΚΗΝΕΣ /swf/ramkid_selection_swf/xromatizo/mincol.swf (θέλει χειροκίνητη αλλαγή)|_|ΤΡΙΤΗ
 
 ^B|_|20190116|_|Β1,:coloring-inside-out__noADsURL.swf  , (είναιστο pack_A? )coloring_walking_frankie_coloring_page_noAdsUrl_!!.swf (τελειώνουν γρήγορα) , frogger3d.swf  ,  Β2 (4 ;atoma mono):coloring-inside-out__noADsURL.swf|_|ΤΕΤΑΡΤΗ
 
@@ -40,7 +44,7 @@ suggest|_|20190204|_|http://ts.sch.gr/repo/online-packages/^glossa-a-b/start.htm
 
 
 ^A|_|pack+OctA-20181003|_|A1,2 :colorgame(sheppardsoftware.com)_preschool.swf (again),buscounting, A1 :Your-Face.swf , A2: coloring_1bear.swf (toys arese),Mickey-Man(pacman).swf (kalo - barethikan sta 10n min)|_|ΤΕΤΑΡΤΗ
-^A^B|_|20181003|_|Minions-Thirsty-Coloring.swf , buscounting,  ,typing_adventure(indiana_jones)(to briskoun ligo dyskolo).swf,typing_bricks(puzzle)!!!.swf(again), colorgame(sheppardsoftware.com)_preschool.swf|_|ΤΕΤΑΡΤΗ
+
 suggest|_|20181003|_|@@@@ http://educ.swf.dimotiko.tk/education_math_shapes_/math_WordSearch-computer. TO EDIT IMAGES Να Γίνει ελληνικά   , indiana jones|_|http://educ.swf.dimotiko.tk/education_math_shapes_/math_WordSearch-computer.swf
 ^Γ|_|20181008|_|g1,2 ,εσωτερικό PC Εσωτερικό υπολογιστή Ελληνικά Video 7min  https://www.youtube.com/watch?v=3U5AzACKaQU  , tuxpaint (πινέλα),|_|ΔΕΥΤΕΡΑ
 
