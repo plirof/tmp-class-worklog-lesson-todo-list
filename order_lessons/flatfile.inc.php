@@ -1,9 +1,10 @@
 <?php
 date_default_timezone_set('Europe/Athens'); //added to avoid PHP warning for date 160920
 #####################################################################################
-# Flat File Database Manager 1.2jmod09-190320_sortablejs_sprintf
+# Flat File Database Manager 1.2jmod10-190408_$show_logical_header shows text in checkboxes (alt to freeze 1st row)
 #
 # changes
+# 1.2jmod10-190408_$show_logical_header shows text in checkboxes (alt to freeze 1st row)
 # 1.2jmod09-190320_sortablejs_sprintf
 # 1.2jmod08-190319_shows_selected_&_class_name on list text
 # 1.2jmod07-LISTQUARTER 190312
@@ -67,6 +68,7 @@ if(empty($show_empty_lines))$show_empty_lines=false; //If disabled(false) might 
 if(empty($add_class_to_element))$add_class_to_element=true; //190319 adds class name to each element(so we can add custom js for this element )
 if(empty($show_internal_element_text_outside))$show_internal_element_text_outside=true;
 if(empty($sorttable_js))$sorttable_js=true;
+if(empty($show_logical_header))$show_logical_header=false; //If disabled(false) might have problem if you have empty lines
 
 $structure_tmp = file($structure_file);
 $structure = array();
@@ -237,6 +239,7 @@ foreach($data as $datakey => $line) {
     case 'LOGICAL':
         $val_yes = trim($structure[$key]['values'][0]);
         echo '<input onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" type="checkbox" '.(($item == $val_yes) ? 'checked' : '').' value="'.$val_yes.'" />';
+        if($show_logical_header) echo $structure[$key]['name'];// show header column name (alternative to freeze first row)
         break;
 // +++++++++++++++++++++++++ added by john to show a link (adds HTTP:// ) 20160428+++++++++++++++++++++++        
 # LINK:  Rendered as regular input field (like STRING) but creates a link. Row format:
