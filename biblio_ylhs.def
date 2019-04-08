@@ -1,7 +1,7 @@
 Levels,STRING,14
 Week Suggestion,TEXT,10:3
 Entry,TEXT,60:3
-Comments,TEXT,40:3
+Comments,TEXT,30:3
 dim15-A,LOGICAL,1,Y:N
 dim15-B,LOGICAL,1,Y:N
 dim15-Γ,LOGICAL,1,Y:N
@@ -18,3 +18,4 @@ dim10-E1,LOGICAL,1,Y:N
 dim10-E2,LOGICAL,1,Y:N
 dim10-ST1,LOGICAL,1,Y:N
 dim10-ST2,LOGICAL,1,Y:N
+LessonWorklog,TEXT,40:3
