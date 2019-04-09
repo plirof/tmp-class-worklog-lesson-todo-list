@@ -2,8 +2,8 @@
 ^A|_|20180913|_|colorgame(sheppardsoftware.com)_preschool.swf ,funbrain_com_SimonSees.swf  ,funbrain_com_PicklePop.swf|_||_|99|_|99|_|99
 suggest|_|20190204|_|http://ts.sch.gr/repo/online-packages/^glossa-a-b/start.html   ,  http://sivasxoleio.blogspot.com/2015/03/blog-post_67.html , http://mikrapaidia.gr/ccs3/ *** gia a,b taksi   ,   CUSTOM 2 check : http://www.blendedplay.com/#|_|ΕΚΠΑΙΔΕΥΤΙΚΑ παιχνίδια ts.sch.gr @@@|_|99|_|99|_|99
 |_||_||_||_|99|_|99|_|99
-^A^B|_|wk01 SepB|_|funbrain pt1 ironstart ""$SWFlocal"ab/funbrain_com/funbrain.html "  A:games 1-6|_|mouse-intro-1|_|1|_|99|_|99
-^A^B|_|wk04 SepC|_|funbrain pt2 ironstart ""$SWFlocal"ab/funbrain_com/funbrain.html "|_||_|4|_|99|_|99
+^A^B|_|wk01 SepB|_|funbrain pt1 ironstart ""$SWFlocal"ab/funbrain_com/funbrain.html "  A:games 1-6|_|mouse-intro-1|_|01|_|99|_|99
+^A^B|_|wk04 SepC|_|funbrain pt2 ironstart ""$SWFlocal"ab/funbrain_com/funbrain.html "|_||_|04|_|99|_|99
 ^A^B|_|wk24 JanD (20190122)|_|funbrain pt3 ironstart ""$SWFlocal"ab/funbrain_com/funbrain.html "|_|ΤΕΤΑΡΤΗ|_|24|_|99|_|99
 ^A^B^Γ|_|00|_|netsmart.html ironstart ""$SWFlocal"ab/netsmartkids/netsmart.html "|_|ΤΕΤARTH  MED|_|99|_|99|_|99
 |_||_||_||_|99|_|99|_|99
@@ -29,30 +29,30 @@ suggest|_|20190204|_|http://ts.sch.gr/repo/online-packages/^glossa-a-b/start.htm
 suggest|_|20181003|_|@@@@ http://educ.swf.dimotiko.tk/education_math_shapes_/math_WordSearch-computer. TO EDIT IMAGES Να Γίνει ελληνικά   , indiana jones|_|http://educ.swf.dimotiko.tk/education_math_shapes_/math_WordSearch-computer.swf|_|99|_|99|_|99
 ^Γ|_|20181008|_|g1,2 ,εσωτερικό PC Εσωτερικό υπολογιστή Ελληνικά Video 7min  https://www.youtube.com/watch?v=3U5AzACKaQU  , tuxpaint (πινέλα),|_|ΔΕΥΤΕΡΑ|_|99|_|99|_|99
 ######|_||_|######## Type ###########|_||_|99|_|99|_|99
-^A^B^Γ|_|wk03SepD|_|ironstartincognito ""$SWFlocal"pack_type_ramkid_greek.html"|_|typing0 (A,B δημοτικου) typing_bricks,ramkid_typing (4 different), ramkid typing disk2_0 Γράψε 5 φράσεις !!! ,castle-defence-extreme-spelling|_|3|_|3|_|99
-^A^B^Γ^Δ^E^ST|_|wk02 SepC|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=type/typing_bricks\(puzzle\)!!!.swf\&url2=type/assault-typing__shootemup__rapidtyping.com_NoAdUrl.swf\&url3=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url4=type/typing_alphattack2__bombDrop_NoNavUrl.swf\&url5=type/airtyper_1_noADsURL.swf\&url6=typing-1"|_|typing1|_|2|_|2|_|2
-^A^B^Γ^Δ^E^ST|_|wk03|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=type/airtyper_1_noADsURL.swf\&url2=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url3=type/typing_bricks\(puzzle\)!!!.swf\&url4=type/typing_tidepool\(sea_race\)_!!.swf\&url5=type/excuses-excuses__type_noADsURL.swf\&url6=typing-2"|_|typing2  - airtype, typing_adventure(indiana_jones).swf (Δ αρέσει)31sec record ,d1:typing_bricks , excuses|_|3|_|3|_|3
+^A^B^Γ|_|wk03SepD|_|ironstartincognito ""$SWFlocal"pack_type_ramkid_greek.html"|_|typing0 (A,B δημοτικου) typing_bricks,ramkid_typing (4 different), ramkid typing disk2_0 Γράψε 5 φράσεις !!! ,castle-defence-extreme-spelling|_|03|_|03|_|99
+^A^B^Γ^Δ^E^ST|_|wk02 SepC|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=type/typing_bricks\(puzzle\)!!!.swf\&url2=type/assault-typing__shootemup__rapidtyping.com_NoAdUrl.swf\&url3=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url4=type/typing_alphattack2__bombDrop_NoNavUrl.swf\&url5=type/airtyper_1_noADsURL.swf\&url6=typing-1"|_|typing1|_|02|_|02|_|02
+^A^B^Γ^Δ^E^ST|_|wk03|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=type/airtyper_1_noADsURL.swf\&url2=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url3=type/typing_bricks\(puzzle\)!!!.swf\&url4=type/typing_tidepool\(sea_race\)_!!.swf\&url5=type/excuses-excuses__type_noADsURL.swf\&url6=typing-2"|_|typing2  - airtype, typing_adventure(indiana_jones).swf (Δ αρέσει)31sec record ,d1:typing_bricks , excuses|_|03|_|03|_|03
 ######|_||_|######## PARKING ###########|_||_|99|_|99|_|99
-^Γ^Δ^E^ST|_|wk07 OctB|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/spongebob-parking_jon04noURLS_need760MBram_!!.swf\&url2=fun/puzzle_board/edsparkinggame.swf\&url3=type/typing_bricks\(puzzle\)!!!.swf\&url4=type/typing_alphattack2__bombDrop_NoNavUrl.swf\&url5=fun/puzzle_board/spark_chess_17521__allows_save_NoNavUrl.swf\&url6=park-1"|_|pack_park01|_|99|_|7|_|7
-^Γ^Δ^E^ST|_|wk06+ OctC 20181017|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/maze/labrat__maze-kids_needFastPC_unencr2noAdsURL_!!.swf\&url2=fun/spongebob-parking_jon04noURLS_need760MBram_!!.swf\&url3=fun/puzzle_board/edsparkinggame.swf\&url4=type/assault-typing__shootemup__rapidtyping.com_NoAdUrl.swf\&url5=fun/puzzle_board/spark_chess_17521__allows_save_NoNavUrl.swf\&url6=mix-maze-park"|_|mix-maze-park|_|99|_|6|_|6
+^Γ^Δ^E^ST|_|wk07 OctB|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/spongebob-parking_jon04noURLS_need760MBram_!!.swf\&url2=fun/puzzle_board/edsparkinggame.swf\&url3=type/typing_bricks\(puzzle\)!!!.swf\&url4=type/typing_alphattack2__bombDrop_NoNavUrl.swf\&url5=fun/puzzle_board/spark_chess_17521__allows_save_NoNavUrl.swf\&url6=park-1"|_|pack_park01|_|99|_|07|_|07
+^Γ^Δ^E^ST|_|wk06+ OctC 20181017|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/maze/labrat__maze-kids_needFastPC_unencr2noAdsURL_!!.swf\&url2=fun/spongebob-parking_jon04noURLS_need760MBram_!!.swf\&url3=fun/puzzle_board/edsparkinggame.swf\&url4=type/assault-typing__shootemup__rapidtyping.com_NoAdUrl.swf\&url5=fun/puzzle_board/spark_chess_17521__allows_save_NoNavUrl.swf\&url6=mix-maze-park"|_|mix-maze-park|_|99|_|06|_|06
 |_||_||_||_|99|_|99|_|99
 ######|_||_|######## gcompris 1 ,2 ###########|_||_|99|_|99|_|99
-^A^B|_|wk09 NovA 20181030|_|gcompris 15 :mouse _ψαρια - keyboard ζαρι (τα κουμπιά τους φανηκαν δυσκολα)|_|gcompris Α ΤΡΙΤΗ|_|9|_|99|_|99
+^A^B|_|wk09 NovA 20181030|_|gcompris 15 :mouse _ψαρια - keyboard ζαρι (τα κουμπιά τους φανηκαν δυσκολα)|_|gcompris Α ΤΡΙΤΗ|_|09|_|99|_|99
 ^A^B^Γ|_|wk34 20181031|_|gcompris  (2 πρωτες επιλογες δεξια)|_|gcompris Β|_|34|_|34|_|99
 ^A^B^Γ|_|20181119|_|gcompris panta me puzzle|_|gcompris C|_|99|_|99|_|99
 ######|_||_|######## eduactiv8 1,2 ###########|_||_|99|_|99|_|99
-^A^B|_|wk04 eduactivΑ|_|/opt/eduActiv8/eduActiv8 Γλωσσικές Τέχνες->Ανακαλύψτε τα γραμματα|_|eduactiv8 A|_|4|_|99|_|99
+^A^B|_|wk04 eduactivΑ|_|/opt/eduActiv8/eduActiv8 Γλωσσικές Τέχνες->Ανακαλύψτε τα γραμματα|_|eduactiv8 A|_|04|_|99|_|99
 ^A^B|_|wk11 eduactivΒ|_|/opt/eduActiv8/eduActiv8 Σχηματισμός Λέξεων-> ζώα , δουλείες ,ρούχα)|_|eduactiv8 B (παιδιά της πρώτης βαρέθηκαν μόνο αυτό το είδος παιχνιδιο (να βάλω και άλλο))|_|11|_|99|_|99
 ^A^B^Γ|_|eduactivC|_|/opt/eduActiv8/eduActiv8 παιχνιδια_| eduactiv8 C|_||_|99|_|99|_|99
 |_||_||_||_|99|_|99|_|99
 ######|_||_|######## Maze ###########|_||_|99|_|99|_|99
-^A^B^Γ^Δ^E^ST|_|wk05 OctB -20181010|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/maze/Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf\&url2=fun/maze/the-maze-game\(robot\)__no_jp_utl.swf\&url3=ab/ladybugs_TRODLER_noADsURL@.swf\&url4=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url5=fun/td/BloonsTowerDefense2_ok4slow_p4_NoNavUrl.swf\&url6=maze-1"|_|maze 1 (diego Δ+ to teleiwsan sta 15me20lepta))|_|5|_|5|_|5
-^A^B^Γ^Δ^E^ST|_|wk06 OctC-20181015|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/maze/labrat__maze-kids_needFastPC_unencr2noAdsURL_!!.swf\&url2=fun/maze/minotaur_122_maze__unencr3_noAdsUrl_!.swf\&url3=fun/maze/Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf\&url4=ab/ladybugs_TRODLER_noADsURL@.swf\&url5=fun/physics/soccer-balls__physics__noADurl.swf\&url6=maze-2"|_|maze2 ,soccer-balls(projectile).swf (Toys Arese ST)|_|6|_|6|_|6
+^A^B^Γ^Δ^E^ST|_|wk05 OctB -20181010|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/maze/Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf\&url2=fun/maze/the-maze-game\(robot\)__no_jp_utl.swf\&url3=ab/ladybugs_TRODLER_noADsURL@.swf\&url4=type/typing_adventure__indiana_jones_NoNavUrl.swf\&url5=fun/td/BloonsTowerDefense2_ok4slow_p4_NoNavUrl.swf\&url6=maze-1"|_|maze 1 (diego Δ+ to teleiwsan sta 15me20lepta))|_|05|_|05|_|05
+^A^B^Γ^Δ^E^ST|_|wk06 OctC-20181015|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/maze/labrat__maze-kids_needFastPC_unencr2noAdsURL_!!.swf\&url2=fun/maze/minotaur_122_maze__unencr3_noAdsUrl_!.swf\&url3=fun/maze/Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf\&url4=ab/ladybugs_TRODLER_noADsURL@.swf\&url5=fun/physics/soccer-balls__physics__noADurl.swf\&url6=maze-2"|_|maze2 ,soccer-balls(projectile).swf (Toys Arese ST)|_|06|_|06|_|06
 ^A^B^Γ^Δ^E^ST|_|maze3fun|_|ironstartincognito ""$SWFlocal"pack_url_param.html?url1=fun/maze/mazegame-lola_kids_A-ST__NoNavUrl_!!.swf\&url2=fun/maze/Kaban_agriogourouno_maze_ok_more_time!!.swf\&url3=fun/maze/ghostcastle_maze_girl__jon_SHOW_ALL!!.swf\&url4=fun/maze/open-doors_maze__dimD-ST_NoNavUrl_!!.swf\&url5=fun/maze/sonic-vs-dogs_maze_ok_noADurl.swf\&url6=maze-3"|_|maze3 fun|_|99|_|99|_|99
 |_||_||_||_|99|_|99|_|99
 ######|_||_|######## Tuxpaint ###########|_||_|99|_|99|_|99
-^A^B^Γ^Δ^E^ST|_|wk07|_|tuxpaint πινέλα  (ζωγραφίστε σπίτι + αμάξι ,πινέλα ,σφραγίδες) ,typing_bricks(puzzle)!!!.swf|_|tuxpaint 1 (ή ισως pack_paint1)|_|7|_|7|_|7
-^Γ^Δ^E^ST|_|wk07 20181001-09|_|tuxpaint, σχήματα με τετράγωνα + τρίγωνα (σπιτάκια)|_|tuxpaint 2|_|99|_|7|_|7
+^A^B^Γ^Δ^E^ST|_|wk07|_|tuxpaint πινέλα  (ζωγραφίστε σπίτι + αμάξι ,πινέλα ,σφραγίδες) ,typing_bricks(puzzle)!!!.swf|_|tuxpaint 1 (ή ισως pack_paint1)|_|07|_|07|_|07
+^Γ^Δ^E^ST|_|wk07 20181001-09|_|tuxpaint, σχήματα με τετράγωνα + τρίγωνα (σπιτάκια)|_|tuxpaint 2|_|99|_|07|_|07
 ^A^B|_|20181016|_|A2,1: tuxpaint πινέλα, σφραγίδες (A2 φάνηκε να βαριέται)|_|tuxpaint 3|_|99|_|99|_|99
 |_||_||_||_|99|_|99|_|99
 ######|_||_|######## Animation Graphics ###########|_||_|99|_|99|_|99
@@ -64,18 +64,18 @@ suggest|_|20181003|_|@@@@ http://educ.swf.dimotiko.tk/education_math_shapes_/mat
 ^A^B^Γ^Δ^E^ST|_|pack_paint2|_|ironstartincognito ""$SWFlocal"pack_paint2.html?timer3\&probeserver"    __,__   ironstartincognito ""$SWFlocal"pack_url_param.html?url1=graphics_/kaleidoscope_radar__dtoy_vs_byokal_greek_!!.swf\&url2=graphics_/scribbletown_paint__simple.swf\&url3=graphics_/total_graffiti_front__simple_NoNav.swf\&url4=graphics_/sumopaint1025_GREEK_NoNavUrl1_v4b_progray.swf\&url5=graphics_/paint_super_wings_drawing_artist_greek_NoNavUrl.swf\&url6=pack_paint2.html"|_|pack_paint2.html Απλή ζωγραφική ισως αντί tuxpaint kaleidoscope radar|_|99|_|99|_|99
 |_||_||_||_|99|_|99|_|99
 ######|_||_|######## Tuxmath ###########|_||_|99|_|99|_|99
-^A^B|_|wk07 OctC|_|tuxmath (patame arithmous ως πραξεις 0-5 ή 0-3) , Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf ,soccer-balls(projectile).swf|_|Tuxmath 1A-B (Α παιξαν 25 λεπτα περιπου)|_|7|_|99|_|99
-^Γ|_|OctC wk07|_|tuxmath(training αρχή-ως substraction up to 20) , labrat,soccer-balls(projectile).swf|_|Tuxmath 1Γ|_|99|_|7|_|99
-^Δ^E^ST|_|wk07 OctC|_|Tuxmath (arxisa apo DoubleDigit Addition ως οσο παει), labrat,assault typing,soccer-balls(projectile).swf|_|Tuxmath 1Δ-E-ST|_|99|_|99|_|7
+^A^B|_|wk07 OctC|_|tuxmath (patame arithmous ως πραξεις 0-5 ή 0-3) , Diego_Dinosaur_Rescue_maze_KIDS_simple_NotTImed_!!!.swf ,soccer-balls(projectile).swf|_|Tuxmath 1A-B (Α παιξαν 25 λεπτα περιπου)|_|07|_|99|_|99
+^Γ|_|OctC wk07|_|tuxmath(training αρχή-ως substraction up to 20) , labrat,soccer-balls(projectile).swf|_|Tuxmath 1Γ|_|99|_|07|_|99
+^Δ^E^ST|_|wk07 OctC|_|Tuxmath (arxisa apo DoubleDigit Addition ως οσο παει), labrat,assault typing,soccer-balls(projectile).swf|_|Tuxmath 1Δ-E-ST|_|99|_|99|_|07
 |_||_||_||_|99|_|99|_|99
 ######|_||_|######## HourOfCode 6-9 μαθήματα ###########|_||_|99|_|99|_|99
 ^ST1|_|wk34 25+|_|ΠΟΛΛΑ ΜΑΖΙ (τελος χρονιάς)ΣΤ1  https://studio.code.org/hoc/1 (angry birds - τους αρεσε) , (ΣΤ2 -ΠΑΡΑΣΚΕΥΗ ΔΕΝ ΕΓΙΝΕ ΜΑΘΗΜΑ)|_|ΠΕΜΠΤΗ,|_|99|_|99|_|34
 suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https://studio.code.org/hoc/1 (θελει firefox ESR +)|_|ΠΕΜΠΤΗ,|_|99|_|99|_|99
 |_||_||_||_|99|_|99|_|99
-^A^B^Γ^Δ^E^ST|_|wk08 OctD|_|https://studio.code.org/s/course1 ,ironstart "https://studio.code.org/s/course1/stage/3/puzzle/1 "$SWFlocal"pack_A01.html"|_|(1. Χαρούμενοι Χάρτες , 2. Κούνισέ το, Κούνισέ το , 3. Παζλ: Μάθε την μεταφορά και )|_|8|_|8|_|8
-^Γ^Δ^E^ST|_|wk08 NovA 20181031-1106|_|ironstart "https://studio.code.org/s/course1/stage/4/puzzle/1 "$SWFlocal"pack_A01.html"|_|4. Λαβύρινθος angry-birds: Ακολουθία|_|99|_|8|_|8
-^Γ^Δ^E^ST|_|wk09 NovA 20181031-1113|_|ironstart "https://studio.code.org/s/course1/stage/5/puzzle/1 "$SWFlocal"pack_A02.html"|_|5. Λαβύρινθο angry-birds: εντοπισμός σφαλμ|_|99|_|9|_|9
-^Γ^Δ^E^ST|_|wk09 Nov 20181102-1105|_|ironstart "https://studio.code.org/s/course1/stage/7/puzzle/1 "$SWFlocal"pack_A03.html"    , airtyper|_|(7. melisses)|_|99|_|9|_|9
+^A^B^Γ^Δ^E^ST|_|wk08 OctD|_|https://studio.code.org/s/course1 ,ironstart "https://studio.code.org/s/course1/stage/3/puzzle/1 "$SWFlocal"pack_A01.html"|_|(1. Χαρούμενοι Χάρτες , 2. Κούνισέ το, Κούνισέ το , 3. Παζλ: Μάθε την μεταφορά και )|_|08|_|08|_|08
+^Γ^Δ^E^ST|_|wk08 NovA 20181031-1106|_|ironstart "https://studio.code.org/s/course1/stage/4/puzzle/1 "$SWFlocal"pack_A01.html"|_|4. Λαβύρινθος angry-birds: Ακολουθία|_|99|_|08|_|08
+^Γ^Δ^E^ST|_|wk09 NovA 20181031-1113|_|ironstart "https://studio.code.org/s/course1/stage/5/puzzle/1 "$SWFlocal"pack_A02.html"|_|5. Λαβύρινθο angry-birds: εντοπισμός σφαλμ|_|99|_|09|_|09
+^Γ^Δ^E^ST|_|wk09 Nov 20181102-1105|_|ironstart "https://studio.code.org/s/course1/stage/7/puzzle/1 "$SWFlocal"pack_A03.html"    , airtyper|_|(7. melisses)|_|99|_|09|_|09
 ^Γ^Δ^E^ST|_|wk10 NovB 20181102-1113|_|ironstart "https://studio.code.org/s/course1/stage/8/puzzle/1 "$SWFlocal"pack_A01.html"|_|(8. Καλλιτέχνης : Ακολουθία)|_|99|_|10|_|10
 ^Γ^Δ^E^ST|_|wk10 20181102-1112|_|ironstart "https://studio.code.org/s/course1/stage/10/puzzle/1 "$SWFlocal"pack_A02.html"|_|(10.Καλλιτέχνης: Σχήματα)|_|99|_|10|_|10
 ^Γ^Δ^E^ST|_|wk11 NovC 20181110-1130|_|ironstart "https://studio.code.org/s/course1/stage/12/puzzle/2 "$SWFlocal"pack_A03.html"|_|(12. Επαναλαμβανόμαστε,13. Λαβύρινθος angry-birds: Επαναλήψεις)  (stage11 αγγλικά μόνο)|_|99|_|11|_|11
@@ -84,7 +84,7 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 |_||_||_||_|99|_|99|_|99
 ######|_||_|######## Word 1-5 ###########|_||_|99|_|99|_|99
 ^A^B^Γ^Δ^E^ST|_|word-resume|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/ALL_biografiko_mathiti.doc"|_|word Βιογραφικό μαθητή|_|99|_|99|_|99
-^Γ^Δ^E^ST|_|wk04 JanC 20190115-20|_|word01 $OOOKIDS$OOOKIDSpathprefix"AskiseisWord/Για Πληκτρολόγηση.doc" ,(frogger3d.swf)|_|(2-2 σειρές καθένας,shift,enter,backspace caps lock) Να γίνει Oct|_|99|_|4|_|4
+^Γ^Δ^E^ST|_|wk04 JanC 20190115-20|_|word01 $OOOKIDS$OOOKIDSpathprefix"AskiseisWord/Για Πληκτρολόγηση.doc" ,(frogger3d.swf)|_|(2-2 σειρές καθένας,shift,enter,backspace caps lock) Να γίνει Oct|_|99|_|04|_|04
 ^Γ^Δ^E^ST|_|wk22 JanD 20190121-0201|_|word02  $OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/pliktrologisi_j02.1_antigrafi_katanomi_wron.doc"|_|(2-2 σειρές καθένας ,shift,enter,backspace caps lock)|_|99|_|22|_|22
 ^Γ^Δ^E^ST|_|JanD 20190130-0131|_|word03a $OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/pliktrologisi_j02.2_antigrafi_didaktiko_yliko.doc"|_|word coloring text (small keimeno)|_|99|_|99|_|99
 ^Γ^Δ^E^ST|_|wk24 word|_|word03b $OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/pliktrologisi_j05.1_easy_syntagi_biskota-stafides.doc"|_|word γράψτε την συνταγή στην σωστή σειρά (μικρό κείμενο)|_|99|_|24|_|24
