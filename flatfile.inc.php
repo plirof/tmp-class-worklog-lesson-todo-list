@@ -1,9 +1,10 @@
 <?php
 date_default_timezone_set('Europe/Athens'); //added to avoid PHP warning for date 160920
 #####################################################################################
-# Flat File Database Manager 1.2jmod10-190408_$show_logical_header shows text in checkboxes (alt to freeze 1st row)
+# Flat File Database Manager 1.2jmod10-190409a_LISTWEEKSSCH (buggy -not use yet)
 #
 # changes
+# 1.2jmod10-190409a_LISTWEEKSSCH (buggy -not use yet)
 # 1.2jmod10-190408_$show_logical_header shows text in checkboxes (alt to freeze 1st row)
 # 1.2jmod09-190320_sortablejs_sprintf
 # 1.2jmod08-190319_shows_selected_&_class_name on list text
@@ -37,7 +38,9 @@ date_default_timezone_set('Europe/Athens'); //added to avoid PHP warning for dat
 # DATE:  Rendered as regular input field. Row format:    Added by jon
 #          title,STRING,length
 # LISTQUARTER:    Rendered as list box or combo box with monthQuarters (not much usefull atm). Row format:
-#          title,LIST,number of rows visible at a time added by Jon 190312      
+#          title,LIST,number of rows visible at a time added by Jon 190312
+# LISTWEEKSSCH:    Rendered as list box or combo box. Row format:
+#          title,LIST,rows visible,colon ":" sep. values  (parama are ignored select options are auto filled $first_week_sept10=37, $last_week_of_year=53 )      
 # Sample data definition file contents:
 # City,LIST,3,City1:City2:City3:City4:City5
 # State,LIST,1,NY:CA:LA
@@ -46,6 +49,7 @@ date_default_timezone_set('Europe/Athens'); //added to avoid PHP warning for dat
 # Comments,TEXT,30:2
 # title,LOGICAL,1,YES:NO
 # website,LINK,30
+# week_school_list,LISTWEEKSSCH,1,5:0:1:2
 # --> $structure_file
 ######################################################################################
 # Fields delimiter
@@ -275,7 +279,41 @@ foreach($data as $datakey => $line) {
         	echo '<option value="'.$value.'" '.($value == $item ? 'selected' : '').'>'.$value.'</option>';
         }
         echo '</select>';
-        break;        
+        break;
+# LISTWEEKSSCH:    Rendered as list box or combo box with monthQuarters (not much usefull atm). Row format:
+#          title,LIST,number of rows visible at a time,colon ":" separated allowed values  (VALUES are Ignored in LISTWEEKSSCH)  
+      case 'LISTWEEKSSCH':
+      
+        if(empty($first_week_sept10)) $first_week_sept10=37; //year 2019  week_num of sept 10
+        if(empty($last_week_of_year)) $last_week_of_year=53; //year 2019  last week of year
+
+        $week_year2week_sch=array();
+        $week_sch2week_year=array();
+
+        $week_year2week_sch["99"]="99"; //means unsorted
+        $week_sch2week_year["99"]="99"; //means unsorted
+
+        $counter=$first_week_sept10;
+        for($i=0;$i<38;$i++)
+        {
+          //echo '["'.sprintf("%02d", $counter).'"]=>"'.sprintf("%02d", $i).'", ';
+          $week_year2week_sch[sprintf("%02d", $counter)]=sprintf("%02d", $i);
+          $week_sch2week_year[sprintf("%02d", $i)]=sprintf("%02d", $counter);
+          $counter++;
+          if($counter>$last_week_of_year) $counter=01;
+        }
+        
+        $week_year2week_sch["77"]="77"; //means to check
+        $week_sch2week_year["77"]="77"; //means to check
+
+        echo '<select onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" '.$class_name.' size="'.$structure[$key]['format'].'">';
+        foreach($week_year2week_sch as $value) {
+          //echo '<option value="'.$value.'" '.($value == $item ? 'selected' : '').'>'.$value.'</option>';
+          echo '<option value="'.$value.'" '.($value == $item ? 'selected' : '').'>'.$value ."(".$week_year2week_sch[$value].")".'</option>';
+        }
+        echo '</select>';
+        //echo "hello";
+        break;                 
     }
     echo '</td>';
   }  // end of   foreach ($items as $key => $item) {
