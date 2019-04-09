@@ -1,10 +1,10 @@
 <?php
 date_default_timezone_set('Europe/Athens'); //added to avoid PHP warning for date 160920
 #####################################################################################
-# Flat File Database Manager 1.2jmod10-190409c_LISTWEEKSSCH 
+# Flat File Database Manager 1.2jmod10-190409d_LISTWEEKSSCH 
 #
 # changes
-# 1.2jmod10-190409c_LISTWEEKSSCH
+# 1.2jmod10-190409d_LISTWEEKSSCH
 # 1.2jmod10-190408_$show_logical_header shows text in checkboxes (alt to freeze 1st row)
 # 1.2jmod09-190320_sortablejs_sprintf
 # 1.2jmod08-190319_shows_selected_&_class_name on list text
@@ -310,7 +310,7 @@ foreach($data as $datakey => $line) {
         echo '<select onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" '.$class_name.' size="'.$structure[$key]['format'].'">';
         foreach($week_sch2week_year as $key=>$value) {
           //echo '<option value="'.$value.'" '.($value == $item ? 'selected' : '').'>'.$value.'</option>';
-          echo '<option value="'.$value.'" '.($value == $item ? 'selected' : '').'>'.$key ."(".$week_sch2week_year[$key].")".'</option>';
+          echo '<option value="'.$value.'" '.($key == $item ? 'selected' : '').'>'.$key ."(".$week_sch2week_year[$key].")".'</option>';
         }
         echo '</select>';
         //echo "hello";
