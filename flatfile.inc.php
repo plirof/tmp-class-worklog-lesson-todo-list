@@ -1,10 +1,10 @@
 <?php
 date_default_timezone_set('Europe/Athens'); //added to avoid PHP warning for date 160920
 #####################################################################################
-# Flat File Database Manager 1.2jmod10-190409b_LISTWEEKSSCH 
+# Flat File Database Manager 1.2jmod10-190409c_LISTWEEKSSCH 
 #
 # changes
-# 1.2jmod10-190409b_LISTWEEKSSCH
+# 1.2jmod10-190409c_LISTWEEKSSCH
 # 1.2jmod10-190408_$show_logical_header shows text in checkboxes (alt to freeze 1st row)
 # 1.2jmod09-190320_sortablejs_sprintf
 # 1.2jmod08-190319_shows_selected_&_class_name on list text
@@ -271,6 +271,7 @@ foreach($data as $datakey => $line) {
 # LISTQUARTER:    Rendered as list box or combo box with monthQuarters (not much usefull atm). Row format:
 #          title,LIST,number of rows visible at a time,colon ":" separated allowed values   
       case 'LISTQUARTER':
+        if($show_internal_element_text_outside)echo '<b>'.sprintf("%02d", $item).'</b><BR>';
       	$month_weeks=array("---");
       	array_push($month_weeks,"SepA","SepB","SepC","SepD","OctA","OctB","OctC","OctD","NovA","NovB","NovC","NovD","DecA","DecB","DecC","DecD","JanB","JanC","JanD","FebA","FebB","FebC","FebD","MarA","MarB","MarC","MarD","AprA","AprB","AprC","AprD","MayA","MayB","MayC","MayD","JunA","JunB","JunC","JunD");
         echo '<select onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" '.$class_name.' size="'.$structure[$key]['format'].'">';
@@ -283,7 +284,7 @@ foreach($data as $datakey => $line) {
 # LISTWEEKSSCH:    Rendered as list box or combo box with monthQuarters (not much usefull atm). Row format:
 #          title,LIST,number of rows visible at a time,colon ":" separated allowed values  (VALUES are Ignored in LISTWEEKSSCH)  
       case 'LISTWEEKSSCH':
-      
+        if($show_internal_element_text_outside)echo '<b>'.sprintf("%02d", $item).'</b><BR>';
         if(empty($first_week_sept10)) $first_week_sept10=37; //year 2019  week_num of sept 10
         if(empty($last_week_of_year)) $last_week_of_year=53; //year 2019  last week of year
 
