@@ -1,5 +1,5 @@
 Levels,STRING,14
-Week Suggest,TEXT,10:2
+Week<BR>Suggest,TEXT,10:2
 Entry,TEXT,60:3
 Description,TEXT,30:3
 ExtraNotes,TEXT,30:3

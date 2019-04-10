@@ -1,5 +1,5 @@
 Levels,STRING,14
-WeekSuggest,TEXT,10:2
+Week<BR>Suggest,TEXT,10:2
 Entry,TEXT,60:2
 Comments,TEXT,30:2
 dim-AB,LISTWEEKSSCH,1,0:99
