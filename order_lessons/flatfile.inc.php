@@ -1,9 +1,10 @@
 <?php
 date_default_timezone_set('Europe/Athens'); //added to avoid PHP warning for date 160920
 #####################################################################################
-# Flat File Database Manager 1.2jmod10-190409e_LISTWEEKSSCH 
+# Flat File Database Manager 1.2jmod10-190410_sorting fix TEXTAREA show outside element if column name =Week (HARDCODED)
 #
 # changes
+# 1.2jmod10-190410_sorting fix TEXTAREA show outside element if column name =Week (HARDCODED)
 # 1.2jmod10-190409e_LISTWEEKSSCH
 # 1.2jmod10-190408_$show_logical_header shows text in checkboxes (alt to freeze 1st row)
 # 1.2jmod09-190320_sortablejs_sprintf
@@ -232,6 +233,7 @@ foreach($data as $datakey => $line) {
 #          title,TEXT,columns,rows
 
       case 'TEXT':
+        if($show_internal_element_text_outside && (strpos($structure[$key]['name'], 'Week') !== false)  )echo ''.substr($item, 0, 8).'<BR>'; //HARDCODED Show ONLY if column name contains 'Week Suggest' in name
         $rc = explode(':',$structure[$key]['format']);
         $cols = trim($rc[0]);
         $rows = trim($rc[1]);
