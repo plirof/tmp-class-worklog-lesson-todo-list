@@ -106,18 +106,18 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 ^Γ^Δ^E^ST|_|excel2|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/excel_1.2_pinakas_sports.xls"|_|excel2|_|99|_|99|_|99
 |_||_||_||_|99|_|99|_|99
 ######|_||_|######## giortes xmas###########|_||_|99|_|99|_|99
-^A^B^Γ^Δ^E^ST|_|wk14 DecA 20181217|_|Xristougenniatikes drasthriothtes (oles oi takseis) , christmas hidden objects , ζωγραφιστε χριστουγ κάρτες ramkid ironstartincognito ""$SWFlocal"ramkidpedia_vol04_xmas1.html "$SWFlocal"ramkid_giortes_xmas_pt1.html"|_|giortes xmas Α !!!!! NA ΦΤΙΑΞΩ το ramkid_giortes_xmas_pt1.html|_|14|_|14|_|14
-^A^B^Γ^Δ^E^ST|_|wk15 ,wk16 DecB,DecC 20181214|_|ironstartincognito ""$SWFgiortes"index_xmas.html"|_|giortes xmas Β : 2-3 μαθήματα (μετά τέλος ασκήσεων)|_|15|_|15|_|15
-^A^B^Γ^Δ^E^ST|_|wk19 JanB 20190108|_|15o tuxpaint : βασιλόπιτα, χριστουγ εικόνα  ^A, ^Δ1,^Δ2,  ^Ε1,^Ε2,^B1,^B2|_|giortes xmas C|_|19|_|19|_|19
+^A^B^Γ^Δ^E^ST|_|wk14 DecA 20181217|_|Xristougenniatikes drasthriothtes (oles oi takseis) , christmas hidden objects , ζωγραφιστε χριστουγ κάρτες ramkid ironstartincognito ""$SWFlocal"ramkidpedia_vol04_xmas1.html "$SWFlocal"ramkid_giortes_xmas_pt1.html"|_|giortes xmas Α !!!!! NA ΦΤΙΑΞΩ το ramkid_giortes_xmas_pt1.html|_|13|_|13|_|13
+^A^B^Γ^Δ^E^ST|_|wk15 ,wk16 DecB,DecC 20181214|_|ironstartincognito ""$SWFgiortes"index_xmas.html"|_|giortes xmas Β : 2-3 μαθήματα (μετά τέλος ασκήσεων)|_|14|_|14|_|14
+^A^B^Γ^Δ^E^ST|_|wk19 JanB 20190108|_|15o tuxpaint : βασιλόπιτα, χριστουγ εικόνα  ^A, ^Δ1,^Δ2,  ^Ε1,^Ε2,^B1,^B2|_|giortes xmas C|_|17|_|17|_|17
 |_||_||_||_|99|_|99|_|99
 ######|_||_|######## giortes halloween ###########|_||_|99|_|99|_|99
-^A^B^Γ^Δ^E^ST|_|wk25 FebC|_|ironstartincognito ""$SWFgiortes"other/ramkid_invitation_party/index.html "$SWFpath"ramkid_giortes_apokries_pt1.html"|_|apokries part 1 ramkid,prosklisi  (KIDS epedia απόκριες κολλάει συνέχεια το flash Volume13/index_kd_vol.html)|_|25|_|25|_|25
-^A^B^Γ^Δ^E^ST|_|wk26,wk27 FebD (meta apokries)|_|ironstartincognito ""$SWFgiortes"index_halloween.html"|_|apokries part 2, games two weeks 20190225-20190308|_|26|_|26|_|26
+^A^B^Γ^Δ^E^ST|_|wk25 FebC|_|ironstartincognito ""$SWFgiortes"other/ramkid_invitation_party/index.html "$SWFpath"ramkid_giortes_apokries_pt1.html"|_|apokries part 1 ramkid,prosklisi  (KIDS epedia απόκριες κολλάει συνέχεια το flash Volume13/index_kd_vol.html)|_|24|_|24|_|24
+^A^B^Γ^Δ^E^ST|_|wk26,wk27 FebD (meta apokries)|_|ironstartincognito ""$SWFgiortes"index_halloween.html"|_|apokries part 2, games two weeks 20190225-20190308|_|25|_|25|_|25
 |_||_||_||_|99|_|99|_|99
 |_||_||_||_|99|_|99|_|99
 ######|_||_|######## giortes easter ###########|_||_|99|_|99|_|99
-^A^B^Γ^Δ^E^ST|_|wk32 ,ykw15 easterA|_|ironstartincognito "http://192.168.1.200/ramkid/KidsPedia/kids_ePedia32cd/Volume20/index_kd_vol.html "$SWFlocal"ramkid_giortes_pasxa_pt1.html"     ___OR(ifCrashes)____ironstartincognito ""$SWFlocal"ramkidpedia_vol20_pasxa1.html "$SWFlocal"ramkid_giortes_pasxa_pt1.html"  @@@@@@|_|pasxa part Α (kids_ePedia32cd Volume20 DIRECT,Ramkid_15may_pasxa_flags) (Γ: τους άρεσε, κάποιοι βαρέθηκαν στα 20λεπτα)|_|32|_|32|_|32
-^A^B^Γ^Δ^E^ST|_|wk33 ykw16,ykw19 easterB,C|_|ironstartincognito ""$SWFgiortes"index_easter.html"|_|pasxa part B ,2-3 μαθήματα|_|33|_|33|_|33
+^A^B^Γ^Δ^E^ST|_|wk32 ,ykw15 easterA|_|ironstartincognito "http://192.168.1.200/ramkid/KidsPedia/kids_ePedia32cd/Volume20/index_kd_vol.html "$SWFlocal"ramkid_giortes_pasxa_pt1.html"     ___OR(ifCrashes)____ironstartincognito ""$SWFlocal"ramkidpedia_vol20_pasxa1.html "$SWFlocal"ramkid_giortes_pasxa_pt1.html"  @@@@@@|_|pasxa part Α (kids_ePedia32cd Volume20 DIRECT,Ramkid_15may_pasxa_flags) (Γ: τους άρεσε, κάποιοι βαρέθηκαν στα 20λεπτα)|_|30|_|30|_|30
+^A^B^Γ^Δ^E^ST|_|wk33 ykw16,ykw19 easterB,C|_|ironstartincognito ""$SWFgiortes"index_easter.html"|_|pasxa part B ,2-3 μαθήματα|_|31|_|31|_|31
 |_||_||_||_|99|_|99|_|99
 |_||_||_||_|99|_|99|_|99
 ######|_||_|######## special days (recycle etc) ###########|_||_|99|_|99|_|99
@@ -150,6 +150,30 @@ suggest|_|20190204|_|TA BINTEO) : http://www.saferinternet.gr/index.php?parentob
 ^Γ|_|20181014|_|G1,2 addition-croc_(BiggerNumbers)_(math4childrenplus).swf ,labrat|_|ΔΕΥΤΕΡΑ|_|99|_|99|_|99
 suggest|_|20181015|_|http://androul.mysch.gr/course/index.php?categoryid=1|_||_|99|_|99|_|99
 |_|20181016|_|smurfai_856.swf  , http://users.sch.gr/salnk/didaskalia/microworldspro/mwprotut3.htm|_|http://users.sch.gr/salnk/didaskalia/microworldspro/mwprotut3.htm|_|99|_|99|_|99
+######|_||_|######## Kidspedia Ramkid  ###########|_|99|_|99|_|99|_|00
+^A^B^Γ|_|wk ,ykw Kidspedia A|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume21/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 21- Ασκήσεις με αριθμούς|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia B|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume22/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 22- Ασκήσεις με γράμματα,|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia B|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume11/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 11- Ο υπολογιστής μου|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia C|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume7/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 07- Ζώα της ζούγκλας,|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia C|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume8/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 08- Ζώα του χωριού|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia C|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume9/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 09- Ζώα της θάλασσας|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia C|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume10/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 10- Ζώα του δάσους|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia D|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume2/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 02- Ιστορία|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia E|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume5/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 05- Μεγάλες εφευρέσεις|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia E|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume1/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 01-Πλανήτης γη|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume3/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 03- Ιππότες, μάγοι, πειρατές|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume4/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 04- Χριστούγεννα|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume6/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 06- Σπορ και χόμπι,|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume15/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 15- Μυθολογία|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume23/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 23- Αρχαίοι πολιτισμοί,|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia G|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume25/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 25- Ζωγράφοι και ζωγραφική, (Δυσκολο -ισως)|_|99|_|99|_|99
+^E^ST|_|wk ,ykw Kidspedia ST|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume26/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 26- Πολίτευμα και κράτος,|_|99|_|99|_|99
+^E^ST|_|wk ,ykw Kidspedia ST|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume27/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 27- Ταξίδια στην Ελλάδα,|_|99|_|99|_|99
+^E^ST|_|wk ,ykw Kidspedia ST|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume28/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 28- Ταξίδια στην Ευρώπη,|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia G|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume29/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 29- Διακοπές στο βουνό,|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia G|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume30/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 30- Διακοπές στη θάλασσα|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia G|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume12/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 12- Φύση και διατροφή|_|99|_|99|_|99
+^A^B^Γ|_|wk ,ykw Kidspedia G|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume14/index_kd_vol.html "$SWFlocal"pack_A06.html"|_|Kidspedia Ramkid 14- Διάστημα|_|99|_|99|_|99
 |_||_||_||_|99|_|99|_|99
 suggest|_|20190205|_|wget -T 30 https://mirror.aarnet.edu.au/pub/centos/7/isos/x86_64/md5sum.txt|_|wget timeout  @@@|_|99|_|99|_|99
 suggest|_|20190123|_|ln -s /opt/lampp/htdocs/ramkid_selection_swf/ ./   ,  http://educ.swf.dimotiko.tk/4class_sfs/   ,|_||_|99|_|99|_|99
