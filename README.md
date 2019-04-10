@@ -12,7 +12,20 @@ Bugs:
 Bug: Τα κενά στο αρχείο δημιουργούν προβλήματα. Να αφαιρούνται... (FIXED in v1.2jmod006_190305)
 
 
+## Paths from john_start script
+```javascript
+CODEorg=https://studio.code.org/s/course1/stage/
+LANDINGpages="http://192.168.1.200/uploads/landing_pages/"
+SWFlocal="http://192.168.1.200/swf/"
+SWFpath="http://192.168.1.200/swf/"
+SWFgiortes="http://192.168.1.200/swf/swf_giortes/"
+GAMESEDU="http://192.168.1.200/gamesedu/"
 
+OOOKIDS="ooo4kids1.3 -n "
+OOOKIDSpathprefix="/opt/lampp/htdocs/askiseis_office/"
+RAMKIDpathprefix="http://192.168.1.200/ramkid/"
+
+```
 
 ## Sublime editor add in start of line 
 Insert text every beginning of line
