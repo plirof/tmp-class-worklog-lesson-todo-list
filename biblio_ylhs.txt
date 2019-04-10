@@ -194,22 +194,21 @@ suggest|_|20190204|_|TA BINTEO) : http://www.saferinternet.gr/index.php?parentob
 ^Δ|_|20181030|_|d2,1:  soccer-balls(projectile).swf , ligo BloonsTowerDefense2.swf|_|ΤΡΙΤΗ
 ^B|_|20181114|_|B1,Δ2απασχοληση : sheep_card_game_v07.swf,paixnidia super-mario-racing-2_noADs.swf  , B2:xathike mathima|_|ΤΕΤΑΡΤΗ  B1,Δ2απασχοληση
 
+
 ######|_||_|######## Kidapedia Ramkid  ###########
 ^A^B^Γ|_|wk ,ykw Kidapedia A|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume21/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 21- Ασκήσεις με αριθμούς
 ^A^B^Γ|_|wk ,ykw Kidapedia B|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume22/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 22- Ασκήσεις με γράμματα,
-^A^B^Γ|_|wk ,ykw Kidapedia|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume11/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 11- Ο υπολογιστής μου
-^A^B^Γ|_|wk ,ykw Kidapedia E|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume1/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 01-Πλανήτης γη
-^A^B^Γ|_|wk ,ykw Kidapedia D|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume2/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 02- Ιστορία
-^A^B^Γ|_|wk ,ykw Kidapedia|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume3/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 03- Ιππότες, μάγοι, πειρατές
-^A^B^Γ|_|wk ,ykw Kidapedia|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume4/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 04- Χριστούγεννα
-^A^B^Γ|_|wk ,ykw Kidapedia E|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume5/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 05- Μεγάλες εφευρέσεις
-^A^B^Γ|_|wk ,ykw Kidapedia|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume6/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 06- Σπορ και χόμπι,
+^A^B^Γ|_|wk ,ykw Kidapedia B|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume11/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 11- Ο υπολογιστής μου
 ^A^B^Γ|_|wk ,ykw Kidapedia C|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume7/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 07- Ζώα της ζούγκλας, 
 ^A^B^Γ|_|wk ,ykw Kidapedia C|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume8/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 08- Ζώα του χωριού
 ^A^B^Γ|_|wk ,ykw Kidapedia C|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume9/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 09- Ζώα της θάλασσας
 ^A^B^Γ|_|wk ,ykw Kidapedia C|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume10/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 10- Ζώα του δάσους
-^A^B^Γ|_|wk ,ykw Kidapedia G|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume12/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 12- Φύση και διατροφή
-^A^B^Γ|_|wk ,ykw Kidapedia G|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume14/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 14- Διάστημα
+^A^B^Γ|_|wk ,ykw Kidapedia D|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume2/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 02- Ιστορία
+^A^B^Γ|_|wk ,ykw Kidapedia E|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume5/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 05- Μεγάλες εφευρέσεις
+^A^B^Γ|_|wk ,ykw Kidapedia E|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume1/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 01-Πλανήτης γη
+^A^B^Γ|_|wk ,ykw Kidapedia|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume3/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 03- Ιππότες, μάγοι, πειρατές
+^A^B^Γ|_|wk ,ykw Kidapedia|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume4/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 04- Χριστούγεννα
+^A^B^Γ|_|wk ,ykw Kidapedia|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume6/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 06- Σπορ και χόμπι,
 ^A^B^Γ|_|wk ,ykw Kidapedia|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume15/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 15- Μυθολογία
 ^A^B^Γ|_|wk ,ykw Kidapedia|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume23/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 23- Αρχαίοι πολιτισμοί, 
 ^A^B^Γ|_|wk ,ykw Kidapedia G|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume25/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 25- Ζωγράφοι και ζωγραφική, (Δυσκολο -ισως)
@@ -218,6 +217,8 @@ suggest|_|20190204|_|TA BINTEO) : http://www.saferinternet.gr/index.php?parentob
 ^E^ST|_|wk ,ykw Kidapedia ST|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume28/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 28- Ταξίδια στην Ευρώπη,  
 ^A^B^Γ|_|wk ,ykw Kidapedia G|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume29/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 29- Διακοπές στο βουνό,
 ^A^B^Γ|_|wk ,ykw Kidapedia G|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume30/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 30- Διακοπές στη θάλασσα, 
+^A^B^Γ|_|wk ,ykw Kidapedia G|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume12/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 12- Φύση και διατροφή
+^A^B^Γ|_|wk ,ykw Kidapedia G|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume14/index_kd_vol.html "$SWFlocal"pack_A06.html" |_|Kidapedia Ramkid 14- Διάστημα
 
 
 
