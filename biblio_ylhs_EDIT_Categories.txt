@@ -155,7 +155,7 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 
 
 ######|_||_|######## giortes easter ###########
-^A^B^Γ^Δ^E^ST|_|wk32 ,ykw15 easterA|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume20/index_kd_vol.html "$SWFlocal"ramkid_giortes_pasxa_pt1.html"     ___OR(ifCrashes)____ironstartincognito ""$SWFlocal"ramkidpedia_vol20_pasxa1.html "$SWFlocal"ramkid_giortes_pasxa_pt1.html"  @@@@@@|_|pasxa part Α (kids_ePedia32cd Volume20 DIRECT,Ramkid_15may_pasxa_flags) (Γ: τους άρεσε, κάποιοι βαρέθηκαν στα 20λεπτα)
+^A^B^Γ^Δ^E^ST|_|wk32 ,ykw15 easterA|_|ironstartincognito ""$RAMKIDpathprefix"KidsPedia/kids_ePedia32cd/Volume20/index_kd_vol.html "$SWFlocal"ramkid_giortes_pasxa_pt1.html"     ___OR(ifCrashes)____ironstartincognito ""$SWFlocal"ramkidpedia_vol20_pasxa1.html "$SWFlocal"ramkid_giortes_pasxa_pt1.html"  @@@@@@|_|pasxa part Α (kids_ePedia32cd Volume20 DIRECT,Ramkid_15may_pasxa_flags) (άρεσε σε όλους) -ρεκορ σκύλο στον στύλο =1,28sec
 ^A^B^Γ^Δ^E^ST|_|wk33 ykw16,ykw19 easterB,C|_|ironstartincognito ""$SWFgiortes"index_easter.html"|_|pasxa part B ,2-3 μαθήματα
 
 
