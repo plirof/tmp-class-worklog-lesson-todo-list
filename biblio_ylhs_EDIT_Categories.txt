@@ -62,6 +62,11 @@ suggest|_|20181003|_|@@@@ http://educ.swf.dimotiko.tk/education_math_shapes_/mat
 ^A^B|_|wk09 NovA 20181030|_|gcompris 15 :mouse _ψαρια - keyboard ζαρι (τα κουμπιά τους φανηκαν δυσκολα)|_|gcompris Α ΤΡΙΤΗ
 ^A^B^Γ|_|wk34 20181031|_|gcompris  (2 πρωτες επιλογες δεξια) |_|gcompris Β
 ^A^B^Γ|_|20181119|_|gcompris panta me puzzle|_|gcompris C
+^A^B|_|wk09 NovA 20181030|_|gcompris-qt.sh NEW 15 :mouse _ψαρια - keyboard ζαρι (τα κουμπιά τους φανηκαν δυσκολα)|_|!gcompris 0,96 Α 
+^A^B^Γ|_|wk34 20181031|_|gcompris-qt.sh  NEW (2 πρωτες επιλογες δεξια) |_|!gcompris 0,96 Β γράψτε κείμενο
+
+
+
 
 ######|_||_|######## eduactiv8 1,2 ###########
 ^A^B|_|wk04 eduactivΑ|_|/opt/eduActiv8/eduActiv8 Γλωσσικές Τέχνες->Ανακαλύψτε τα γραμματα |_|eduactiv8 A
