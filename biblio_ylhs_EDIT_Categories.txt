@@ -1,4 +1,5 @@
 
+######|_||_|######## Lesson List v190523a ########### |_|
 ######|_||_|######## Mouse Intro Ευκολα Α,Β ########### wk =week of school year
 
 ^A|_|20180913|_|colorgame(sheppardsoftware.com)_preschool.swf ,funbrain_com_SimonSees.swf  ,funbrain_com_PicklePop.swf|_|
@@ -181,8 +182,11 @@ suggest|_|20190204|_|TA BINTEO) : http://www.saferinternet.gr/index.php?parentob
 ^Β^Γ^Δ^E^ST|_|wk28 MarB|_|ironstartincognito ""$SWFlocal"pack_code_rover.html?timer4" |_|coding (made pack_code_rover.html)  απόσταση 54,6-400 εκατ χλμ (ok Δ δημοτικού mars_rover Γ: λίγο δυσκολευτηκε -tiny explorers αρεσε Δ,ΣΤ) (Β τάξη MarB rover -να κάνω 3-5 πρώτες πίστες , Tortuga Τετράγωνο και Σκαλα ) (Rover_nasa ,Tiny-explorers,tortuga.patatakia.tk,TurtlePond ,    )
 ^Γ^Δ^E^ST|_|wk34 AprB|_|ironstartincognito ""$SWFlocal"pack_code_lightbotswf.html?timer4"  ORIG:  ironstartincognito ""$SWFlocal"pack_url_param.html?url1=coding/lightbot-codehour-gr_NoNavUrl.swf\&url2=coding/Tiny-explorers__nice_puzzle_education_unencr_noAds_ok.swf\&url3=http://tortuga.patatakia.tk\&url4=pack_A03.html\&url5=coding/TurtlePond__illuminations.nctm.org.swf\&url6=ΚΩΔΙΚΑΣ"    |_|coding swf lightbot
 
-######|_||_|######## coding 4 tank ###########
-^A^B^Γ^Δ^E^ST|_|wk31 AprA|_|TANK   ironstartincognito ""$GAMESEDU"Code-Commander-gr/index_dot_links.html "$GAMESEDU"blockly-games/el/index.html?lang=el http://pixbot.patatakia.tk "$SWFlocal"pack_A02.html "   ,|_|coding TANK commander (Γ-ΣΤ)lesson  @@@ ^A,^B blockly ,pixbot
+######|_||_|######## coding 4a tank  ###########
+^A^B^Γ^Δ^E^ST|_|wk31 AprA|_|TANK   ironstartincognito ""$GAMESEDU"Code-Commander-gr/index_dot_links.html "$GAMESEDU"blockly-games/el/index.html?lang=el http://pixbot.patatakia.tk "$SWFlocal"pack_A06.html "   ,|_|coding TANK commander (Γ-ΣΤ)lesson  @@@ ^A,^B blockly ,pixbot
+
+######|_||_|######## coding 4b RoboMind Java  ###########
+Γ^Δ^E^ST|_|wk31 AprA|_|/opt/RoboMind6/robomind.sh|_|coding RoboMind (mindstorms) (Γ-ΣΤ)lesson 
 
 
 ######|_||_|######## coding 5 scratch ###########
