@@ -1,9 +1,15 @@
 <?php
 date_default_timezone_set('Europe/Athens'); //added to avoid PHP warning for date 160920
 #####################################################################################
-# Flat File Database Manager 1.2jmod08-190319_shows_selected_&_class_name on list text 190319
+# Flat File Database Manager 1.2jmod11-200108_submit_button
 #
-# changes
+# changes:
+# 1.2jmod11-200108_submit_button option , edit.php , index.php=only view)
+# 1.2jmod10-190410_sorting fix TEXTAREA show outside element if column name =Week (HARDCODED)
+# 1.2jmod10-190409e_LISTWEEKSSCH
+# 1.2jmod10-190408_$show_logical_header shows text in checkboxes (alt to freeze 1st row)
+# 1.2jmod09-190320_sortablejs_sprintf
+# 1.2jmod08-190319_shows_selected_&_class_name on list text
 # 1.2jmod07-LISTQUARTER 190312
 # ver1.2jmod06-RTfilter 190305
 # ver1.2jmod05-Reat time client filter 190224a
@@ -34,7 +40,9 @@ date_default_timezone_set('Europe/Athens'); //added to avoid PHP warning for dat
 # DATE:  Rendered as regular input field. Row format:    Added by jon
 #          title,STRING,length
 # LISTQUARTER:    Rendered as list box or combo box with monthQuarters (not much usefull atm). Row format:
-#          title,LIST,number of rows visible at a time added by Jon 190312      
+#          title,LIST,number of rows visible at a time added by Jon 190312
+# LISTWEEKSSCH:    Rendered as list box or combo box. Row format:
+#          title,LIST,rows visible,colon ":" sep. values  (parama are ignored select options are auto filled $first_week_sept10=37, $last_week_of_year=53 )      
 # Sample data definition file contents:
 # City,LIST,3,City1:City2:City3:City4:City5
 # State,LIST,1,NY:CA:LA
@@ -43,6 +51,7 @@ date_default_timezone_set('Europe/Athens'); //added to avoid PHP warning for dat
 # Comments,TEXT,30:2
 # title,LOGICAL,1,YES:NO
 # website,LINK,30
+# week_school_list,LISTWEEKSSCH,1,5:0:1:2
 # --> $structure_file
 ######################################################################################
 # Fields delimiter
@@ -64,6 +73,10 @@ if (get_magic_quotes_gpc()) {
 if(empty($show_empty_lines))$show_empty_lines=false; //If disabled(false) might have problem if you have empty lines
 if(empty($add_class_to_element))$add_class_to_element=true; //190319 adds class name to each element(so we can add custom js for this element )
 if(empty($show_internal_element_text_outside))$show_internal_element_text_outside=true;
+if(empty($sorttable_js))$sorttable_js=true;
+if(empty($show_logical_header))$show_logical_header=false; //If disabled(false) might have problem if you have empty lines
+if(empty($show_submit_button))$show_submit_button=true;  //200108 index.php:false-read-only / edit.php :true shows submit
+
 
 $structure_tmp = file($structure_file);
 $structure = array();
@@ -162,15 +175,18 @@ echo "<head><title>$data_file</title>
 }
 
 
-</style>
+</style>";
 
-</head>";
+if($sorttable_js) echo'<script src="sorttable.js"></script>'."\n";
+
+echo "</head>";
 echo "<body><h1>$data_file</h1>
-
 ";
 
 echo '<form method="post">';
-echo "\n".'<table id="myTable" border=1 >'."\n";
+$table_class='';
+if($sorttable_js) $table_class=' class="sortable" ';
+echo "\n".'<table id="myTable" '.$table_class.' border=1 >'."\n";
 
 // output header
 echo '<tr >';
@@ -220,6 +236,7 @@ foreach($data as $datakey => $line) {
 #          title,TEXT,columns,rows
 
       case 'TEXT':
+        if($show_internal_element_text_outside && (strpos($structure[$key]['name'], 'Week') !== false)  )echo ''.substr($item, 0, 8).'<BR>'; //HARDCODED Show ONLY if column name contains 'Week Suggest' in name
         $rc = explode(':',$structure[$key]['format']);
         $cols = trim($rc[0]);
         $rows = trim($rc[1]);
@@ -231,6 +248,7 @@ foreach($data as $datakey => $line) {
     case 'LOGICAL':
         $val_yes = trim($structure[$key]['values'][0]);
         echo '<input onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" type="checkbox" '.(($item == $val_yes) ? 'checked' : '').' value="'.$val_yes.'" />';
+        if($show_logical_header) echo $structure[$key]['name'];// show header column name (alternative to freeze first row)
         break;
 // +++++++++++++++++++++++++ added by john to show a link (adds HTTP:// ) 20160428+++++++++++++++++++++++        
 # LINK:  Rendered as regular input field (like STRING) but creates a link. Row format:
@@ -247,16 +265,18 @@ foreach($data as $datakey => $line) {
 # LIST:    Rendered as list box or combo box. Row format:
 #          title,LIST,number of rows visible at a time,colon ":" separated allowed values   
       case 'LIST':
+        if($show_internal_element_text_outside)echo '<b>'.sprintf("%02d", $item).'</b><BR>'; 
         echo '<select onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" '.$class_name.' size="'.$structure[$key]['format'].'">';
         foreach($structure[$key]['values'] as $value) {
           echo '<option value="'.$value.'" '.($value == $item ? 'selected' : '').'>'.$value.'</option>';
         }
         echo '</select>';
-        if($show_internal_element_text_outside)echo '<BR><b>'.$item.'</b>'; 
+        
         break;
 # LISTQUARTER:    Rendered as list box or combo box with monthQuarters (not much usefull atm). Row format:
 #          title,LIST,number of rows visible at a time,colon ":" separated allowed values   
       case 'LISTQUARTER':
+        if($show_internal_element_text_outside)echo '<b>'.sprintf("%02d", $item).'</b><BR>';
       	$month_weeks=array("---");
       	array_push($month_weeks,"SepA","SepB","SepC","SepD","OctA","OctB","OctC","OctD","NovA","NovB","NovC","NovD","DecA","DecB","DecC","DecD","JanB","JanC","JanD","FebA","FebB","FebC","FebD","MarA","MarB","MarC","MarD","AprA","AprB","AprC","AprD","MayA","MayB","MayC","MayD","JunA","JunB","JunC","JunD");
         echo '<select onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" '.$class_name.' size="'.$structure[$key]['format'].'">';
@@ -265,7 +285,41 @@ foreach($data as $datakey => $line) {
         	echo '<option value="'.$value.'" '.($value == $item ? 'selected' : '').'>'.$value.'</option>';
         }
         echo '</select>';
-        break;        
+        break;
+# LISTWEEKSSCH:    Rendered as list box or combo box with monthQuarters (not much usefull atm). Row format:
+#          title,LIST,number of rows visible at a time,colon ":" separated allowed values  (VALUES are Ignored in LISTWEEKSSCH)  
+      case 'LISTWEEKSSCH':
+        if($show_internal_element_text_outside)echo '<b>'.sprintf("%02d", $item).'</b><BR>';
+        if(empty($first_week_sept10)) $first_week_sept10=37; //year 2019  week_num of sept 10
+        if(empty($last_week_of_year)) $last_week_of_year=53; //year 2019  last week of year
+
+        $week_year2week_sch=array();
+        $week_sch2week_year=array();
+
+        $week_year2week_sch["99"]="99"; //means unsorted
+        $week_sch2week_year["99"]="99"; //means unsorted
+
+        $counter=$first_week_sept10;
+        for($i=0;$i<38;$i++)
+        {
+          //echo '["'.sprintf("%02d", $counter).'"]=>"'.sprintf("%02d", $i).'", ';
+          $week_year2week_sch[sprintf("%02d", $counter)]=sprintf("%02d", $i);
+          $week_sch2week_year[sprintf("%02d", $i)]=sprintf("%02d", $counter);
+          $counter++;
+          if($counter>$last_week_of_year) $counter=01;
+        }
+        
+        $week_year2week_sch["77"]="77"; //means to check
+        $week_sch2week_year["77"]="77"; //means to check
+
+        echo '<select onchange="cdf('.$datakey.')" name="'.$name.'['.$datakey.']" '.$class_name.' size="'.$structure[$key]['format'].'">';
+        foreach($week_sch2week_year as $key=>$value) {
+          //echo '<option value="'.$value.'" '.($value == $item ? 'selected' : '').'>'.$value.'</option>';
+          echo '<option value="'.sprintf("%02d", $key).'" '.(sprintf("%02d", $key) == sprintf("%02d", $item) ? 'selected' : '').'>'.$key ."(".$week_sch2week_year[$key].")".'</option>';
+        }
+        echo '</select>';
+        //echo "hello";
+        break;                 
     }
     echo '</td>';
   }  // end of   foreach ($items as $key => $item) {
@@ -280,7 +334,7 @@ foreach($data as $datakey => $line) {
 echo '<tr><td colspan=255 align=center></td></tr>';
 print '<input type="text" id="myRTFilterInput" onkeyup="myRTFilterFunction()" placeholder="Search for names..">';
 echo '</table>';
-echo '<center><input type="submit" name="submit" value="Save Changes and Delete marked" style="border:1px solid red"></center>';
+if ($show_submit_button) {echo '<center><input type="submit" name="submit" value="Save Changes and Delete marked" style="border:1px solid red"></center>';} else {echo '<center>READ ONLY MODE</center>';}//200108 show/hide submit button'
 echo "</form>
 
 <script>

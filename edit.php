@@ -7,17 +7,16 @@
 //$show_internal_element_text_outside=true; // shows text outside teaxtare/input field (this is needed for sort to work)
 //$show_submit_button=true ; //shows/hide submit button 
 
-
 $show_logical_header=true;
 $show_internal_element_text_outside=true; // show list text outiside select box (for sorting)
-
+$show_submit_button=true ; //shows/hide submit button 
 
 $first_week_sept10=37; //for LISTWEEKSSCH
 $last_week_of_year=53; //for LISTWEEKSSCH
 
 
+$show_submit_button=true;
 
-$show_submit_button=false ; // make READ ONLY index.php
 //load main file
 require ('biblio_ylhs.php');
 
