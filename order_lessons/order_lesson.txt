@@ -1,4 +1,4 @@
-######|_||_|######## Mouse Intro Ευκολα Α,Β ###########191120updated  wk =week of school year|_||_|99|_|99|_|99
+######|_||_|######## Mouse Intro Ευκολα Α,Β ###########200109updated  wk =week of school year|_||_|99|_|99|_|99
 ^A|_|20180913|_|colorgame(sheppardsoftware.com)_preschool.swf ,funbrain_com_SimonSees.swf  ,funbrain_com_PicklePop.swf|_||_|99|_|99|_|99
 suggest|_|20190204|_|http://ts.sch.gr/repo/online-gcompages/^glossa-a-b/start.html   ,  http://sivasxoleio.blogspot.com/2015/03/blog-post_67.html , http://mikrapaidia.gr/ccs3/ *** gia a,b taksi   ,   CUSTOM 2 check : http://www.blendedplay.com/#|_|ΕΚΠΑΙΔΕΥΤΙΚΑ παιχνίδια ts.sch.gr @@@|_|99|_|99|_|99
 |_||_||_||_|99|_|99|_|99
@@ -102,7 +102,16 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 ^Γ^Δ^E^ST|_|word|_|http://192.168.1.200/tinymce_class/tinymce.html?probeserver&file=lesson05|_|word tinymce lesson05 argonaytiki -Αργοναυτική εκστρατεία.|_|99|_|99|_|99
 ^Γ^Δ^E^ST|_|word|_|ironstartincognito "http://192.168.1.200/tinymce_class/tinymce.html?probeserver\&file=giorti25mart01"   #___ alt online ___ironstartincognito "https://plirof.github.io/tinymce_class/tinymce.html?probeserver\&file=giorti25mart01"|_|word tinymce 25μαρτίου Θούριος , https://plirof.github.io/tinymce_class/tinymce.html?probeserver&file=giorti25mart01|_|99|_|27|_|27
 ^Γ^Δ^E^ST|_|word|_|ironstartincognito "http://192.168.1.200/tinymce_class/tinymce.html?probeserver\&file=giorti28oct01"  #___ alt online ___ironstartincognito "https://plirof.github.io/tinymce_class/tinymce.html?probeserver\&file=giorti28oct01"|_|word tinymce 28okt  , https://plirof.github.io/tinymce_class/tinymce.html?probeserver&file=giorti28oct01|_|99|_|06|_|06
+^Γ^Δ^E^ST|_|word|_|ironstartincognito "http://192.168.1.200/tinymce_class/tinymce.html?probeserver\&file=month_jan"   #___ alt online ___ironstartincognito "https://plirof.github.io/tinymce_class/tinymce.html?probeserver\&file=month_jan"|_|word tinymce month_jan|_|99|_|99|_|99
+^Γ^Δ^E^ST|_|word|_|ironstartincognito "http://192.168.1.200/tinymce_class/tinymce.html?probeserver\&file=text_tsanta_sxoleio"   #___ alt online ___ironstartincognito "https://plirof.github.io/tinymce_class/tinymce.html?probeserver\&file=text_tsanta_sxoleio"|_|word tinymce text_tsanta_sxoleio|_|99|_|99|_|99
 |_||_|$OOOKIDS$OOOKIDSpathprefix = ooo4kids1.3 -n /opt/lampp/htdocs/askiseis_office/OFFICE_extra_files/xmas-rountolf-typing.doc|_|sample OpenOfficeKids epoptes command to open word|_|99|_|99|_|99
+^Γ^Δ^E^ST|_|word|_|CLONE empty |_|word empty|_|99|_|99|_|99
+^Γ^Δ^E^ST|_|word|_|CLONE empty |_|word empty|_|99|_|99|_|99
+^Γ^Δ^E^ST|_|word|_|CLONE empty |_|word empty|_|99|_|99|_|99
+^Γ^Δ^E^ST|_|word|_|CLONE empty |_|word empty|_|99|_|99|_|99
+^Γ^Δ^E^ST|_|word|_|CLONE empty |_|word empty|_|99|_|99|_|99
+^Γ^Δ^E^ST|_|word|_|CLONE empty |_|word empty|_|99|_|99|_|99
+^Γ^Δ^E^ST|_|word|_|CLONE empty |_|word empty|_|99|_|99|_|99
 ######|_||_|######## Excel ###########|_||_|99|_|99|_|99
 ^A^B^Γ|_|wk27 JanC+ excel0|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/excel_A-B-NomismatikoSystima.xls"|_|excelABΓ1 - Χρηματικά Ποσά|_|27|_|27|_|99
 ^Γ^Δ^E^ST|_|wk35 excel1|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/excel_1.1_pinakas_mathitwn.xls"|_|excel1|_|99|_|35|_|35
