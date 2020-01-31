@@ -112,8 +112,6 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 ^Γ^Δ^E^ST|_|word|_|CLONE empty|_|word empty|_|99|_|99|_|99
 ^Γ^Δ^E^ST|_|word|_|CLONE empty|_|word empty|_|99|_|99|_|99
 ^Γ^Δ^E^ST|_|word|_|CLONE empty|_|word empty|_|99|_|99|_|99
-^Γ^Δ^E^ST|_|word|_|CLONE empty|_|word empty|_|99|_|99|_|99
-^Γ^Δ^E^ST|_|word|_|CLONE empty|_|word empty|_|99|_|99|_|99
 ######|_||_|######## Excel ###########|_||_|99|_|99|_|99
 ^A^B^Γ|_|wk27 JanC+ excel0|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/excel_A-B-NomismatikoSystima.xls"|_|excelABΓ1 - Χρηματικά Ποσά|_|27|_|27|_|99
 ^Γ^Δ^E^ST|_|wk35 excel1|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/excel_1.1_pinakas_mathitwn.xls"|_|excel1|_|99|_|35|_|35
