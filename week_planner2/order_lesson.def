@@ -1,0 +1,4 @@
+week,LISTWEEKSSCH,1,0:99
+Entry,TEXT,60:2
+Comments,TEXT,30:2
+level,TEXT,20:2
