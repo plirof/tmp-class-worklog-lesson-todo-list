@@ -1,4 +1,4 @@
-######|_||_|######## Mouse Intro Ευκολα Α,Β ###########200329updated(latest should be on github)  wk =week of school year|_||_|99|_|99|_|99
+######|_||_|######## Mouse Intro Ευκολα Α,Β ###########200109updated  wk =week of school year|_||_|99|_|99|_|99
 ^A|_|20180913|_|colorgame(sheppardsoftware.com)_preschool.swf ,funbrain_com_SimonSees.swf  ,funbrain_com_PicklePop.swf|_||_|99|_|99|_|99
 suggest|_|20190204|_|http://ts.sch.gr/repo/online-gcompages/^glossa-a-b/start.html   ,  http://sivasxoleio.blogspot.com/2015/03/blog-post_67.html , http://mikrapaidia.gr/ccs3/ *** gia a,b taksi   ,   CUSTOM 2 check : http://www.blendedplay.com/#|_|ΕΚΠΑΙΔΕΥΤΙΚΑ παιχνίδια ts.sch.gr @@@|_|99|_|99|_|99
 |_||_||_||_|99|_|99|_|99
@@ -68,15 +68,6 @@ suggest|_|20181003|_|@@@@ http://educ.swf.dimotiko.tk/education_math_shapes_/mat
 ^Γ|_|OctC wk07|_|tuxmath(training αρχή-ως substraction up to 20) , labrat,soccer-balls(projectile).swf|_|Tuxmath 1Γ|_|99|_|07|_|99
 ^Δ^E^ST|_|wk07 OctC|_|Tuxmath (arxisa apo DoubleDigit Addition ως οσο παει), labrat,assault typing,soccer-balls(projectile).swf|_|Tuxmath 1Δ-E-ST|_|99|_|99|_|07
 |_||_||_||_|99|_|99|_|99
-######|_||_|######## Code.org διάφορα μαθήματα ###########|_||_|99|_|99|_|99
-|_|code.org|_|https://studio.code.org/s/aquatic/reset|_|hourofcode minecraft 1 - aquatic|_|00|_|00|_|00
-|_|code.org|_|https://studio.code.org/s/hero/reset|_|hourofcode minecraft 2 -hero (arcade +code) (GREEK)|_|00|_|00|_|00
-|_|code.org|_|https://studio.code.org/s/mc/reset|_|hourofcode minecraft 3 -minecraft (GREEK)|_|00|_|00|_|00
-|_|code.org|_|https://studio.code.org/s/minecraft/reset|_|hourofcode minecraft 4 -Σχεδιαστής minecraft (GREEK)|_|00|_|00|_|00
-^Γ^Δ^E^ST|_|code.org|_|CLONE empty|_|word empty|_|99|_|99|_|99
-^Γ^Δ^E^ST|_|code.org|_|CLONE empty|_|word empty|_|99|_|99|_|99
-^Γ^Δ^E^ST|_|code.org|_|CLONE empty|_|word empty|_|99|_|99|_|99
-^Γ^Δ^E^ST|_|code.org|_|CLONE empty|_|word empty|_|99|_|99|_|99
 ######|_||_|######## HourOfCode 6-9 μαθήματα ###########|_||_|99|_|99|_|99
 ^ST1|_|wk34 25+|_|ΠΟΛΛΑ ΜΑΖΙ (τελος χρονιάς)ΣΤ1  https://studio.code.org/hoc/1 (angry birds - τους αρεσε) , (ΣΤ2 -ΠΑΡΑΣΚΕΥΗ ΔΕΝ ΕΓΙΝΕ ΜΑΘΗΜΑ)|_|ΠΕΜΠΤΗ,|_|99|_|99|_|34
 suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https://studio.code.org/hoc/1 (θελει firefox ESR +)|_|ΠΕΜΠΤΗ,|_|99|_|99|_|99
@@ -117,8 +108,8 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 ^Γ^Δ^E^ST|_|word|_|ironstartincognito "http://192.168.1.200/tinymce_class/tinymce.html?probeserver\&file=month_feb"   #___ alt online ___ironstartincognito "https://plirof.github.io/tinymce_class/tinymce.html?probeserver\&file=month_feb"|_|word tinymce month_feb|_|99|_|99|_|99
 ^Γ^Δ^E^ST|_|word|_|ironstartincognito "http://192.168.1.200/tinymce_class/tinymce.html?probeserver\&file=month_mar"   #___ alt online ___ironstartincognito "https://plirof.github.io/tinymce_class/tinymce.html?probeserver\&file=month_mar"|_|word tinymce month_mar|_|99|_|99|_|99
 ^Γ^Δ^E^ST|_|word|_|ironstartincognito "http://192.168.1.200/tinymce_class/tinymce.html?probeserver\&file=month_apr"   #___ alt online ___ironstartincognito "https://plirof.github.io/tinymce_class/tinymce.html?probeserver\&file=month_apr"|_|word tinymce month_apr|_|99|_|99|_|99
-^Γ^Δ^E^ST|_|word-XMAS|_|ironstartincognito "http://192.168.1.200/tinymce_class/tinymce.html?probeserver\&file=xmas_trigona"   #___ alt online ___ironstartincognito "https://plirof.github.io/tinymce_class/tinymce.html?probeserver\&file=xmas_trigona"|_|word tinymce xmas_trigona|_|99|_|99|_|99
-^Γ^Δ^E^ST|_|word-XMAS|_|ironstartincognito "http://192.168.1.200/tinymce_class/tinymce.html?probeserver\&file=xmas_rudolf"   #___ alt online ___ironstartincognito "https://plirof.github.io/tinymce_class/tinymce.html?probeserver\&file=xmas_rudolf"|_|word tinymce xmas_rudolf Ρούντολφ το ελαφάκι|_|99|_|99|_|99
+^Γ^Δ^E^ST|_|word|_|CLONE empty|_|word empty|_|99|_|99|_|99
+^Γ^Δ^E^ST|_|word|_|CLONE empty|_|word empty|_|99|_|99|_|99
 ^Γ^Δ^E^ST|_|word|_|CLONE empty|_|word empty|_|99|_|99|_|99
 ^Γ^Δ^E^ST|_|word|_|CLONE empty|_|word empty|_|99|_|99|_|99
 ^Γ^Δ^E^ST|_|word|_|CLONE empty|_|word empty|_|99|_|99|_|99
@@ -133,23 +124,20 @@ suggest|_|20181025|_|(ΕΠΑΝΝΑΛΗΠΤΙΚΟ)Hour of code angry birds https:
 ^Γ^Δ^E^ST|_|excel|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/xls_XXXXXXXX.xls"|_|excel2|_|99|_|99|_|99
 ^Γ^Δ^E^ST|_|excel|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/xls_XXXXXXXX.xls"|_|excel2|_|99|_|99|_|99
 ^Γ^Δ^E^ST|_|excel|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/xls_XXXXXXXX.xls"|_|excel2|_|99|_|99|_|99
-|_|excel-online|_||_||_|99|_|99|_|99
-|_|excel-online|_||_||_|99|_|99|_|99
-|_|excel-online|_||_||_|99|_|99|_|99
-|_|excel-online|_||_||_|99|_|99|_|99
+|_||_||_||_|99|_|99|_|99
 ######|_||_|######## giortes xmas###########|_||_|99|_|99|_|99
-^A^B^Γ^Δ^E^ST|_|wk14 DecA 20181217|_|Xristougenniatikes drasthriothtes (oles oi takseis) , christmas hidden objects , ζωγραφιστε χριστουγ κάρτες ramkid ____ironstartincognito "https://plirof.github.io/tinymce_class/tinymce.html?probeserver\&file=xmas_rudolf"" "$SWFlocal"ramkidpedia_vol04_xmas1.html "$SWFlocal"ramkid_giortes_xmas_pt1.html"|_|giortes xmas Α !!!!!word rountolf.doc NA ΦΤΙΑΞΩ το ramkid_giortes_xmas_pt1.html*ΘΕΛΕΙ Kidspedia DVD ***|_|13|_|13|_|13
-^A^B^Γ^Δ^E^ST|_|wk15 ,wk16 DecB,DecC 20181214|_|ironstartincognito "https://plirof.github.io/tinymce_class/tinymce.html?probeserver\&file=xmas_rudolf"" "$SWFgiortes"index_xmas.html?probeserver\&timer3"|_|giortes xmas Β : 2-3 μαθήματα (μετά τέλος ασκήσεων) tinymce Ρουντολφ ελαφάκι & ironstartincognito ""$SWFgiortes"index_xmas.html"|_|14|_|14|_|14
+^A^B^Γ^Δ^E^ST|_|wk14 DecA 20181217|_|Xristougenniatikes drasthriothtes (oles oi takseis) , christmas hidden objects , ζωγραφιστε χριστουγ κάρτες ramkid cd "/tmp/";wget --directory-prefix="/tmp/" -O "a" "http://192.168.1.200/askiseis_office/OFFICE_extra_files/xmas-rountolf-typing.doc"; ooo4kids1.3 -n /tmp/a &  ____ ironstartincognito ""$SWFlocal"ramkidpedia_vol04_xmas1.html "$SWFlocal"ramkid_giortes_xmas_pt1.html"|_|giortes xmas Α !!!!!word rountolf.doc NA ΦΤΙΑΞΩ το ramkid_giortes_xmas_pt1.html*ΘΕΛΕΙ Kidspedia DVD ***|_|13|_|13|_|13
+^A^B^Γ^Δ^E^ST|_|wk15 ,wk16 DecB,DecC 20181214|_|ironstartincognito ""$SWFgiortes"index_xmas.html?probeserver\&timer3"|_|giortes xmas Β : 2-3 μαθήματα (μετά τέλος ασκήσεων)  ironstartincognito ""$SWFgiortes"index_xmas.html"|_|14|_|14|_|14
 ^A^B^Γ^Δ^E^ST|_|wk19 JanB 20190108|_|15o tuxpaint : βασιλόπιτα, Κάρτα με ευχές Νέα χρονιά  ^A, ^Δ1,^Δ2,  ^Ε1,^Ε2,^B1,^B2|_|giortes xmas C|_|17|_|17|_|17
 ^A^B^Γ^Δ^E^ST|_||_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/xmas-rountolf-typing.doc"|_|word Ρουντολφ ελαφάκι Πληκτρολόγηση|_|14|_|14|_|14
 ######|_||_|######## giortes halloween ###########|_||_|99|_|99|_|99
-^A^B^Γ^Δ^E^ST|_|wk25 FebC|_|ironstartincognito ""$SWFgiortes"other/ramkid_invitation_party/index.html "$SWFpath"ramkid_giortes_apokries_pt1.html http://plirof.github.io/tinymce_class/tinymce.html?probeserver\&file=giorti_apokries01"|_|apokries part 1 ramkid,prosklisi  (KIDS epedia απόκριες κολλάει συνέχεια το flash Volume13/index_kd_vol.html)|_|24|_|24|_|24
-^A^B^Γ^Δ^E^ST|_|wk26,wk27 FebD (meta apokries)|_|ironstartincognito ""$SWFgiortes"index_halloween.html?probeserver\&timer3 http://plirof.github.io/tinymce_class/tinymce.html?probeserver\&file=giorti_apokries01"|_|apokries part 2, games two weeks 20190225-20190308|_|25|_|25|_|25
+^A^B^Γ^Δ^E^ST|_|wk25 FebC|_|ironstartincognito ""$SWFgiortes"other/ramkid_invitation_party/index.html "$SWFpath"ramkid_giortes_apokries_pt1.html"|_|apokries part 1 ramkid,prosklisi  (KIDS epedia απόκριες κολλάει συνέχεια το flash Volume13/index_kd_vol.html)|_|24|_|24|_|24
+^A^B^Γ^Δ^E^ST|_|wk26,wk27 FebD (meta apokries)|_|ironstartincognito ""$SWFgiortes"index_halloween.html?probeserver\&timer3"|_|apokries part 2, games two weeks 20190225-20190308|_|25|_|25|_|25
 |_||_|ironstartincognito "http://192.168.1.200/tinymce_class/tinymce.html?probeserver\&file=giorti_apokries01"   #___ alt online ___ironstartincognito "https://plirof.github.io/tinymce_class/tinymce.html?probeserver\&file=giorti_apokries01"|_|word tinymce giorti_apokries01|_|99|_|99|_|99
 |_||_||_||_|99|_|99|_|99
 ######|_||_|######## giortes easter ###########|_||_|99|_|99|_|99
 ^A^B^Γ^Δ^E^ST|_|wk32 ,ykw15 easterA|_|ironstartincognito "http://192.168.1.200/ramkid/KidsPedia/kids_ePedia32cd/Volume20/index_kd_vol.html "$SWFlocal"ramkid_giortes_pasxa_pt1.html"     ___OR(ifCrashes)____ironstartincognito ""$SWFlocal"ramkidpedia_vol20_pasxa1.html "$SWFlocal"ramkid_giortes_pasxa_pt1.html"  @@@@@@|_|pasxa part Α (kids_ePedia32cd Volume20 DIRECT,Ramkid_15may_pasxa_flags) (Γ: τους άρεσε, κάποιοι βαρέθηκαν στα 20λεπτα)|_|30|_|30|_|30
-^A^B^Γ^Δ^E^ST|_|wk33 ykw16,ykw19 easterB,C|_|ironstartincognito ""$SWFgiortes"index_easter.html?probeserver\&timer3 https://plirof.github.io/tinymce_class/tinymce.html?probeserver&file=giorti_pasxa01"|_|pasxa part B ,2-3 μαθήματα  tinymce pasxa02 is after pasxa (proseyxh)|_|31|_|31|_|31
+^A^B^Γ^Δ^E^ST|_|wk33 ykw16,ykw19 easterB,C|_|ironstartincognito ""$SWFgiortes"index_easter.html?probeserver\&timer3"|_|pasxa part B ,2-3 μαθήματα|_|31|_|31|_|31
 |_||_||_||_|99|_|99|_|99
 ######|_||_|######## special days (recycle etc) ###########|_||_|99|_|99|_|99
 ^Γ^Δ^E^ST|_|MarD prin 25martioy|_|$OOOKIDS$OOOKIDSpathprefix"OFFICE_extra_files/25martioy-copy-paste-easy-01.doc"|_|word  QUICK copy-paste 25martioy|_|99|_|99|_|99
@@ -228,7 +216,3 @@ suggest|_|toDo|_|translate Robotopia node.js gamesedu github|_||_|99|_|99|_|99
 suggest|_|toDo|_|translate dwarfmaze gamesedu github|_||_|99|_|99|_|99
 dim-all|_||_|http://192.168.1.200/swf/ramkid_selection_swf/ramkid169_editor.swf   ,   ramkid_basics_wor_proc!!.swf      <a href="http://192.168.1.200/swf/ramkid_selection_swf/ramkid169_editor.swf" target="sideframe1">ΓΡΑΨΤΕ ΚΕΙΜΕΝΟ<br>στην γαλάζια σελίδα ramkid169_editor</a>|_|simple word editor flash swf|_|00|_|00|_|00
 |_||_|cd "/tmp/";wget --directory-prefix="/tmp/" -O "a" "http://192.168.1.200/askiseis_office/OFFICE_extra_files/xmas-rountolf-typing.doc"; ooo4kids1.3 -n /tmp/a|_|epoptes command to download and open an office file|_|00|_|00|_|00
-|_||_|Xristougenniatikes drasthriothtes (oles oi takseis) , christmas hidden objects , ζωγραφιστε χριστουγ κάρτες ramkid cd "/tmp/";wget --directory-prefix="/tmp/" -O "a" "http://192.168.1.200/askiseis_office/OFFICE_extra_files/xmas-rountolf-typing.doc"; ooo4kids1.3 -n /tmp/a &  ____ ironstartincognito ""$SWFlocal"ramkidpedia_vol04_xmas1.html "$SWFlocal"ramkid_giortes_xmas_pt1.html"|_|OLD giortes xmas Α !!!!!word rountolf.doc NA ΦΤΙΑΞΩ το ramkid_giortes_xmas_pt1.html*ΘΕΛΕΙ Kidspedia DVD ***|_|00|_|00|_|00
-|_||_|ironstartincognito "http://drum1.patatakia.tk http://protracker.patatakia.tk "$SWFlocal"pack_A06.html?probeserver"|_|Music 1 - drum machine online (alt https://plirof.github.io/drum-machine-javascript/)|_|00|_|00|_|00
-|_||_|HammerHead_wine32_with_wineserver.sh;HammerHead_wine32.sh|_|Music 1b - HammerHead local wine32|_|00|_|00|_|00
-|_||_|ironstartincognito "http://stick2.patatakia.tk  "$SWFlocal"pack_gfx1.html?probeserver\&timer2"|_|GFX 3 Stick2 animation Javascript online (alt http://gamesedu.github.io/stick2animator/index.html --need chromium)|_|00|_|00|_|00
